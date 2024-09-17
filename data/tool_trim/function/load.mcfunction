@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Tool Trim datapack has been reloaded","bold":true,"color":"white"}]
