@@ -1,15 +1,15 @@
 {
-    "values": [
-      "#minecraft:foot_armor",
-      "#minecraft:leg_armor",
-      "#minecraft:chest_armor",
-      "#minecraft:head_armor",
-      "#minecraft:axes",
-      "#minecraft:hoes",
-      "#minecraft:pickaxes",
-      "#minecraft:shovels",
-      "#minecraft:swords",
-      "minecraft:bow",
-      "minecraft:crossbow"
-    ]
-  }
+  "values": [
+    "#minecraft:foot_armor",
+    "#minecraft:leg_armor",
+    "#minecraft:chest_armor",
+    "#minecraft:head_armor",
+    "#minecraft:axes",
+    "#minecraft:hoes",
+    "#minecraft:pickaxes",
+    "#minecraft:shovels",
+    "#minecraft:swords",
+    "minecraft:bow",
+    "minecraft:crossbow"
+  ]
+}
