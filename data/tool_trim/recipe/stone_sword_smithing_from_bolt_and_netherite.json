@@ -12,7 +12,7 @@
   "result": {
     "id": "minecraft:stone_sword",
     "components": {
-      "minecraft:custom_model_data": 54,
+      "custom_model_data": 54,
       "minecraft:trim": {
         "material": "minecraft:netherite",
         "pattern": "minecraft:bolt"

@@ -111,7 +111,7 @@ async function writeItemRecipes() {
           result: {
             id: `minecraft:${tool}`,
             components: {
-              'minecraft:custom_model_data': counter++,
+              custom_model_data: counter++,
               'minecraft:trim': {
                 material: `minecraft:${material}`,
                 pattern: `minecraft:${trim}`

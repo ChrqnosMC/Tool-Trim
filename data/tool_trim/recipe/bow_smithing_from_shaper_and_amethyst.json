@@ -12,7 +12,7 @@
   "result": {
     "id": "minecraft:bow",
     "components": {
-      "minecraft:custom_model_data": 170,
+      "custom_model_data": 170,
       "minecraft:trim": {
         "material": "minecraft:amethyst",
         "pattern": "minecraft:shaper"

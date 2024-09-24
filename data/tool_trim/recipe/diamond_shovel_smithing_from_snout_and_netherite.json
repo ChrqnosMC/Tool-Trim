@@ -12,7 +12,7 @@
   "result": {
     "id": "minecraft:diamond_shovel",
     "components": {
-      "minecraft:custom_model_data": 49,
+      "custom_model_data": 49,
       "minecraft:trim": {
         "material": "minecraft:netherite",
         "pattern": "minecraft:snout"

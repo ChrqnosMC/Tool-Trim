@@ -12,7 +12,7 @@
   "result": {
     "id": "minecraft:golden_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 137,
+      "custom_model_data": 137,
       "minecraft:trim": {
         "material": "minecraft:diamond",
         "pattern": "minecraft:silence"

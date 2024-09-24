@@ -12,7 +12,7 @@
   "result": {
     "id": "minecraft:iron_axe",
     "components": {
-      "minecraft:custom_model_data": 148,
+      "custom_model_data": 148,
       "minecraft:trim": {
         "material": "minecraft:lapis",
         "pattern": "minecraft:coast"

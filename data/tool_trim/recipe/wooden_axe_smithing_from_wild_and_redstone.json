@@ -12,7 +12,7 @@
   "result": {
     "id": "minecraft:wooden_axe",
     "components": {
-      "minecraft:custom_model_data": 57,
+      "custom_model_data": 57,
       "minecraft:trim": {
         "material": "minecraft:redstone",
         "pattern": "minecraft:wild"

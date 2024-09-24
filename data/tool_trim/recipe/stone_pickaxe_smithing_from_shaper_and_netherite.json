@@ -12,7 +12,7 @@
   "result": {
     "id": "minecraft:stone_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 44,
+      "custom_model_data": 44,
       "minecraft:trim": {
         "material": "minecraft:netherite",
         "pattern": "minecraft:shaper"

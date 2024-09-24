@@ -12,7 +12,7 @@
   "result": {
     "id": "minecraft:diamond_hoe",
     "components": {
-      "minecraft:custom_model_data": 88,
+      "custom_model_data": 88,
       "minecraft:trim": {
         "material": "minecraft:copper",
         "pattern": "minecraft:spire"
