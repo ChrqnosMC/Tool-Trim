@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:shaper_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:diamond_sword"
+  },
+  "addition": {
+    "item": "minecraft:copper"
+  },
+  "result": {
+    "id": "minecraft:diamond_sword",
+    "components": {
+      "minecraft:custom_model_data": 80,
+      "minecraft:trim": {
+        "material": "minecraft:copper",
+        "pattern": "minecraft:shaper"
+      }
+    }
+  }
+}

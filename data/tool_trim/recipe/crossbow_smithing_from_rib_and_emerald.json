@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:rib_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:crossbow"
+  },
+  "addition": {
+    "item": "minecraft:emerald"
+  },
+  "result": {
+    "id": "minecraft:crossbow",
+    "components": {
+      "minecraft:custom_model_data": 122,
+      "minecraft:trim": {
+        "material": "minecraft:emerald",
+        "pattern": "minecraft:rib"
+      }
+    }
+  }
+}

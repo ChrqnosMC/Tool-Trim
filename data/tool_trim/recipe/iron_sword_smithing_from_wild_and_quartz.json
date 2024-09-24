@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:wild_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:iron_sword"
+  },
+  "addition": {
+    "item": "minecraft:quartz"
+  },
+  "result": {
+    "id": "minecraft:iron_sword",
+    "components": {
+      "minecraft:custom_model_data": 3,
+      "minecraft:trim": {
+        "material": "minecraft:quartz",
+        "pattern": "minecraft:wild"
+      }
+    }
+  }
+}

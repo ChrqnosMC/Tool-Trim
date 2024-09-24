@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:bolt_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:iron_pickaxe"
+  },
+  "addition": {
+    "item": "minecraft:gold"
+  },
+  "result": {
+    "id": "minecraft:iron_pickaxe",
+    "components": {
+      "minecraft:custom_model_data": 108,
+      "minecraft:trim": {
+        "material": "minecraft:gold",
+        "pattern": "minecraft:bolt"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:vex_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:iron_hoe"
+  },
+  "addition": {
+    "item": "minecraft:amethyst"
+  },
+  "result": {
+    "id": "minecraft:iron_hoe",
+    "components": {
+      "minecraft:custom_model_data": 164,
+      "minecraft:trim": {
+        "material": "minecraft:amethyst",
+        "pattern": "minecraft:vex"
+      }
+    }
+  }
+}

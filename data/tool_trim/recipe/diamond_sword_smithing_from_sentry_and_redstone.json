@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:sentry_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:diamond_sword"
+  },
+  "addition": {
+    "item": "minecraft:redstone"
+  },
+  "result": {
+    "id": "minecraft:diamond_sword",
+    "components": {
+      "minecraft:custom_model_data": 55,
+      "minecraft:trim": {
+        "material": "minecraft:redstone",
+        "pattern": "minecraft:sentry"
+      }
+    }
+  }
+}

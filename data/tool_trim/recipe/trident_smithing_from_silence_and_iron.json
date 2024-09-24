@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:silence_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:trident"
+  },
+  "addition": {
+    "item": "minecraft:iron"
+  },
+  "result": {
+    "id": "minecraft:trident",
+    "components": {
+      "minecraft:custom_model_data": 29,
+      "minecraft:trim": {
+        "material": "minecraft:iron",
+        "pattern": "minecraft:silence"
+      }
+    }
+  }
+}

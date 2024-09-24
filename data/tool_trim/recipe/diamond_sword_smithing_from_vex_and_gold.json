@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:vex_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:diamond_sword"
+  },
+  "addition": {
+    "item": "minecraft:gold"
+  },
+  "result": {
+    "id": "minecraft:diamond_sword",
+    "components": {
+      "minecraft:custom_model_data": 92,
+      "minecraft:trim": {
+        "material": "minecraft:gold",
+        "pattern": "minecraft:vex"
+      }
+    }
+  }
+}

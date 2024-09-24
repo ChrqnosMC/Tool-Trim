@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:snout_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:iron_axe"
+  },
+  "addition": {
+    "item": "minecraft:gold"
+  },
+  "result": {
+    "id": "minecraft:iron_axe",
+    "components": {
+      "minecraft:custom_model_data": 103,
+      "minecraft:trim": {
+        "material": "minecraft:gold",
+        "pattern": "minecraft:snout"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:wild_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:iron_pickaxe"
+  },
+  "addition": {
+    "item": "minecraft:redstone"
+  },
+  "result": {
+    "id": "minecraft:iron_pickaxe",
+    "components": {
+      "minecraft:custom_model_data": 57,
+      "minecraft:trim": {
+        "material": "minecraft:redstone",
+        "pattern": "minecraft:wild"
+      }
+    }
+  }
+}

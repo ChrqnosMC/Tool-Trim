@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:sentry_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:stone_hoe"
+  },
+  "addition": {
+    "item": "minecraft:quartz"
+  },
+  "result": {
+    "id": "minecraft:stone_hoe",
+    "components": {
+      "minecraft:custom_model_data": 1,
+      "minecraft:trim": {
+        "material": "minecraft:quartz",
+        "pattern": "minecraft:sentry"
+      }
+    }
+  }
+}
