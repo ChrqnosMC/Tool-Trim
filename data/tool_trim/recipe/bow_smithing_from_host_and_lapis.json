@@ -12,7 +12,7 @@
   "result": {
     "id": "minecraft:bow",
     "components": {
-      "minecraft:custom_model_data": 153,
+      "custom_model_data": 153,
       "minecraft:trim": {
         "material": "minecraft:lapis",
         "pattern": "minecraft:host"

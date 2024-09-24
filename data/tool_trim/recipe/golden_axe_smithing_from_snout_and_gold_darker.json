@@ -12,7 +12,7 @@
   "result": {
     "id": "minecraft:golden_axe",
     "components": {
-      "minecraft:custom_model_data": 103,
+      "custom_model_data": 103,
       "minecraft:trim": {
         "material": "minecraft:gold",
         "pattern": "minecraft:snout"

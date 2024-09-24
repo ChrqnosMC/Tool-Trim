@@ -12,7 +12,7 @@
   "result": {
     "id": "minecraft:mace",
     "components": {
-      "minecraft:custom_model_data": 64,
+      "custom_model_data": 64,
       "minecraft:trim": {
         "material": "minecraft:redstone",
         "pattern": "minecraft:ward"

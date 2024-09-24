@@ -12,7 +12,7 @@
   "result": {
     "id": "minecraft:stone_sword",
     "components": {
-      "minecraft:custom_model_data": 88,
+      "custom_model_data": 88,
       "minecraft:trim": {
         "material": "minecraft:copper",
         "pattern": "minecraft:spire"

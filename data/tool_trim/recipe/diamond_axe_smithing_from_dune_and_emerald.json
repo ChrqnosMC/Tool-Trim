@@ -12,7 +12,7 @@
   "result": {
     "id": "minecraft:diamond_axe",
     "components": {
-      "minecraft:custom_model_data": 113,
+      "custom_model_data": 113,
       "minecraft:trim": {
         "material": "minecraft:emerald",
         "pattern": "minecraft:dune"

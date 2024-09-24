@@ -12,7 +12,7 @@
   "result": {
     "id": "minecraft:trident",
     "components": {
-      "minecraft:custom_model_data": 104,
+      "custom_model_data": 104,
       "minecraft:trim": {
         "material": "minecraft:gold",
         "pattern": "minecraft:rib"

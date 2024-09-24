@@ -12,7 +12,7 @@
   "result": {
     "id": "minecraft:trident",
     "components": {
-      "minecraft:custom_model_data": 80,
+      "custom_model_data": 80,
       "minecraft:trim": {
         "material": "minecraft:copper",
         "pattern": "minecraft:shaper"

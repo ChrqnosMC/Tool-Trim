@@ -12,7 +12,7 @@
   "result": {
     "id": "minecraft:iron_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 73,
+      "custom_model_data": 73,
       "minecraft:trim": {
         "material": "minecraft:copper",
         "pattern": "minecraft:sentry"

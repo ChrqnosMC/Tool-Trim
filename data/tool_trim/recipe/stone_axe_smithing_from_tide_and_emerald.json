@@ -12,7 +12,7 @@
   "result": {
     "id": "minecraft:stone_axe",
     "components": {
-      "minecraft:custom_model_data": 120,
+      "custom_model_data": 120,
       "minecraft:trim": {
         "material": "minecraft:emerald",
         "pattern": "minecraft:tide"

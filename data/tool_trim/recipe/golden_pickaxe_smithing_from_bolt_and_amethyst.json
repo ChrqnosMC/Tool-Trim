@@ -12,7 +12,7 @@
   "result": {
     "id": "minecraft:golden_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 180,
+      "custom_model_data": 180,
       "minecraft:trim": {
         "material": "minecraft:amethyst",
         "pattern": "minecraft:bolt"

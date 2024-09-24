@@ -12,7 +12,7 @@
   "result": {
     "id": "minecraft:diamond_shovel",
     "components": {
-      "minecraft:custom_model_data": 12,
+      "custom_model_data": 12,
       "minecraft:trim": {
         "material": "minecraft:quartz",
         "pattern": "minecraft:tide"

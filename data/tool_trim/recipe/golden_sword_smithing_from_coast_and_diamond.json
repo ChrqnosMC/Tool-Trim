@@ -12,7 +12,7 @@
   "result": {
     "id": "minecraft:golden_sword",
     "components": {
-      "minecraft:custom_model_data": 130,
+      "custom_model_data": 130,
       "minecraft:trim": {
         "material": "minecraft:diamond",
         "pattern": "minecraft:coast"
