@@ -7,7 +7,7 @@
     "item": "minecraft:trident"
   },
   "addition": {
-    "item": "minecraft:iron"
+    "item": "minecraft:iron_ingot"
   },
   "result": {
     "id": "minecraft:trident",

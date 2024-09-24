@@ -7,7 +7,7 @@
     "item": "minecraft:trident"
   },
   "addition": {
-    "item": "minecraft:lapis"
+    "item": "minecraft:lapis_lazuli"
   },
   "result": {
     "id": "minecraft:trident",

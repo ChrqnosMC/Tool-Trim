@@ -7,7 +7,7 @@
     "item": "minecraft:wooden_hoe"
   },
   "addition": {
-    "item": "minecraft:lapis"
+    "item": "minecraft:lapis_lazuli"
   },
   "result": {
     "id": "minecraft:wooden_hoe",

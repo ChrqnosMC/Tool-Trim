@@ -7,7 +7,7 @@
     "item": "minecraft:wooden_hoe"
   },
   "addition": {
-    "item": "minecraft:copper"
+    "item": "minecraft:copper_ingot"
   },
   "result": {
     "id": "minecraft:wooden_hoe",

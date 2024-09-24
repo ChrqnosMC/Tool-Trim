@@ -7,7 +7,7 @@
     "item": "minecraft:stone_pickaxe"
   },
   "addition": {
-    "item": "minecraft:copper"
+    "item": "minecraft:copper_ingot"
   },
   "result": {
     "id": "minecraft:stone_pickaxe",

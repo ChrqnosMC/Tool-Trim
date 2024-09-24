@@ -7,7 +7,7 @@
     "item": "minecraft:netherite_hoe"
   },
   "addition": {
-    "item": "minecraft:netherite"
+    "item": "minecraft:netherite_ingot"
   },
   "result": {
     "id": "minecraft:netherite_hoe",
