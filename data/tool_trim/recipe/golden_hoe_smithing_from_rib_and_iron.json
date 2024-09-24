@@ -7,7 +7,7 @@
     "item": "minecraft:golden_hoe"
   },
   "addition": {
-    "item": "minecraft:iron"
+    "item": "minecraft:iron_ingot"
   },
   "result": {
     "id": "minecraft:golden_hoe",

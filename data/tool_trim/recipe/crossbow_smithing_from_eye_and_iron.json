@@ -7,7 +7,7 @@
     "item": "minecraft:crossbow"
   },
   "addition": {
-    "item": "minecraft:iron"
+    "item": "minecraft:iron_ingot"
   },
   "result": {
     "id": "minecraft:crossbow",

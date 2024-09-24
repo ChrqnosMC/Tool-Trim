@@ -7,7 +7,7 @@
     "item": "minecraft:wooden_axe"
   },
   "addition": {
-    "item": "minecraft:iron"
+    "item": "minecraft:iron_ingot"
   },
   "result": {
     "id": "minecraft:wooden_axe",

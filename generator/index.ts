@@ -58,18 +58,18 @@ const tools = [
   'trident'
 ]
 
-const materials = [
-  'quartz',
-  'iron',
-  'netherite',
-  'redstone',
-  'copper',
-  'gold',
-  'emerald',
-  'diamond',
-  'lapis',
-  'amethyst'
-]
+const items = {
+  quartz: 'quartz',
+  iron: 'iron_ingot',
+  netherite: 'netherite_ingot',
+  redstone: 'redstone',
+  copper: 'copper_ingot',
+  gold: 'gold_ingot',
+  emerald: 'emerald',
+  diamond: 'diamond',
+  lapis: 'lapis_lazuli',
+  amethyst: 'amethyst_shard'
+}
 
 function compareMaterial(material1: string, material2: string) {
   if (material1.startsWith('gold') && material2.startsWith('gold')) return true
@@ -91,7 +91,7 @@ async function writeItemRecipes() {
     
     let counter = 1
 
-    for (const material of materials) {
+    for (const material in items) {
       for (const trim of trims) {
 
         const recipeFile = compareMaterial(material, toolMaterial)
@@ -106,7 +106,7 @@ async function writeItemRecipes() {
             item: `minecraft:${tool}`
           },
           addition: {
-            item: `minecraft:${material}`
+            item: `minecraft:${items[material]}`
           },
           result: {
             id: `minecraft:${tool}`,

@@ -7,7 +7,7 @@
     "item": "minecraft:stone_shovel"
   },
   "addition": {
-    "item": "minecraft:copper"
+    "item": "minecraft:copper_ingot"
   },
   "result": {
     "id": "minecraft:stone_shovel",

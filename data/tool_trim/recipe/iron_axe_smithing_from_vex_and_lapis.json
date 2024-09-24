@@ -7,7 +7,7 @@
     "item": "minecraft:iron_axe"
   },
   "addition": {
-    "item": "minecraft:lapis"
+    "item": "minecraft:lapis_lazuli"
   },
   "result": {
     "id": "minecraft:iron_axe",
