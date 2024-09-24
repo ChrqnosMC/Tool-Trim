@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:raiser_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:netherite_axe"
+  },
+  "addition": {
+    "item": "minecraft:gold"
+  },
+  "result": {
+    "id": "minecraft:netherite_axe",
+    "components": {
+      "minecraft:custom_model_data": 97,
+      "minecraft:trim": {
+        "material": "minecraft:gold",
+        "pattern": "minecraft:raiser"
+      }
+    }
+  }
+}

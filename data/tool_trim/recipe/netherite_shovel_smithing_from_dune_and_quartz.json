@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:dune_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:netherite_shovel"
+  },
+  "addition": {
+    "item": "minecraft:quartz"
+  },
+  "result": {
+    "id": "minecraft:netherite_shovel",
+    "components": {
+      "minecraft:custom_model_data": 5,
+      "minecraft:trim": {
+        "material": "minecraft:quartz",
+        "pattern": "minecraft:dune"
+      }
+    }
+  }
+}

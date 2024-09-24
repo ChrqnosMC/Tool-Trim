@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:eye_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:stone_axe"
+  },
+  "addition": {
+    "item": "minecraft:redstone"
+  },
+  "result": {
+    "id": "minecraft:stone_axe",
+    "components": {
+      "minecraft:custom_model_data": 69,
+      "minecraft:trim": {
+        "material": "minecraft:redstone",
+        "pattern": "minecraft:eye"
+      }
+    }
+  }
+}

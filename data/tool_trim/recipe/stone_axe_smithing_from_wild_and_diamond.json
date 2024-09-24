@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:wild_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:stone_axe"
+  },
+  "addition": {
+    "item": "minecraft:diamond"
+  },
+  "result": {
+    "id": "minecraft:stone_axe",
+    "components": {
+      "minecraft:custom_model_data": 129,
+      "minecraft:trim": {
+        "material": "minecraft:diamond",
+        "pattern": "minecraft:wild"
+      }
+    }
+  }
+}

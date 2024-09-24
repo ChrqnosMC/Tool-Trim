@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:vex_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:diamond_shovel"
+  },
+  "addition": {
+    "item": "minecraft:emerald"
+  },
+  "result": {
+    "id": "minecraft:diamond_shovel",
+    "components": {
+      "minecraft:custom_model_data": 110,
+      "minecraft:trim": {
+        "material": "minecraft:emerald",
+        "pattern": "minecraft:vex"
+      }
+    }
+  }
+}

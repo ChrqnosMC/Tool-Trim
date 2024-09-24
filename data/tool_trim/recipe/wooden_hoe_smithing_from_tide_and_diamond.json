@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:tide_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:wooden_hoe"
+  },
+  "addition": {
+    "item": "minecraft:diamond"
+  },
+  "result": {
+    "id": "minecraft:wooden_hoe",
+    "components": {
+      "minecraft:custom_model_data": 138,
+      "minecraft:trim": {
+        "material": "minecraft:diamond",
+        "pattern": "minecraft:tide"
+      }
+    }
+  }
+}

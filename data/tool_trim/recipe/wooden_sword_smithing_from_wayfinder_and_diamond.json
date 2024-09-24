@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:wayfinder_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:wooden_sword"
+  },
+  "addition": {
+    "item": "minecraft:diamond"
+  },
+  "result": {
+    "id": "minecraft:wooden_sword",
+    "components": {
+      "minecraft:custom_model_data": 132,
+      "minecraft:trim": {
+        "material": "minecraft:diamond",
+        "pattern": "minecraft:wayfinder"
+      }
+    }
+  }
+}

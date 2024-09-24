@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:wild_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:wooden_axe"
+  },
+  "addition": {
+    "item": "minecraft:netherite"
+  },
+  "result": {
+    "id": "minecraft:wooden_axe",
+    "components": {
+      "minecraft:custom_model_data": 39,
+      "minecraft:trim": {
+        "material": "minecraft:netherite",
+        "pattern": "minecraft:wild"
+      }
+    }
+  }
+}
