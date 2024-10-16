@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:silence_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:golden_shovel"
-  },
-  "addition": {
-    "item": "minecraft:amethyst_shard"
-  },
+  "addition": "minecraft:amethyst_shard",
+  "base": "minecraft:golden_shovel",
   "result": {
+    "count": 1,
     "id": "minecraft:golden_shovel",
     "components": {
       "custom_model_data": 173,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:silence"
       }
     }
-  }
+  },
+  "template": "minecraft:silence_armor_trim_smithing_template"
 }

@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:wild_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:iron_sword"
-  },
-  "addition": {
-    "item": "minecraft:lapis_lazuli"
-  },
+  "addition": "minecraft:lapis_lazuli",
+  "base": "minecraft:iron_sword",
   "result": {
+    "count": 1,
     "id": "minecraft:iron_sword",
     "components": {
       "custom_model_data": 147,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:wild"
       }
     }
-  }
+  },
+  "template": "minecraft:wild_armor_trim_smithing_template"
 }

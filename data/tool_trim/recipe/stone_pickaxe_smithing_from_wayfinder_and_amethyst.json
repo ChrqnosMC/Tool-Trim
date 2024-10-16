@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:wayfinder_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:stone_pickaxe"
-  },
-  "addition": {
-    "item": "minecraft:amethyst_shard"
-  },
+  "addition": "minecraft:amethyst_shard",
+  "base": "minecraft:stone_pickaxe",
   "result": {
+    "count": 1,
     "id": "minecraft:stone_pickaxe",
     "components": {
       "custom_model_data": 168,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:wayfinder"
       }
     }
-  }
+  },
+  "template": "minecraft:wayfinder_armor_trim_smithing_template"
 }

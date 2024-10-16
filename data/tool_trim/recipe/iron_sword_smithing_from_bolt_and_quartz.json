@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:bolt_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:iron_sword"
-  },
-  "addition": {
-    "item": "minecraft:quartz"
-  },
+  "addition": "minecraft:quartz",
+  "base": "minecraft:iron_sword",
   "result": {
+    "count": 1,
     "id": "minecraft:iron_sword",
     "components": {
       "custom_model_data": 18,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:bolt"
       }
     }
-  }
+  },
+  "template": "minecraft:bolt_armor_trim_smithing_template"
 }

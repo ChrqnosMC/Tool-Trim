@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:flow_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:wooden_shovel"
-  },
-  "addition": {
-    "item": "minecraft:gold_ingot"
-  },
+  "addition": "minecraft:gold_ingot",
+  "base": "minecraft:wooden_shovel",
   "result": {
+    "count": 1,
     "id": "minecraft:wooden_shovel",
     "components": {
       "custom_model_data": 107,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:flow"
       }
     }
-  }
+  },
+  "template": "minecraft:flow_armor_trim_smithing_template"
 }

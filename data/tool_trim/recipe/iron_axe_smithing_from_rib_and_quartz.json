@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:rib_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:iron_axe"
-  },
-  "addition": {
-    "item": "minecraft:quartz"
-  },
+  "addition": "minecraft:quartz",
+  "base": "minecraft:iron_axe",
   "result": {
+    "count": 1,
     "id": "minecraft:iron_axe",
     "components": {
       "custom_model_data": 14,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:rib"
       }
     }
-  }
+  },
+  "template": "minecraft:rib_armor_trim_smithing_template"
 }

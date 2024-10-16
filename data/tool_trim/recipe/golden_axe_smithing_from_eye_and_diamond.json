@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:eye_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:golden_axe"
-  },
-  "addition": {
-    "item": "minecraft:diamond"
-  },
+  "addition": "minecraft:diamond",
+  "base": "minecraft:golden_axe",
   "result": {
+    "count": 1,
     "id": "minecraft:golden_axe",
     "components": {
       "custom_model_data": 141,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:eye"
       }
     }
-  }
+  },
+  "template": "minecraft:eye_armor_trim_smithing_template"
 }

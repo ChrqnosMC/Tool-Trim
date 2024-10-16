@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:wayfinder_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:diamond_shovel"
-  },
-  "addition": {
-    "item": "minecraft:netherite_ingot"
-  },
+  "addition": "minecraft:netherite_ingot",
+  "base": "minecraft:diamond_shovel",
   "result": {
+    "count": 1,
     "id": "minecraft:diamond_shovel",
     "components": {
       "custom_model_data": 42,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:wayfinder"
       }
     }
-  }
+  },
+  "template": "minecraft:wayfinder_armor_trim_smithing_template"
 }

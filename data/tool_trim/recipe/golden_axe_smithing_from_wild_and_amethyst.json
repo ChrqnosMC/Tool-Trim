@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:wild_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:golden_axe"
-  },
-  "addition": {
-    "item": "minecraft:amethyst_shard"
-  },
+  "addition": "minecraft:amethyst_shard",
+  "base": "minecraft:golden_axe",
   "result": {
+    "count": 1,
     "id": "minecraft:golden_axe",
     "components": {
       "custom_model_data": 165,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:wild"
       }
     }
-  }
+  },
+  "template": "minecraft:wild_armor_trim_smithing_template"
 }

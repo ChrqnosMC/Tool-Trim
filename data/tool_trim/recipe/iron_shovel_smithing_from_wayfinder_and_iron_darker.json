@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:wayfinder_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:iron_shovel"
-  },
-  "addition": {
-    "item": "minecraft:iron_ingot"
-  },
+  "addition": "minecraft:iron_ingot",
+  "base": "minecraft:iron_shovel",
   "result": {
+    "count": 1,
     "id": "minecraft:iron_shovel",
     "components": {
       "custom_model_data": 24,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:wayfinder"
       }
     }
-  }
+  },
+  "template": "minecraft:wayfinder_armor_trim_smithing_template"
 }

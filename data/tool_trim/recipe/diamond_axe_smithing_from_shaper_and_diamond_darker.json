@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:shaper_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:diamond_axe"
-  },
-  "addition": {
-    "item": "minecraft:diamond"
-  },
+  "addition": "minecraft:diamond",
+  "base": "minecraft:diamond_axe",
   "result": {
+    "count": 1,
     "id": "minecraft:diamond_axe",
     "components": {
       "custom_model_data": 134,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:shaper"
       }
     }
-  }
+  },
+  "template": "minecraft:shaper_armor_trim_smithing_template"
 }

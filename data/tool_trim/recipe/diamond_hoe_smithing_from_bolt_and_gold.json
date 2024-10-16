@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:bolt_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:diamond_hoe"
-  },
-  "addition": {
-    "item": "minecraft:gold_ingot"
-  },
+  "addition": "minecraft:gold_ingot",
+  "base": "minecraft:diamond_hoe",
   "result": {
+    "count": 1,
     "id": "minecraft:diamond_hoe",
     "components": {
       "custom_model_data": 108,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:bolt"
       }
     }
-  }
+  },
+  "template": "minecraft:bolt_armor_trim_smithing_template"
 }

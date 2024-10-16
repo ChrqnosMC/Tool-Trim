@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:snout_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:iron_axe"
-  },
-  "addition": {
-    "item": "minecraft:redstone"
-  },
+  "addition": "minecraft:redstone",
+  "base": "minecraft:iron_axe",
   "result": {
+    "count": 1,
     "id": "minecraft:iron_axe",
     "components": {
       "custom_model_data": 67,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:snout"
       }
     }
-  }
+  },
+  "template": "minecraft:snout_armor_trim_smithing_template"
 }

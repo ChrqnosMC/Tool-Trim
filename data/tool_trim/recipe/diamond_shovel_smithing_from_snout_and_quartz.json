@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:snout_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:diamond_shovel"
-  },
-  "addition": {
-    "item": "minecraft:quartz"
-  },
+  "addition": "minecraft:quartz",
+  "base": "minecraft:diamond_shovel",
   "result": {
+    "count": 1,
     "id": "minecraft:diamond_shovel",
     "components": {
       "custom_model_data": 13,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:snout"
       }
     }
-  }
+  },
+  "template": "minecraft:snout_armor_trim_smithing_template"
 }

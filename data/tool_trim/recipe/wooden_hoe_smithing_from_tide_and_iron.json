@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:tide_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:wooden_hoe"
-  },
-  "addition": {
-    "item": "minecraft:iron_ingot"
-  },
+  "addition": "minecraft:iron_ingot",
+  "base": "minecraft:wooden_hoe",
   "result": {
+    "count": 1,
     "id": "minecraft:wooden_hoe",
     "components": {
       "custom_model_data": 30,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:tide"
       }
     }
-  }
+  },
+  "template": "minecraft:tide_armor_trim_smithing_template"
 }

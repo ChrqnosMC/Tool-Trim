@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:sentry_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:wooden_axe"
-  },
-  "addition": {
-    "item": "minecraft:emerald"
-  },
+  "addition": "minecraft:emerald",
+  "base": "minecraft:wooden_axe",
   "result": {
+    "count": 1,
     "id": "minecraft:wooden_axe",
     "components": {
       "custom_model_data": 109,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:sentry"
       }
     }
-  }
+  },
+  "template": "minecraft:sentry_armor_trim_smithing_template"
 }

@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:dune_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:golden_hoe"
-  },
-  "addition": {
-    "item": "minecraft:diamond"
-  },
+  "addition": "minecraft:diamond",
+  "base": "minecraft:golden_hoe",
   "result": {
+    "count": 1,
     "id": "minecraft:golden_hoe",
     "components": {
       "custom_model_data": 131,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:dune"
       }
     }
-  }
+  },
+  "template": "minecraft:dune_armor_trim_smithing_template"
 }

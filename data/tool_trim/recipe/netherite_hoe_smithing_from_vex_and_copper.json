@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:vex_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:netherite_hoe"
-  },
-  "addition": {
-    "item": "minecraft:copper_ingot"
-  },
+  "addition": "minecraft:copper_ingot",
+  "base": "minecraft:netherite_hoe",
   "result": {
+    "count": 1,
     "id": "minecraft:netherite_hoe",
     "components": {
       "custom_model_data": 74,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:vex"
       }
     }
-  }
+  },
+  "template": "minecraft:vex_armor_trim_smithing_template"
 }

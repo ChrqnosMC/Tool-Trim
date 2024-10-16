@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:host_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:iron_axe"
-  },
-  "addition": {
-    "item": "minecraft:lapis_lazuli"
-  },
+  "addition": "minecraft:lapis_lazuli",
+  "base": "minecraft:iron_axe",
   "result": {
+    "count": 1,
     "id": "minecraft:iron_axe",
     "components": {
       "custom_model_data": 153,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:host"
       }
     }
-  }
+  },
+  "template": "minecraft:host_armor_trim_smithing_template"
 }

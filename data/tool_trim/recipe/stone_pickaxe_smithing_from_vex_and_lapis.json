@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:vex_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:stone_pickaxe"
-  },
-  "addition": {
-    "item": "minecraft:lapis_lazuli"
-  },
+  "addition": "minecraft:lapis_lazuli",
+  "base": "minecraft:stone_pickaxe",
   "result": {
+    "count": 1,
     "id": "minecraft:stone_pickaxe",
     "components": {
       "custom_model_data": 146,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:vex"
       }
     }
-  }
+  },
+  "template": "minecraft:vex_armor_trim_smithing_template"
 }

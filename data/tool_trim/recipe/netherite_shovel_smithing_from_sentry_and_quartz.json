@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:sentry_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:netherite_shovel"
-  },
-  "addition": {
-    "item": "minecraft:quartz"
-  },
+  "addition": "minecraft:quartz",
+  "base": "minecraft:netherite_shovel",
   "result": {
+    "count": 1,
     "id": "minecraft:netherite_shovel",
     "components": {
       "custom_model_data": 1,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:sentry"
       }
     }
-  }
+  },
+  "template": "minecraft:sentry_armor_trim_smithing_template"
 }

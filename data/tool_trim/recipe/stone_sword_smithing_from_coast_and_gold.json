@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:coast_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:stone_sword"
-  },
-  "addition": {
-    "item": "minecraft:gold_ingot"
-  },
+  "addition": "minecraft:gold_ingot",
+  "base": "minecraft:stone_sword",
   "result": {
+    "count": 1,
     "id": "minecraft:stone_sword",
     "components": {
       "custom_model_data": 94,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:coast"
       }
     }
-  }
+  },
+  "template": "minecraft:coast_armor_trim_smithing_template"
 }

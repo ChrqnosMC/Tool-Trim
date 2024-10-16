@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:snout_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:iron_shovel"
-  },
-  "addition": {
-    "item": "minecraft:gold_ingot"
-  },
+  "addition": "minecraft:gold_ingot",
+  "base": "minecraft:iron_shovel",
   "result": {
+    "count": 1,
     "id": "minecraft:iron_shovel",
     "components": {
       "custom_model_data": 103,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:snout"
       }
     }
-  }
+  },
+  "template": "minecraft:snout_armor_trim_smithing_template"
 }
