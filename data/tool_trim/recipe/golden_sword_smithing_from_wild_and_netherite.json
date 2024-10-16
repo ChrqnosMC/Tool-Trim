@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:wild_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:golden_sword"
-  },
-  "addition": {
-    "item": "minecraft:netherite_ingot"
-  },
+  "addition": "minecraft:netherite_ingot",
+  "base": "minecraft:golden_sword",
   "result": {
+    "count": 1,
     "id": "minecraft:golden_sword",
     "components": {
       "custom_model_data": 39,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:wild"
       }
     }
-  }
+  },
+  "template": "minecraft:wild_armor_trim_smithing_template"
 }

@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:flow_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:golden_shovel"
-  },
-  "addition": {
-    "item": "minecraft:redstone"
-  },
+  "addition": "minecraft:redstone",
+  "base": "minecraft:golden_shovel",
   "result": {
+    "count": 1,
     "id": "minecraft:golden_shovel",
     "components": {
       "custom_model_data": 71,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:flow"
       }
     }
-  }
+  },
+  "template": "minecraft:flow_armor_trim_smithing_template"
 }

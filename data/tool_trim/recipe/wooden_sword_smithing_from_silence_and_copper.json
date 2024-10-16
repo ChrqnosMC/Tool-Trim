@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:silence_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:wooden_sword"
-  },
-  "addition": {
-    "item": "minecraft:copper_ingot"
-  },
+  "addition": "minecraft:copper_ingot",
+  "base": "minecraft:wooden_sword",
   "result": {
+    "count": 1,
     "id": "minecraft:wooden_sword",
     "components": {
       "custom_model_data": 83,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:silence"
       }
     }
-  }
+  },
+  "template": "minecraft:silence_armor_trim_smithing_template"
 }

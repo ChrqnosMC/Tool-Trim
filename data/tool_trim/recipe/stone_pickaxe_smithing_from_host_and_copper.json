@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:host_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:stone_pickaxe"
-  },
-  "addition": {
-    "item": "minecraft:copper_ingot"
-  },
+  "addition": "minecraft:copper_ingot",
+  "base": "minecraft:stone_pickaxe",
   "result": {
+    "count": 1,
     "id": "minecraft:stone_pickaxe",
     "components": {
       "custom_model_data": 81,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:host"
       }
     }
-  }
+  },
+  "template": "minecraft:host_armor_trim_smithing_template"
 }

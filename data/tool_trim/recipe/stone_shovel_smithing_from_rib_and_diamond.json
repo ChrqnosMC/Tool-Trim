@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:rib_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:stone_shovel"
-  },
-  "addition": {
-    "item": "minecraft:diamond"
-  },
+  "addition": "minecraft:diamond",
+  "base": "minecraft:stone_shovel",
   "result": {
+    "count": 1,
     "id": "minecraft:stone_shovel",
     "components": {
       "custom_model_data": 140,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:rib"
       }
     }
-  }
+  },
+  "template": "minecraft:rib_armor_trim_smithing_template"
 }

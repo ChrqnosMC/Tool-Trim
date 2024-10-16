@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:flow_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:wooden_axe"
-  },
-  "addition": {
-    "item": "minecraft:lapis_lazuli"
-  },
+  "addition": "minecraft:lapis_lazuli",
+  "base": "minecraft:wooden_axe",
   "result": {
+    "count": 1,
     "id": "minecraft:wooden_axe",
     "components": {
       "custom_model_data": 161,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:flow"
       }
     }
-  }
+  },
+  "template": "minecraft:flow_armor_trim_smithing_template"
 }

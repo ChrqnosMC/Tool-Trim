@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:rib_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:wooden_axe"
-  },
-  "addition": {
-    "item": "minecraft:amethyst_shard"
-  },
+  "addition": "minecraft:amethyst_shard",
+  "base": "minecraft:wooden_axe",
   "result": {
+    "count": 1,
     "id": "minecraft:wooden_axe",
     "components": {
       "custom_model_data": 176,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:rib"
       }
     }
-  }
+  },
+  "template": "minecraft:rib_armor_trim_smithing_template"
 }

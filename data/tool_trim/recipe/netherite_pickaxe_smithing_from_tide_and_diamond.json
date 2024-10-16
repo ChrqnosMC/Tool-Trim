@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:tide_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:netherite_pickaxe"
-  },
-  "addition": {
-    "item": "minecraft:diamond"
-  },
+  "addition": "minecraft:diamond",
+  "base": "minecraft:netherite_pickaxe",
   "result": {
+    "count": 1,
     "id": "minecraft:netherite_pickaxe",
     "components": {
       "custom_model_data": 138,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:tide"
       }
     }
-  }
+  },
+  "template": "minecraft:tide_armor_trim_smithing_template"
 }

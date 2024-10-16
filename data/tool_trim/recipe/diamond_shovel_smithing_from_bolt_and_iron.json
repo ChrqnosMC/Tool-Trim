@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:bolt_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:diamond_shovel"
-  },
-  "addition": {
-    "item": "minecraft:iron_ingot"
-  },
+  "addition": "minecraft:iron_ingot",
+  "base": "minecraft:diamond_shovel",
   "result": {
+    "count": 1,
     "id": "minecraft:diamond_shovel",
     "components": {
       "custom_model_data": 36,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:bolt"
       }
     }
-  }
+  },
+  "template": "minecraft:bolt_armor_trim_smithing_template"
 }

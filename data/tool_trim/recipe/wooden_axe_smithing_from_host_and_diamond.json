@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:host_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:wooden_axe"
-  },
-  "addition": {
-    "item": "minecraft:diamond"
-  },
+  "addition": "minecraft:diamond",
+  "base": "minecraft:wooden_axe",
   "result": {
+    "count": 1,
     "id": "minecraft:wooden_axe",
     "components": {
       "custom_model_data": 135,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:host"
       }
     }
-  }
+  },
+  "template": "minecraft:host_armor_trim_smithing_template"
 }

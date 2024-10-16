@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:flow_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:wooden_sword"
-  },
-  "addition": {
-    "item": "minecraft:iron_ingot"
-  },
+  "addition": "minecraft:iron_ingot",
+  "base": "minecraft:wooden_sword",
   "result": {
+    "count": 1,
     "id": "minecraft:wooden_sword",
     "components": {
       "custom_model_data": 35,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:flow"
       }
     }
-  }
+  },
+  "template": "minecraft:flow_armor_trim_smithing_template"
 }

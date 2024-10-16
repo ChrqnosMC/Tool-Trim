@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:wild_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:wooden_shovel"
-  },
-  "addition": {
-    "item": "minecraft:quartz"
-  },
+  "addition": "minecraft:quartz",
+  "base": "minecraft:wooden_shovel",
   "result": {
+    "count": 1,
     "id": "minecraft:wooden_shovel",
     "components": {
       "custom_model_data": 3,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:wild"
       }
     }
-  }
+  },
+  "template": "minecraft:wild_armor_trim_smithing_template"
 }

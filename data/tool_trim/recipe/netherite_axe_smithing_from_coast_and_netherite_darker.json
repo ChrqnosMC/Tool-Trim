@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:coast_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:netherite_axe"
-  },
-  "addition": {
-    "item": "minecraft:netherite_ingot"
-  },
+  "addition": "minecraft:netherite_ingot",
+  "base": "minecraft:netherite_axe",
   "result": {
+    "count": 1,
     "id": "minecraft:netherite_axe",
     "components": {
       "custom_model_data": 40,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:coast"
       }
     }
-  }
+  },
+  "template": "minecraft:coast_armor_trim_smithing_template"
 }

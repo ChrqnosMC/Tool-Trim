@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:raiser_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:diamond_sword"
-  },
-  "addition": {
-    "item": "minecraft:copper_ingot"
-  },
+  "addition": "minecraft:copper_ingot",
+  "base": "minecraft:diamond_sword",
   "result": {
+    "count": 1,
     "id": "minecraft:diamond_sword",
     "components": {
       "custom_model_data": 79,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:raiser"
       }
     }
-  }
+  },
+  "template": "minecraft:raiser_armor_trim_smithing_template"
 }

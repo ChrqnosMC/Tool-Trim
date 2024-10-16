@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:spire_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:wooden_axe"
-  },
-  "addition": {
-    "item": "minecraft:diamond"
-  },
+  "addition": "minecraft:diamond",
+  "base": "minecraft:wooden_axe",
   "result": {
+    "count": 1,
     "id": "minecraft:wooden_axe",
     "components": {
       "custom_model_data": 142,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:spire"
       }
     }
-  }
+  },
+  "template": "minecraft:spire_armor_trim_smithing_template"
 }

@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:flow_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:netherite_sword"
-  },
-  "addition": {
-    "item": "minecraft:copper_ingot"
-  },
+  "addition": "minecraft:copper_ingot",
+  "base": "minecraft:netherite_sword",
   "result": {
+    "count": 1,
     "id": "minecraft:netherite_sword",
     "components": {
       "custom_model_data": 89,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:flow"
       }
     }
-  }
+  },
+  "template": "minecraft:flow_armor_trim_smithing_template"
 }

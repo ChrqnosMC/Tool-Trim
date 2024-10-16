@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:ward_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:diamond_hoe"
-  },
-  "addition": {
-    "item": "minecraft:copper_ingot"
-  },
+  "addition": "minecraft:copper_ingot",
+  "base": "minecraft:diamond_hoe",
   "result": {
+    "count": 1,
     "id": "minecraft:diamond_hoe",
     "components": {
       "custom_model_data": 82,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:ward"
       }
     }
-  }
+  },
+  "template": "minecraft:ward_armor_trim_smithing_template"
 }

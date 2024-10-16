@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:wild_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:iron_shovel"
-  },
-  "addition": {
-    "item": "minecraft:diamond"
-  },
+  "addition": "minecraft:diamond",
+  "base": "minecraft:iron_shovel",
   "result": {
+    "count": 1,
     "id": "minecraft:iron_shovel",
     "components": {
       "custom_model_data": 129,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:wild"
       }
     }
-  }
+  },
+  "template": "minecraft:wild_armor_trim_smithing_template"
 }

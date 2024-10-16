@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:eye_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:diamond_shovel"
-  },
-  "addition": {
-    "item": "minecraft:copper_ingot"
-  },
+  "addition": "minecraft:copper_ingot",
+  "base": "minecraft:diamond_shovel",
   "result": {
+    "count": 1,
     "id": "minecraft:diamond_shovel",
     "components": {
       "custom_model_data": 87,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:eye"
       }
     }
-  }
+  },
+  "template": "minecraft:eye_armor_trim_smithing_template"
 }

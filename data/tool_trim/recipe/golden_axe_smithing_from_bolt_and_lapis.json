@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:bolt_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:golden_axe"
-  },
-  "addition": {
-    "item": "minecraft:lapis_lazuli"
-  },
+  "addition": "minecraft:lapis_lazuli",
+  "base": "minecraft:golden_axe",
   "result": {
+    "count": 1,
     "id": "minecraft:golden_axe",
     "components": {
       "custom_model_data": 162,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:bolt"
       }
     }
-  }
+  },
+  "template": "minecraft:bolt_armor_trim_smithing_template"
 }

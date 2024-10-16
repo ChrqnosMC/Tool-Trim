@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:snout_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:iron_pickaxe"
-  },
-  "addition": {
-    "item": "minecraft:copper_ingot"
-  },
+  "addition": "minecraft:copper_ingot",
+  "base": "minecraft:iron_pickaxe",
   "result": {
+    "count": 1,
     "id": "minecraft:iron_pickaxe",
     "components": {
       "custom_model_data": 85,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:snout"
       }
     }
-  }
+  },
+  "template": "minecraft:snout_armor_trim_smithing_template"
 }

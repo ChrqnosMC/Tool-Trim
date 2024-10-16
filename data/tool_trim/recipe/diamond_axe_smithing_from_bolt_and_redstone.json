@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:bolt_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:diamond_axe"
-  },
-  "addition": {
-    "item": "minecraft:redstone"
-  },
+  "addition": "minecraft:redstone",
+  "base": "minecraft:diamond_axe",
   "result": {
+    "count": 1,
     "id": "minecraft:diamond_axe",
     "components": {
       "custom_model_data": 72,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:bolt"
       }
     }
-  }
+  },
+  "template": "minecraft:bolt_armor_trim_smithing_template"
 }
