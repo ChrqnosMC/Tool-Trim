@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:emerald",
+  "base": "minecraft:stone_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_hoe",
+    "components": {
+      "item_model": "tool_trim:stone_hoe_tide_and_emerald_trim",
+      "minecraft:trim": {
+        "material": "minecraft:emerald",
+        "pattern": "minecraft:tide"
+      }
+    }
+  },
+  "template": "minecraft:tide_armor_trim_smithing_template"
+}

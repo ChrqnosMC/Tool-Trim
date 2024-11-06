@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:gold_ingot",
+  "base": "minecraft:diamond_sword",
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_sword",
+    "components": {
+      "item_model": "tool_trim:diamond_sword_coast_and_gold_trim",
+      "minecraft:trim": {
+        "material": "minecraft:gold",
+        "pattern": "minecraft:coast"
+      }
+    }
+  },
+  "template": "minecraft:coast_armor_trim_smithing_template"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:lapis_lazuli",
+  "base": "minecraft:iron_shovel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_shovel",
+    "components": {
+      "item_model": "tool_trim:iron_shovel_host_and_lapis_trim",
+      "minecraft:trim": {
+        "material": "minecraft:lapis",
+        "pattern": "minecraft:host"
+      }
+    }
+  },
+  "template": "minecraft:host_armor_trim_smithing_template"
+}

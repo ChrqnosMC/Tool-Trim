@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:copper_ingot",
+  "base": "minecraft:iron_sword",
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_sword",
+    "components": {
+      "item_model": "tool_trim:iron_sword_silence_and_copper_trim",
+      "minecraft:trim": {
+        "material": "minecraft:copper",
+        "pattern": "minecraft:silence"
+      }
+    }
+  },
+  "template": "minecraft:silence_armor_trim_smithing_template"
+}

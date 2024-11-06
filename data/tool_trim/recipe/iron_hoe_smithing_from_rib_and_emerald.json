@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:emerald",
+  "base": "minecraft:iron_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_hoe",
+    "components": {
+      "item_model": "tool_trim:iron_hoe_rib_and_emerald_trim",
+      "minecraft:trim": {
+        "material": "minecraft:emerald",
+        "pattern": "minecraft:rib"
+      }
+    }
+  },
+  "template": "minecraft:rib_armor_trim_smithing_template"
+}

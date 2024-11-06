@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:emerald",
+  "base": "minecraft:stone_axe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_axe",
+    "components": {
+      "item_model": "tool_trim:stone_axe_sentry_and_emerald_trim",
+      "minecraft:trim": {
+        "material": "minecraft:emerald",
+        "pattern": "minecraft:sentry"
+      }
+    }
+  },
+  "template": "minecraft:sentry_armor_trim_smithing_template"
+}

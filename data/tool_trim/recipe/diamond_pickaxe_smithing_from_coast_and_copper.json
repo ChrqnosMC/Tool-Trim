@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:copper_ingot",
+  "base": "minecraft:diamond_pickaxe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_pickaxe",
+    "components": {
+      "item_model": "tool_trim:diamond_pickaxe_coast_and_copper_trim",
+      "minecraft:trim": {
+        "material": "minecraft:copper",
+        "pattern": "minecraft:coast"
+      }
+    }
+  },
+  "template": "minecraft:coast_armor_trim_smithing_template"
+}

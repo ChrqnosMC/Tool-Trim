@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:netherite_ingot",
+  "base": "minecraft:netherite_sword",
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_sword",
+    "components": {
+      "item_model": "tool_trim:netherite_sword_raiser_and_netherite_darker_trim",
+      "minecraft:trim": {
+        "material": "minecraft:netherite",
+        "pattern": "minecraft:raiser"
+      }
+    }
+  },
+  "template": "minecraft:raiser_armor_trim_smithing_template"
+}

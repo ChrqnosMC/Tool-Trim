@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:iron_ingot",
+  "base": "minecraft:wooden_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_hoe",
+    "components": {
+      "item_model": "tool_trim:wooden_hoe_vex_and_iron_trim",
+      "minecraft:trim": {
+        "material": "minecraft:iron",
+        "pattern": "minecraft:vex"
+      }
+    }
+  },
+  "template": "minecraft:vex_armor_trim_smithing_template"
+}

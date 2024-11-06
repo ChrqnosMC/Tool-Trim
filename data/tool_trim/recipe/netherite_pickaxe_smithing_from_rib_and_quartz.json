@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:quartz",
+  "base": "minecraft:netherite_pickaxe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_pickaxe",
+    "components": {
+      "item_model": "tool_trim:netherite_pickaxe_rib_and_quartz_trim",
+      "minecraft:trim": {
+        "material": "minecraft:quartz",
+        "pattern": "minecraft:rib"
+      }
+    }
+  },
+  "template": "minecraft:rib_armor_trim_smithing_template"
+}

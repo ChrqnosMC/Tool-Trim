@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:redstone",
+  "base": "minecraft:netherite_axe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_axe",
+    "components": {
+      "item_model": "tool_trim:netherite_axe_coast_and_redstone_trim",
+      "minecraft:trim": {
+        "material": "minecraft:redstone",
+        "pattern": "minecraft:coast"
+      }
+    }
+  },
+  "template": "minecraft:coast_armor_trim_smithing_template"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:amethyst_shard",
+  "base": "minecraft:iron_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_hoe",
+    "components": {
+      "item_model": "tool_trim:iron_hoe_wild_and_amethyst_trim",
+      "minecraft:trim": {
+        "material": "minecraft:amethyst",
+        "pattern": "minecraft:wild"
+      }
+    }
+  },
+  "template": "minecraft:wild_armor_trim_smithing_template"
+}

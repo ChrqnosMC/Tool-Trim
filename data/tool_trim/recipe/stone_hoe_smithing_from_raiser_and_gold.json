@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:gold_ingot",
+  "base": "minecraft:stone_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_hoe",
+    "components": {
+      "item_model": "tool_trim:stone_hoe_raiser_and_gold_trim",
+      "minecraft:trim": {
+        "material": "minecraft:gold",
+        "pattern": "minecraft:raiser"
+      }
+    }
+  },
+  "template": "minecraft:raiser_armor_trim_smithing_template"
+}

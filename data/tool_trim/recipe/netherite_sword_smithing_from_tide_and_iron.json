@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:iron_ingot",
+  "base": "minecraft:netherite_sword",
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_sword",
+    "components": {
+      "item_model": "tool_trim:netherite_sword_tide_and_iron_trim",
+      "minecraft:trim": {
+        "material": "minecraft:iron",
+        "pattern": "minecraft:tide"
+      }
+    }
+  },
+  "template": "minecraft:tide_armor_trim_smithing_template"
+}

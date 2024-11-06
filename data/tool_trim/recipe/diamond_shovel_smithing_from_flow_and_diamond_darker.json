@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:diamond",
+  "base": "minecraft:diamond_shovel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_shovel",
+    "components": {
+      "item_model": "tool_trim:diamond_shovel_flow_and_diamond_darker_trim",
+      "minecraft:trim": {
+        "material": "minecraft:diamond",
+        "pattern": "minecraft:flow"
+      }
+    }
+  },
+  "template": "minecraft:flow_armor_trim_smithing_template"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:iron_ingot",
+  "base": "minecraft:iron_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_hoe",
+    "components": {
+      "item_model": "tool_trim:iron_hoe_bolt_and_iron_darker_trim",
+      "minecraft:trim": {
+        "material": "minecraft:iron",
+        "pattern": "minecraft:bolt"
+      }
+    }
+  },
+  "template": "minecraft:bolt_armor_trim_smithing_template"
+}

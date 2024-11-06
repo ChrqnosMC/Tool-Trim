@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:iron_ingot",
+  "base": "minecraft:netherite_axe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_axe",
+    "components": {
+      "item_model": "tool_trim:netherite_axe_raiser_and_iron_trim",
+      "minecraft:trim": {
+        "material": "minecraft:iron",
+        "pattern": "minecraft:raiser"
+      }
+    }
+  },
+  "template": "minecraft:raiser_armor_trim_smithing_template"
+}

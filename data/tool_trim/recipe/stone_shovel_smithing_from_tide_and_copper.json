@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:copper_ingot",
+  "base": "minecraft:stone_shovel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_shovel",
+    "components": {
+      "item_model": "tool_trim:stone_shovel_tide_and_copper_trim",
+      "minecraft:trim": {
+        "material": "minecraft:copper",
+        "pattern": "minecraft:tide"
+      }
+    }
+  },
+  "template": "minecraft:tide_armor_trim_smithing_template"
+}

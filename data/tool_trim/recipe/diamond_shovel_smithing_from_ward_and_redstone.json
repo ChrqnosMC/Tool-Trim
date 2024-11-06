@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:redstone",
+  "base": "minecraft:diamond_shovel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_shovel",
+    "components": {
+      "item_model": "tool_trim:diamond_shovel_ward_and_redstone_trim",
+      "minecraft:trim": {
+        "material": "minecraft:redstone",
+        "pattern": "minecraft:ward"
+      }
+    }
+  },
+  "template": "minecraft:ward_armor_trim_smithing_template"
+}

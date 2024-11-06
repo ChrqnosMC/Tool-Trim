@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:gold_ingot",
+  "base": "minecraft:iron_sword",
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_sword",
+    "components": {
+      "item_model": "tool_trim:iron_sword_wayfinder_and_gold_trim",
+      "minecraft:trim": {
+        "material": "minecraft:gold",
+        "pattern": "minecraft:wayfinder"
+      }
+    }
+  },
+  "template": "minecraft:wayfinder_armor_trim_smithing_template"
+}

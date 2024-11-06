@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:amethyst_shard",
+  "base": "minecraft:iron_sword",
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_sword",
+    "components": {
+      "item_model": "tool_trim:iron_sword_rib_and_amethyst_trim",
+      "minecraft:trim": {
+        "material": "minecraft:amethyst",
+        "pattern": "minecraft:rib"
+      }
+    }
+  },
+  "template": "minecraft:rib_armor_trim_smithing_template"
+}

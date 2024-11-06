@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:netherite_ingot",
+  "base": "minecraft:diamond_axe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_axe",
+    "components": {
+      "item_model": "tool_trim:diamond_axe_silence_and_netherite_trim",
+      "minecraft:trim": {
+        "material": "minecraft:netherite",
+        "pattern": "minecraft:silence"
+      }
+    }
+  },
+  "template": "minecraft:silence_armor_trim_smithing_template"
+}
