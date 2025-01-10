@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:quartz",
+  "base": "minecraft:golden_axe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_axe",
+    "components": {
+      "minecraft:item_model": "tool_trim:golden_axe_silence_and_quartz_trim",
+      "minecraft:trim": {
+        "material": "minecraft:quartz",
+        "pattern": "minecraft:silence"
+      }
+    }
+  },
+  "template": "minecraft:silence_armor_trim_smithing_template"
+}

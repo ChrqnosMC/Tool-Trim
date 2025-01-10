@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:redstone",
+  "base": "minecraft:golden_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_hoe",
+    "components": {
+      "minecraft:item_model": "tool_trim:golden_hoe_tide_and_redstone_trim",
+      "minecraft:trim": {
+        "material": "minecraft:redstone",
+        "pattern": "minecraft:tide"
+      }
+    }
+  },
+  "template": "minecraft:tide_armor_trim_smithing_template"
+}

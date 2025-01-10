@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:lapis_lazuli",
+  "base": "minecraft:golden_axe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_axe",
+    "components": {
+      "minecraft:item_model": "tool_trim:golden_axe_wild_and_lapis_trim",
+      "minecraft:trim": {
+        "material": "minecraft:lapis",
+        "pattern": "minecraft:wild"
+      }
+    }
+  },
+  "template": "minecraft:wild_armor_trim_smithing_template"
+}
