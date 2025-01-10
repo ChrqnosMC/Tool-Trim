@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:diamond_hoe",
     "components": {
-      "custom_model_data": 40,
+      "minecraft:custom_model_data": 40,
       "minecraft:trim": {
         "material": "minecraft:netherite",
         "pattern": "minecraft:coast"

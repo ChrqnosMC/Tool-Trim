@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:netherite_shovel",
     "components": {
-      "custom_model_data": 120,
+      "minecraft:custom_model_data": 120,
       "minecraft:trim": {
         "material": "minecraft:emerald",
         "pattern": "minecraft:tide"

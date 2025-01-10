@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:iron_sword",
     "components": {
-      "custom_model_data": 89,
+      "minecraft:custom_model_data": 89,
       "minecraft:trim": {
         "material": "minecraft:copper",
         "pattern": "minecraft:flow"

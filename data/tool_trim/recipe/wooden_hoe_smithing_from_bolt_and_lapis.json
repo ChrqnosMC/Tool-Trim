@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:wooden_hoe",
     "components": {
-      "custom_model_data": 162,
+      "minecraft:custom_model_data": 162,
       "minecraft:trim": {
         "material": "minecraft:lapis",
         "pattern": "minecraft:bolt"

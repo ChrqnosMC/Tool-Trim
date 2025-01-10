@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:golden_pickaxe",
     "components": {
-      "custom_model_data": 23,
+      "minecraft:custom_model_data": 23,
       "minecraft:trim": {
         "material": "minecraft:iron",
         "pattern": "minecraft:dune"

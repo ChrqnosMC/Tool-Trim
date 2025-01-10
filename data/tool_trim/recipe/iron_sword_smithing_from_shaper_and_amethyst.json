@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:iron_sword",
     "components": {
-      "custom_model_data": 170,
+      "minecraft:custom_model_data": 170,
       "minecraft:trim": {
         "material": "minecraft:amethyst",
         "pattern": "minecraft:shaper"

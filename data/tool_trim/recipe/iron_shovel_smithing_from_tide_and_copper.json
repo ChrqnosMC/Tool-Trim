@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:iron_shovel",
     "components": {
-      "custom_model_data": 84,
+      "minecraft:custom_model_data": 84,
       "minecraft:trim": {
         "material": "minecraft:copper",
         "pattern": "minecraft:tide"

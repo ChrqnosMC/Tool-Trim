@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:netherite_sword",
     "components": {
-      "custom_model_data": 69,
+      "minecraft:custom_model_data": 69,
       "minecraft:trim": {
         "material": "minecraft:redstone",
         "pattern": "minecraft:eye"

@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:diamond_axe",
     "components": {
-      "custom_model_data": 115,
+      "minecraft:custom_model_data": 115,
       "minecraft:trim": {
         "material": "minecraft:emerald",
         "pattern": "minecraft:raiser"
