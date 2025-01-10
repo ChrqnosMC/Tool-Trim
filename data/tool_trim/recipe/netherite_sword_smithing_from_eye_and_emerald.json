@@ -6,7 +6,11 @@
     "count": 1,
     "id": "minecraft:netherite_sword",
     "components": {
-      "item_model": "tool_trim:netherite_sword_eye_and_emerald_trim",
+      "minecraft:custom_model_data": {
+        "floats": [
+          15
+        ]
+      },
       "minecraft:trim": {
         "material": "minecraft:emerald",
         "pattern": "minecraft:eye"

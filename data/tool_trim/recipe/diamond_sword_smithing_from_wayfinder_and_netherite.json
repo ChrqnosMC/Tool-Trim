@@ -6,7 +6,11 @@
     "count": 1,
     "id": "minecraft:diamond_sword",
     "components": {
-      "item_model": "tool_trim:diamond_sword_wayfinder_and_netherite_trim",
+      "minecraft:custom_model_data": {
+        "floats": [
+          6
+        ]
+      },
       "minecraft:trim": {
         "material": "minecraft:netherite",
         "pattern": "minecraft:wayfinder"

@@ -6,7 +6,11 @@
     "count": 1,
     "id": "minecraft:iron_sword",
     "components": {
-      "item_model": "tool_trim:iron_sword_silence_and_quartz_trim",
+      "minecraft:custom_model_data": {
+        "floats": [
+          11
+        ]
+      },
       "minecraft:trim": {
         "material": "minecraft:quartz",
         "pattern": "minecraft:silence"
