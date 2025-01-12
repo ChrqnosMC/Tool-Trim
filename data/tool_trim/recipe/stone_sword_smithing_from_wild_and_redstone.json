@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:redstone",
-  "base": "minecraft:stone_sword",
+  "addition": {
+    "item": "minecraft:redstone"
+  },
+  "base": {
+    "item": "minecraft:stone_sword"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:stone_sword",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:wild_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:wild_armor_trim_smithing_template"
+  }
 }

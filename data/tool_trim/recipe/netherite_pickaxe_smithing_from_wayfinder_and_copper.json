@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:copper_ingot",
-  "base": "minecraft:netherite_pickaxe",
+  "addition": {
+    "item": "minecraft:copper_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_pickaxe"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:netherite_pickaxe",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:wayfinder_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:wayfinder_armor_trim_smithing_template"
+  }
 }

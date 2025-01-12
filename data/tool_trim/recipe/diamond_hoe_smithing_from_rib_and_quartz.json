@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:quartz",
-  "base": "minecraft:diamond_hoe",
+  "addition": {
+    "item": "minecraft:quartz"
+  },
+  "base": {
+    "item": "minecraft:diamond_hoe"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:diamond_hoe",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:rib_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:rib_armor_trim_smithing_template"
+  }
 }

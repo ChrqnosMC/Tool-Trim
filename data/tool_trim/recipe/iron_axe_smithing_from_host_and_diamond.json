@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:diamond",
-  "base": "minecraft:iron_axe",
+  "addition": {
+    "item": "minecraft:diamond"
+  },
+  "base": {
+    "item": "minecraft:iron_axe"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:iron_axe",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:host_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:host_armor_trim_smithing_template"
+  }
 }

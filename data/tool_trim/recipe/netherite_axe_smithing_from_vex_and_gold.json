@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:gold_ingot",
-  "base": "minecraft:netherite_axe",
+  "addition": {
+    "item": "minecraft:gold_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_axe"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:netherite_axe",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:vex_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:vex_armor_trim_smithing_template"
+  }
 }

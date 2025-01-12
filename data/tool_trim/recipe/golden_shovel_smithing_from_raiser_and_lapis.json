@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:lapis_lazuli",
-  "base": "minecraft:golden_shovel",
+  "addition": {
+    "item": "minecraft:lapis_lazuli"
+  },
+  "base": {
+    "item": "minecraft:golden_shovel"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:golden_shovel",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:raiser_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:raiser_armor_trim_smithing_template"
+  }
 }

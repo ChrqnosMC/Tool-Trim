@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:redstone",
-  "base": "minecraft:golden_hoe",
+  "addition": {
+    "item": "minecraft:redstone"
+  },
+  "base": {
+    "item": "minecraft:golden_hoe"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:golden_hoe",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:shaper_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:shaper_armor_trim_smithing_template"
+  }
 }

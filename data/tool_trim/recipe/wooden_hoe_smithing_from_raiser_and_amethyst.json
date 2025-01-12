@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:amethyst_shard",
-  "base": "minecraft:wooden_hoe",
+  "addition": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "base": {
+    "item": "minecraft:wooden_hoe"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:wooden_hoe",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:raiser_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:raiser_armor_trim_smithing_template"
+  }
 }

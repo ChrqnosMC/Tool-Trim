@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:gold_ingot",
-  "base": "minecraft:wooden_axe",
+  "addition": {
+    "item": "minecraft:gold_ingot"
+  },
+  "base": {
+    "item": "minecraft:wooden_axe"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:wooden_axe",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:wayfinder_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:wayfinder_armor_trim_smithing_template"
+  }
 }

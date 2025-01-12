@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:emerald",
-  "base": "minecraft:stone_shovel",
+  "addition": {
+    "item": "minecraft:emerald"
+  },
+  "base": {
+    "item": "minecraft:stone_shovel"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:stone_shovel",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:spire_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:spire_armor_trim_smithing_template"
+  }
 }

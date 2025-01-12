@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:iron_ingot",
-  "base": "minecraft:iron_sword",
+  "addition": {
+    "item": "minecraft:iron_ingot"
+  },
+  "base": {
+    "item": "minecraft:iron_sword"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:iron_sword",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:raiser_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:raiser_armor_trim_smithing_template"
+  }
 }

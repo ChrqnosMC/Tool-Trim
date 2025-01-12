@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:quartz",
-  "base": "minecraft:stone_axe",
+  "addition": {
+    "item": "minecraft:quartz"
+  },
+  "base": {
+    "item": "minecraft:stone_axe"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:stone_axe",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:raiser_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:raiser_armor_trim_smithing_template"
+  }
 }

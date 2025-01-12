@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:quartz",
-  "base": "minecraft:stone_hoe",
+  "addition": {
+    "item": "minecraft:quartz"
+  },
+  "base": {
+    "item": "minecraft:stone_hoe"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:stone_hoe",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:spire_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:spire_armor_trim_smithing_template"
+  }
 }

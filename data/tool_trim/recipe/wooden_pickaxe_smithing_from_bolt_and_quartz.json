@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:quartz",
-  "base": "minecraft:wooden_pickaxe",
+  "addition": {
+    "item": "minecraft:quartz"
+  },
+  "base": {
+    "item": "minecraft:wooden_pickaxe"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:wooden_pickaxe",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:bolt_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:bolt_armor_trim_smithing_template"
+  }
 }

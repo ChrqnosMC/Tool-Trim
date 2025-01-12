@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:gold_ingot",
-  "base": "minecraft:golden_shovel",
+  "addition": {
+    "item": "minecraft:gold_ingot"
+  },
+  "base": {
+    "item": "minecraft:golden_shovel"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:golden_shovel",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:sentry_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:sentry_armor_trim_smithing_template"
+  }
 }

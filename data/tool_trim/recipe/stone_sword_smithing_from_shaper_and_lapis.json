@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:lapis_lazuli",
-  "base": "minecraft:stone_sword",
+  "addition": {
+    "item": "minecraft:lapis_lazuli"
+  },
+  "base": {
+    "item": "minecraft:stone_sword"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:stone_sword",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:shaper_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:shaper_armor_trim_smithing_template"
+  }
 }

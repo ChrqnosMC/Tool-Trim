@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:diamond",
-  "base": "minecraft:wooden_sword",
+  "addition": {
+    "item": "minecraft:diamond"
+  },
+  "base": {
+    "item": "minecraft:wooden_sword"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:wooden_sword",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:spire_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:spire_armor_trim_smithing_template"
+  }
 }

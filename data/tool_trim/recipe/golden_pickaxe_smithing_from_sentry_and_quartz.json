@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:quartz",
-  "base": "minecraft:golden_pickaxe",
+  "addition": {
+    "item": "minecraft:quartz"
+  },
+  "base": {
+    "item": "minecraft:golden_pickaxe"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:golden_pickaxe",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:sentry_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:sentry_armor_trim_smithing_template"
+  }
 }

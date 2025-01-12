@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:copper_ingot",
-  "base": "minecraft:golden_hoe",
+  "addition": {
+    "item": "minecraft:copper_ingot"
+  },
+  "base": {
+    "item": "minecraft:golden_hoe"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:golden_hoe",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:wayfinder_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:wayfinder_armor_trim_smithing_template"
+  }
 }

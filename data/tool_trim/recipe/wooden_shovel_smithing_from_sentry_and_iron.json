@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:iron_ingot",
-  "base": "minecraft:wooden_shovel",
+  "addition": {
+    "item": "minecraft:iron_ingot"
+  },
+  "base": {
+    "item": "minecraft:wooden_shovel"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:wooden_shovel",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:sentry_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:sentry_armor_trim_smithing_template"
+  }
 }

@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:emerald",
-  "base": "minecraft:iron_hoe",
+  "addition": {
+    "item": "minecraft:emerald"
+  },
+  "base": {
+    "item": "minecraft:iron_hoe"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:iron_hoe",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:silence_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:silence_armor_trim_smithing_template"
+  }
 }

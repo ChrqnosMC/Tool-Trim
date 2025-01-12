@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:copper_ingot",
-  "base": "minecraft:diamond_sword",
+  "addition": {
+    "item": "minecraft:copper_ingot"
+  },
+  "base": {
+    "item": "minecraft:diamond_sword"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:diamond_sword",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:sentry_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:sentry_armor_trim_smithing_template"
+  }
 }

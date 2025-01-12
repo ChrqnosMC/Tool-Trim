@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:iron_ingot",
-  "base": "minecraft:netherite_shovel",
+  "addition": {
+    "item": "minecraft:iron_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_shovel"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:netherite_shovel",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:snout_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:snout_armor_trim_smithing_template"
+  }
 }

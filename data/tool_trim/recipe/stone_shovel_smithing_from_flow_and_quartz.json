@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:quartz",
-  "base": "minecraft:stone_shovel",
+  "addition": {
+    "item": "minecraft:quartz"
+  },
+  "base": {
+    "item": "minecraft:stone_shovel"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:stone_shovel",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:flow_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:flow_armor_trim_smithing_template"
+  }
 }

@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:redstone",
-  "base": "minecraft:golden_axe",
+  "addition": {
+    "item": "minecraft:redstone"
+  },
+  "base": {
+    "item": "minecraft:golden_axe"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:golden_axe",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:host_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:host_armor_trim_smithing_template"
+  }
 }

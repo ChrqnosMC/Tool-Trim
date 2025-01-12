@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:gold_ingot",
-  "base": "minecraft:wooden_sword",
+  "addition": {
+    "item": "minecraft:gold_ingot"
+  },
+  "base": {
+    "item": "minecraft:wooden_sword"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:wooden_sword",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:silence_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:silence_armor_trim_smithing_template"
+  }
 }

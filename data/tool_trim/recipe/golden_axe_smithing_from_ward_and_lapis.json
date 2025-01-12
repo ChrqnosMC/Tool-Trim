@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:lapis_lazuli",
-  "base": "minecraft:golden_axe",
+  "addition": {
+    "item": "minecraft:lapis_lazuli"
+  },
+  "base": {
+    "item": "minecraft:golden_axe"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:golden_axe",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:ward_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:ward_armor_trim_smithing_template"
+  }
 }

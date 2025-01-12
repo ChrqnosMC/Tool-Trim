@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:iron_ingot",
-  "base": "minecraft:iron_axe",
+  "addition": {
+    "item": "minecraft:iron_ingot"
+  },
+  "base": {
+    "item": "minecraft:iron_axe"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:iron_axe",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:eye_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:eye_armor_trim_smithing_template"
+  }
 }

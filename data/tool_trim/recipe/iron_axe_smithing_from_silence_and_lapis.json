@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:lapis_lazuli",
-  "base": "minecraft:iron_axe",
+  "addition": {
+    "item": "minecraft:lapis_lazuli"
+  },
+  "base": {
+    "item": "minecraft:iron_axe"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:iron_axe",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:silence_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:silence_armor_trim_smithing_template"
+  }
 }

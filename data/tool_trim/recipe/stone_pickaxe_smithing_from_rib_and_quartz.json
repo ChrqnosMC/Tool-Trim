@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:quartz",
-  "base": "minecraft:stone_pickaxe",
+  "addition": {
+    "item": "minecraft:quartz"
+  },
+  "base": {
+    "item": "minecraft:stone_pickaxe"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:stone_pickaxe",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:rib_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:rib_armor_trim_smithing_template"
+  }
 }

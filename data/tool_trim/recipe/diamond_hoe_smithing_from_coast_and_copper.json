@@ -1,7 +1,11 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:copper_ingot",
-  "base": "minecraft:diamond_hoe",
+  "addition": {
+    "item": "minecraft:copper_ingot"
+  },
+  "base": {
+    "item": "minecraft:diamond_hoe"
+  },
   "result": {
     "count": 1,
     "id": "minecraft:diamond_hoe",
@@ -13,5 +17,7 @@
       }
     }
   },
-  "template": "minecraft:coast_armor_trim_smithing_template"
+  "template": {
+    "item": "minecraft:coast_armor_trim_smithing_template"
+  }
 }
