@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tool_trim:item/stone_sword_silence_trim_ender_pearl"
+  }
+}

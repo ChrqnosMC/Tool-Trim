@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:diamond_sword"
+  },
+  "addition": {
+    "item": "minecraft:slime_ball"
+  },
+  "template": {
+    "item": "minecraft:spire_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:diamond_sword",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:slime",
+        "pattern": "minecraft:spire",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 13
+    }
+  }
+}

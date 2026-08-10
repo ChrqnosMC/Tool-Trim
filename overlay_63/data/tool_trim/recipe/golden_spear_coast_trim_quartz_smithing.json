@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:golden_spear",
+  "addition": "minecraft:quartz",
+  "template": "minecraft:coast_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:golden_spear",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:quartz",
+        "pattern": "minecraft:coast",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

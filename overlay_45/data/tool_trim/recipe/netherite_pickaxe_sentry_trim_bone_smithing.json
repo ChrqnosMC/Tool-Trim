@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:netherite_pickaxe"
+  },
+  "addition": {
+    "item": "minecraft:bone"
+  },
+  "template": {
+    "item": "minecraft:sentry_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:netherite_pickaxe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:bone",
+        "pattern": "minecraft:sentry",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 9
+    }
+  }
+}

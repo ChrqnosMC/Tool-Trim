@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:golden_spear_in_hand",
+  "addition": "minecraft:end_crystal",
+  "template": "minecraft:bolt_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:golden_spear_in_hand",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:end_crystal",
+        "pattern": "minecraft:bolt",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

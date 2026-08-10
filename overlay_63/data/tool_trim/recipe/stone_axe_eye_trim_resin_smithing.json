@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:stone_axe",
+  "addition": "minecraft:resin_brick",
+  "template": "minecraft:eye_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:stone_axe",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:resin",
+        "pattern": "minecraft:eye",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

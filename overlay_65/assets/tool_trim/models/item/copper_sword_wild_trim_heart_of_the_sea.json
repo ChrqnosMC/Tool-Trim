@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tool_trim:item/copper_sword_wild_trim_heart_of_the_sea"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:golden_hoe",
+  "addition": "minecraft:blaze_rod",
+  "template": "minecraft:eye_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:golden_hoe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:blaze_rod",
+        "pattern": "minecraft:eye",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 4
+    }
+  }
+}

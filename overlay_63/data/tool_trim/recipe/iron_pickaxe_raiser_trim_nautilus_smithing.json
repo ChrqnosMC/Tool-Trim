@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:iron_pickaxe",
+  "addition": "minecraft:nautilus_shell",
+  "template": "minecraft:raiser_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:iron_pickaxe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:nautilus",
+        "pattern": "minecraft:raiser",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

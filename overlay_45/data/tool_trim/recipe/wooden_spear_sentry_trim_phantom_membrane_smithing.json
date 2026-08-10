@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:wooden_spear"
+  },
+  "addition": {
+    "item": "minecraft:phantom_membrane"
+  },
+  "template": {
+    "item": "minecraft:sentry_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:wooden_spear",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:phantom_membrane",
+        "pattern": "minecraft:sentry",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 9
+    }
+  }
+}

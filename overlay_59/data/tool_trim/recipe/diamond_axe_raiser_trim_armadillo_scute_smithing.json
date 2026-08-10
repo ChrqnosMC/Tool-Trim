@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:diamond_axe",
+  "addition": "minecraft:armadillo_scute",
+  "template": "minecraft:raiser_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:diamond_axe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:armadillo_scute",
+        "pattern": "minecraft:raiser",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          7
+        ]
+      }
+    }
+  }
+}

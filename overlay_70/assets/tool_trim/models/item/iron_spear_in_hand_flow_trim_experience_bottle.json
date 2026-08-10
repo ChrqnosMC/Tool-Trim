@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tool_trim:item/iron_spear_in_hand_flow_trim_experience_bottle"
+  }
+}

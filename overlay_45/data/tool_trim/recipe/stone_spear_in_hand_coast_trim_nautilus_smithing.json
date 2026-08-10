@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:stone_spear_in_hand"
+  },
+  "addition": {
+    "item": "minecraft:nautilus_shell"
+  },
+  "template": {
+    "item": "minecraft:coast_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:stone_spear_in_hand",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:nautilus",
+        "pattern": "minecraft:coast",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 2
+    }
+  }
+}

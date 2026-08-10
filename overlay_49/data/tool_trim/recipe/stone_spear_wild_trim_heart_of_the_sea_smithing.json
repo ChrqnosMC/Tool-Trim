@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:stone_spear",
+  "addition": "minecraft:heart_of_the_sea",
+  "template": "minecraft:wild_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:stone_spear",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:heart_of_the_sea",
+        "pattern": "minecraft:wild",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 18
+    }
+  }
+}

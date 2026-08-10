@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:wooden_spear_in_hand",
+  "addition": "minecraft:coal",
+  "template": "minecraft:ward_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:wooden_spear_in_hand",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:coal",
+        "pattern": "minecraft:ward",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 16
+    }
+  }
+}

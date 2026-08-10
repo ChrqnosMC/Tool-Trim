@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:wooden_spear_in_hand"
+  },
+  "addition": {
+    "item": "minecraft:lapis_lazuli"
+  },
+  "template": {
+    "item": "minecraft:spire_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:wooden_spear_in_hand",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:lapis",
+        "pattern": "minecraft:spire",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 13
+    }
+  }
+}

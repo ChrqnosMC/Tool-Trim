@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:stone_spear",
+  "addition": "minecraft:bone",
+  "template": "minecraft:spire_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:stone_spear",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:bone",
+        "pattern": "minecraft:spire",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 13
+    }
+  }
+}

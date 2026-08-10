@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:golden_sword"
+  },
+  "addition": {
+    "item": "minecraft:coal"
+  },
+  "template": {
+    "item": "minecraft:sentry_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:golden_sword",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:coal",
+        "pattern": "minecraft:sentry",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 9
+    }
+  }
+}

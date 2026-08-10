@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:diamond_hoe",
+  "addition": "minecraft:quartz",
+  "template": "minecraft:rib_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:diamond_hoe",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:quartz",
+        "pattern": "minecraft:rib",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 8
+    }
+  }
+}

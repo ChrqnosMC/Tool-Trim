@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:stone_axe",
+  "addition": "minecraft:heart_of_the_sea",
+  "template": "minecraft:ward_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:stone_axe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:heart_of_the_sea",
+        "pattern": "minecraft:ward",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

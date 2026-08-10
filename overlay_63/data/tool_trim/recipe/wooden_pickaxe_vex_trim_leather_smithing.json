@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:wooden_pickaxe",
+  "addition": "minecraft:leather",
+  "template": "minecraft:vex_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:wooden_pickaxe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:leather",
+        "pattern": "minecraft:vex",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

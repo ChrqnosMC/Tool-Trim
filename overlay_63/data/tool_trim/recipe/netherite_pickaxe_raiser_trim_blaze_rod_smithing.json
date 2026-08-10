@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:netherite_pickaxe",
+  "addition": "minecraft:blaze_rod",
+  "template": "minecraft:raiser_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:netherite_pickaxe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:blaze_rod",
+        "pattern": "minecraft:raiser",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

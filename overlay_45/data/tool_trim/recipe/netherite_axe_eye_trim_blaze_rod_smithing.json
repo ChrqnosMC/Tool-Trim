@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:netherite_axe"
+  },
+  "addition": {
+    "item": "minecraft:blaze_rod"
+  },
+  "template": {
+    "item": "minecraft:eye_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:netherite_axe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:blaze_rod",
+        "pattern": "minecraft:eye",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 4
+    }
+  }
+}

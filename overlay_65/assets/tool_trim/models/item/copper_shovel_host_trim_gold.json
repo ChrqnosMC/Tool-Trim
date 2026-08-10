@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tool_trim:item/copper_shovel_host_trim_gold"
+  }
+}

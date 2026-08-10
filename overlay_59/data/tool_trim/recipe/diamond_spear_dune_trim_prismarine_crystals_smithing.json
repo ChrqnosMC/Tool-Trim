@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:diamond_spear",
+  "addition": "minecraft:prismarine_crystals",
+  "template": "minecraft:dune_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:diamond_spear",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:prismarine_crystals",
+        "pattern": "minecraft:dune",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          3
+        ]
+      }
+    }
+  }
+}

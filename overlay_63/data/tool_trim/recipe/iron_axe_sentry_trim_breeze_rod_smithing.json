@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:iron_axe",
+  "addition": "minecraft:breeze_rod",
+  "template": "minecraft:sentry_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:iron_axe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:breeze_rod",
+        "pattern": "minecraft:sentry",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

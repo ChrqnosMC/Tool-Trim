@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:netherite_hoe",
+  "addition": "minecraft:breeze_rod",
+  "template": "minecraft:spire_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:netherite_hoe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:breeze_rod",
+        "pattern": "minecraft:spire",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 13
+    }
+  }
+}

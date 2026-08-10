@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:diamond_shovel"
+  },
+  "addition": {
+    "item": "minecraft:nether_brick"
+  },
+  "template": {
+    "item": "minecraft:spire_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:diamond_shovel",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:nether_brick",
+        "pattern": "minecraft:spire",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 13
+    }
+  }
+}

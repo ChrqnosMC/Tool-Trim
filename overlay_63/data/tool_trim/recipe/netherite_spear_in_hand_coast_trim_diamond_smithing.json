@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:netherite_spear_in_hand",
+  "addition": "minecraft:diamond",
+  "template": "minecraft:coast_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:netherite_spear_in_hand",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:diamond",
+        "pattern": "minecraft:coast",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

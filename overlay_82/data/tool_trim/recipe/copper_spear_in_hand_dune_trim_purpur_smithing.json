@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:copper_spear_in_hand",
+  "addition": "minecraft:popped_chorus_fruit",
+  "template": "minecraft:dune_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:copper_spear_in_hand",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:purpur",
+        "pattern": "minecraft:dune",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

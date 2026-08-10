@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:golden_shovel",
+  "addition": "minecraft:glow_ink_sac",
+  "template": "minecraft:rib_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:golden_shovel",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:glow_ink",
+        "pattern": "minecraft:rib",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

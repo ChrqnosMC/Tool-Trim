@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:wooden_axe",
+  "addition": "minecraft:rabbit_hide",
+  "template": "minecraft:eye_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:wooden_axe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:rabbit_hide",
+        "pattern": "minecraft:eye",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

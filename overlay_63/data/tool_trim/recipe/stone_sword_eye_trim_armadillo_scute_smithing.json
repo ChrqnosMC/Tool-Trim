@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:stone_sword",
+  "addition": "minecraft:armadillo_scute",
+  "template": "minecraft:eye_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:stone_sword",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:armadillo_scute",
+        "pattern": "minecraft:eye",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

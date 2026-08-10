@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:iron_spear_in_hand",
+  "addition": "minecraft:gold_ingot",
+  "template": "minecraft:vex_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:iron_spear_in_hand",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:gold",
+        "pattern": "minecraft:vex",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

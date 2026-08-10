@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:copper_shovel",
+  "addition": "minecraft:redstone",
+  "template": "minecraft:coast_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:copper_shovel",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:redstone",
+        "pattern": "minecraft:coast",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

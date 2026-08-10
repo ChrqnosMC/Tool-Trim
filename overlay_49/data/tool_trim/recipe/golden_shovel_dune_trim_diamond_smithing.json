@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:golden_shovel",
+  "addition": "minecraft:diamond",
+  "template": "minecraft:dune_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:golden_shovel",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:diamond",
+        "pattern": "minecraft:dune",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 3
+    }
+  }
+}

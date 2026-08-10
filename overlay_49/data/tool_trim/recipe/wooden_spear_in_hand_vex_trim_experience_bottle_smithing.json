@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:wooden_spear_in_hand",
+  "addition": "minecraft:experience_bottle",
+  "template": "minecraft:vex_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:wooden_spear_in_hand",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:experience_bottle",
+        "pattern": "minecraft:vex",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 15
+    }
+  }
+}

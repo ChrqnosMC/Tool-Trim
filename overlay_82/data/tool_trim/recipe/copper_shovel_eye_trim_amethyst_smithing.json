@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:copper_shovel",
+  "addition": "minecraft:amethyst_shard",
+  "template": "minecraft:eye_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:copper_shovel",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:amethyst",
+        "pattern": "minecraft:eye",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

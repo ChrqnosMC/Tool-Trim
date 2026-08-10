@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:stone_hoe",
+  "addition": "minecraft:experience_bottle",
+  "template": "minecraft:eye_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:stone_hoe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:experience_bottle",
+        "pattern": "minecraft:eye",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          4
+        ]
+      }
+    }
+  }
+}

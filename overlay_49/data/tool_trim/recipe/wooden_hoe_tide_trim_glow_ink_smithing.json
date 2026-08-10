@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:wooden_hoe",
+  "addition": "minecraft:glow_ink_sac",
+  "template": "minecraft:tide_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:wooden_hoe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:glow_ink",
+        "pattern": "minecraft:tide",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 14
+    }
+  }
+}

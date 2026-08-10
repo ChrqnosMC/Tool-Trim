@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:iron_spear_in_hand"
+  },
+  "addition": {
+    "item": "minecraft:leather"
+  },
+  "template": {
+    "item": "minecraft:flow_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:iron_spear_in_hand",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:leather",
+        "pattern": "minecraft:flow",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 5
+    }
+  }
+}

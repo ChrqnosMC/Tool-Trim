@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:diamond_spear_in_hand",
+  "addition": "minecraft:quartz",
+  "template": "minecraft:flow_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:diamond_spear_in_hand",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:quartz",
+        "pattern": "minecraft:flow",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          5
+        ]
+      }
+    }
+  }
+}

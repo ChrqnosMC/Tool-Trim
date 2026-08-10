@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:wooden_axe"
+  },
+  "addition": {
+    "item": "minecraft:honeycomb"
+  },
+  "template": {
+    "item": "minecraft:vex_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:wooden_axe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:honeycomb",
+        "pattern": "minecraft:vex",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 15
+    }
+  }
+}

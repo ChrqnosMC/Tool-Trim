@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:netherite_axe"
+  },
+  "addition": {
+    "item": "minecraft:diamond"
+  },
+  "template": {
+    "item": "minecraft:shaper_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:netherite_axe",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:diamond",
+        "pattern": "minecraft:shaper",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 10
+    }
+  }
+}

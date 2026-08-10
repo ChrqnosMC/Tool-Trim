@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:stone_sword"
+  },
+  "addition": {
+    "item": "minecraft:slime_ball"
+  },
+  "template": {
+    "item": "minecraft:ward_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:stone_sword",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:slime",
+        "pattern": "minecraft:ward",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 16
+    }
+  }
+}

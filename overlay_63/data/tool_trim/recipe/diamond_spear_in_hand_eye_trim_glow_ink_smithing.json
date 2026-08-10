@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:diamond_spear_in_hand",
+  "addition": "minecraft:glow_ink_sac",
+  "template": "minecraft:eye_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:diamond_spear_in_hand",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:glow_ink",
+        "pattern": "minecraft:eye",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

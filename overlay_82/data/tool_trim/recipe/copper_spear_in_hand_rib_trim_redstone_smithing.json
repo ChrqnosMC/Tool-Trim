@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:copper_spear_in_hand",
+  "addition": "minecraft:redstone",
+  "template": "minecraft:rib_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:copper_spear_in_hand",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:redstone",
+        "pattern": "minecraft:rib",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

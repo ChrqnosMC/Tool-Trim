@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:diamond_spear",
+  "addition": "minecraft:rabbit_hide",
+  "template": "minecraft:sentry_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:diamond_spear",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:rabbit_hide",
+        "pattern": "minecraft:sentry",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

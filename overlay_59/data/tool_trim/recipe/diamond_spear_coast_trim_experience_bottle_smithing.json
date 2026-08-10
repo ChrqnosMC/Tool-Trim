@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:diamond_spear",
+  "addition": "minecraft:experience_bottle",
+  "template": "minecraft:coast_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:diamond_spear",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:experience_bottle",
+        "pattern": "minecraft:coast",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          2
+        ]
+      }
+    }
+  }
+}

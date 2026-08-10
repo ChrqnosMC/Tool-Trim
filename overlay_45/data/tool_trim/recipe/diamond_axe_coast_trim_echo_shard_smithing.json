@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:diamond_axe"
+  },
+  "addition": {
+    "item": "minecraft:echo_shard"
+  },
+  "template": {
+    "item": "minecraft:coast_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:diamond_axe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:echo_shard",
+        "pattern": "minecraft:coast",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 2
+    }
+  }
+}

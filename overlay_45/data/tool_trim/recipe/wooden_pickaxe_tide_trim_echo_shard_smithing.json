@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:wooden_pickaxe"
+  },
+  "addition": {
+    "item": "minecraft:echo_shard"
+  },
+  "template": {
+    "item": "minecraft:tide_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:wooden_pickaxe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:echo_shard",
+        "pattern": "minecraft:tide",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 14
+    }
+  }
+}

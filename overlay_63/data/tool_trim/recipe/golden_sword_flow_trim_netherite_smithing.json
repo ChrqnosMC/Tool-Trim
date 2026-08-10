@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:golden_sword",
+  "addition": "minecraft:netherite_ingot",
+  "template": "minecraft:flow_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:golden_sword",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:netherite",
+        "pattern": "minecraft:flow",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

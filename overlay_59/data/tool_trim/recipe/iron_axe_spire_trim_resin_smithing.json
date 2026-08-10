@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:iron_axe",
+  "addition": "minecraft:resin_brick",
+  "template": "minecraft:spire_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:iron_axe",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:resin",
+        "pattern": "minecraft:spire",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          13
+        ]
+      }
+    }
+  }
+}

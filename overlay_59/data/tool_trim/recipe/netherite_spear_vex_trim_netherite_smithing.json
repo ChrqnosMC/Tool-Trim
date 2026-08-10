@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:netherite_spear",
+  "addition": "minecraft:netherite_ingot",
+  "template": "minecraft:vex_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:netherite_spear",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:netherite",
+        "pattern": "minecraft:vex",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          15
+        ]
+      }
+    }
+  }
+}

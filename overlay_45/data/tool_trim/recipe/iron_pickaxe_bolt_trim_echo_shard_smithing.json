@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:iron_pickaxe"
+  },
+  "addition": {
+    "item": "minecraft:echo_shard"
+  },
+  "template": {
+    "item": "minecraft:bolt_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:iron_pickaxe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:echo_shard",
+        "pattern": "minecraft:bolt",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 1
+    }
+  }
+}

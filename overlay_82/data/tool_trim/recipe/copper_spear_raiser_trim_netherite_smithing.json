@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:copper_spear",
+  "addition": "minecraft:netherite_ingot",
+  "template": "minecraft:raiser_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:copper_spear",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:netherite",
+        "pattern": "minecraft:raiser",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

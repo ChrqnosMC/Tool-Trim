@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:stone_spear"
+  },
+  "addition": {
+    "item": "minecraft:breeze_rod"
+  },
+  "template": {
+    "item": "minecraft:spire_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:stone_spear",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:breeze_rod",
+        "pattern": "minecraft:spire",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 13
+    }
+  }
+}

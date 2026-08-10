@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:golden_hoe",
+  "addition": "minecraft:armadillo_scute",
+  "template": "minecraft:rib_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:golden_hoe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:armadillo_scute",
+        "pattern": "minecraft:rib",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

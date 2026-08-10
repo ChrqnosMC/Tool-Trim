@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:diamond_shovel",
+  "addition": "minecraft:echo_shard",
+  "template": "minecraft:dune_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:diamond_shovel",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:echo_shard",
+        "pattern": "minecraft:dune",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

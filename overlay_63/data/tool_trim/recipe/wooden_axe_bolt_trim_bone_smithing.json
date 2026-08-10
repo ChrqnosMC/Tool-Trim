@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:wooden_axe",
+  "addition": "minecraft:bone",
+  "template": "minecraft:bolt_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:wooden_axe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:bone",
+        "pattern": "minecraft:bolt",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

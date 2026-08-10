@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:iron_axe",
+  "addition": "minecraft:diamond",
+  "template": "minecraft:coast_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:iron_axe",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:diamond",
+        "pattern": "minecraft:coast",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

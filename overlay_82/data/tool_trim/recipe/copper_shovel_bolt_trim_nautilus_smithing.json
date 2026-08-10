@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:copper_shovel",
+  "addition": "minecraft:nautilus_shell",
+  "template": "minecraft:bolt_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:copper_shovel",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:nautilus",
+        "pattern": "minecraft:bolt",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

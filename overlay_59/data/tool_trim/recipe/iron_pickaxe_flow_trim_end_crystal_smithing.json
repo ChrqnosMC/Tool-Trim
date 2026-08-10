@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:iron_pickaxe",
+  "addition": "minecraft:end_crystal",
+  "template": "minecraft:flow_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:iron_pickaxe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:end_crystal",
+        "pattern": "minecraft:flow",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          5
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:iron_hoe"
+  },
+  "addition": {
+    "item": "minecraft:nether_brick"
+  },
+  "template": {
+    "item": "minecraft:bolt_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:iron_hoe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:nether_brick",
+        "pattern": "minecraft:bolt",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 1
+    }
+  }
+}

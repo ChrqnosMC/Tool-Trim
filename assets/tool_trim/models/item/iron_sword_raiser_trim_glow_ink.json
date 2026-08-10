@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tool_trim:item/iron_sword_raiser_trim_glow_ink"
+  }
+}

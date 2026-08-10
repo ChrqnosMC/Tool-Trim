@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:stone_shovel",
+  "addition": "minecraft:redstone",
+  "template": "minecraft:silence_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:stone_shovel",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:redstone",
+        "pattern": "minecraft:silence",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 11
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:diamond_pickaxe",
+  "addition": "minecraft:popped_chorus_fruit",
+  "template": "minecraft:eye_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:diamond_pickaxe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:purpur",
+        "pattern": "minecraft:eye",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          4
+        ]
+      }
+    }
+  }
+}

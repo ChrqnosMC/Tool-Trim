@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:stone_sword",
+  "addition": "minecraft:echo_shard",
+  "template": "minecraft:raiser_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:stone_sword",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:echo_shard",
+        "pattern": "minecraft:raiser",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 7
+    }
+  }
+}

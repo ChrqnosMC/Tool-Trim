@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:wooden_sword",
+  "addition": "minecraft:netherite_ingot",
+  "template": "minecraft:wayfinder_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:wooden_sword",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:netherite",
+        "pattern": "minecraft:wayfinder",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          17
+        ]
+      }
+    }
+  }
+}

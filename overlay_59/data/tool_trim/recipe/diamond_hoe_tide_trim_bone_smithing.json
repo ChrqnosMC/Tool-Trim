@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:diamond_hoe",
+  "addition": "minecraft:bone",
+  "template": "minecraft:tide_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:diamond_hoe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:bone",
+        "pattern": "minecraft:tide",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          14
+        ]
+      }
+    }
+  }
+}

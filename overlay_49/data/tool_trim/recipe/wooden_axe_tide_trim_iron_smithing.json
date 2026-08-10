@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:wooden_axe",
+  "addition": "minecraft:iron_ingot",
+  "template": "minecraft:tide_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:wooden_axe",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:iron",
+        "pattern": "minecraft:tide",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 14
+    }
+  }
+}

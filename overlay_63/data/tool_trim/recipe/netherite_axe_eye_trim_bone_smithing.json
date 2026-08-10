@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:netherite_axe",
+  "addition": "minecraft:bone",
+  "template": "minecraft:eye_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:netherite_axe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:bone",
+        "pattern": "minecraft:eye",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

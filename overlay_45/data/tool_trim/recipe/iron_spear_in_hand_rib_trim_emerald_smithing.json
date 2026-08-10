@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:iron_spear_in_hand"
+  },
+  "addition": {
+    "item": "minecraft:emerald"
+  },
+  "template": {
+    "item": "minecraft:rib_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:iron_spear_in_hand",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:emerald",
+        "pattern": "minecraft:rib",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 8
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:wooden_sword",
+  "addition": "minecraft:amethyst_shard",
+  "template": "minecraft:ward_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:wooden_sword",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:amethyst",
+        "pattern": "minecraft:ward",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

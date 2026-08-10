@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:golden_spear_in_hand",
+  "addition": "minecraft:turtle_scute",
+  "template": "minecraft:shaper_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:golden_spear_in_hand",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:turtle_scute",
+        "pattern": "minecraft:shaper",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

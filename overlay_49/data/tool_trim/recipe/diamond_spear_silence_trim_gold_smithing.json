@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:diamond_spear",
+  "addition": "minecraft:gold_ingot",
+  "template": "minecraft:silence_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:diamond_spear",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:gold",
+        "pattern": "minecraft:silence",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 11
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:stone_axe",
+  "addition": "minecraft:lapis_lazuli",
+  "template": "minecraft:shaper_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:stone_axe",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:lapis",
+        "pattern": "minecraft:shaper",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          10
+        ]
+      }
+    }
+  }
+}

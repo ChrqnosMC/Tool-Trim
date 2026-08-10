@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:iron_pickaxe",
+  "addition": "minecraft:glowstone_dust",
+  "template": "minecraft:shaper_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:iron_pickaxe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:glowstone",
+        "pattern": "minecraft:shaper",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 10
+    }
+  }
+}

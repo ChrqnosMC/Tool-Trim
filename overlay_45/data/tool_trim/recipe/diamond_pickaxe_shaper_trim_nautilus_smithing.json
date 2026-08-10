@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:diamond_pickaxe"
+  },
+  "addition": {
+    "item": "minecraft:nautilus_shell"
+  },
+  "template": {
+    "item": "minecraft:shaper_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:diamond_pickaxe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:nautilus",
+        "pattern": "minecraft:shaper",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 10
+    }
+  }
+}

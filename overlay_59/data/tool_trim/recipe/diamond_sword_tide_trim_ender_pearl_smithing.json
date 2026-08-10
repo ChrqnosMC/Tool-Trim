@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:diamond_sword",
+  "addition": "minecraft:ender_pearl",
+  "template": "minecraft:tide_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:diamond_sword",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:ender_pearl",
+        "pattern": "minecraft:tide",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          14
+        ]
+      }
+    }
+  }
+}

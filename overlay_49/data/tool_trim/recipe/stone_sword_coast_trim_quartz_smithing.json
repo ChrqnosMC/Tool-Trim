@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:stone_sword",
+  "addition": "minecraft:quartz",
+  "template": "minecraft:coast_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:stone_sword",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:quartz",
+        "pattern": "minecraft:coast",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 2
+    }
+  }
+}

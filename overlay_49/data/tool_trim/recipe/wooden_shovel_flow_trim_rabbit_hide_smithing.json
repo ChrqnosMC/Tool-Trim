@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:wooden_shovel",
+  "addition": "minecraft:rabbit_hide",
+  "template": "minecraft:flow_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:wooden_shovel",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:rabbit_hide",
+        "pattern": "minecraft:flow",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 5
+    }
+  }
+}

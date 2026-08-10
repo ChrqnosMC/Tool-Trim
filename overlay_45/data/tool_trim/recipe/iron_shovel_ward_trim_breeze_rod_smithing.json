@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:iron_shovel"
+  },
+  "addition": {
+    "item": "minecraft:breeze_rod"
+  },
+  "template": {
+    "item": "minecraft:ward_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:iron_shovel",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:breeze_rod",
+        "pattern": "minecraft:ward",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 16
+    }
+  }
+}

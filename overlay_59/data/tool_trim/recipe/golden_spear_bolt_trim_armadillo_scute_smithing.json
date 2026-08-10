@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:golden_spear",
+  "addition": "minecraft:armadillo_scute",
+  "template": "minecraft:bolt_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:golden_spear",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:armadillo_scute",
+        "pattern": "minecraft:bolt",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          1
+        ]
+      }
+    }
+  }
+}

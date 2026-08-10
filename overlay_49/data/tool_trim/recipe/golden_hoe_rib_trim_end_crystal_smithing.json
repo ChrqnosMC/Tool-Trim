@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:golden_hoe",
+  "addition": "minecraft:end_crystal",
+  "template": "minecraft:rib_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:golden_hoe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:end_crystal",
+        "pattern": "minecraft:rib",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 8
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:netherite_hoe",
+  "addition": "minecraft:quartz",
+  "template": "minecraft:wayfinder_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:netherite_hoe",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:quartz",
+        "pattern": "minecraft:wayfinder",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          17
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:golden_sword",
+  "addition": "minecraft:blaze_rod",
+  "template": "minecraft:bolt_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:golden_sword",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:blaze_rod",
+        "pattern": "minecraft:bolt",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

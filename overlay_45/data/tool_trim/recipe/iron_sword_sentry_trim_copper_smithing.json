@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:iron_sword"
+  },
+  "addition": {
+    "item": "minecraft:copper_ingot"
+  },
+  "template": {
+    "item": "minecraft:sentry_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:iron_sword",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:copper",
+        "pattern": "minecraft:sentry",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 9
+    }
+  }
+}

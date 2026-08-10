@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:golden_spear",
+  "addition": "minecraft:echo_shard",
+  "template": "minecraft:shaper_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:golden_spear",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:echo_shard",
+        "pattern": "minecraft:shaper",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 10
+    }
+  }
+}

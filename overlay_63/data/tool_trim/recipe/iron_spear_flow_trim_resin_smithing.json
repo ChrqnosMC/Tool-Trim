@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:iron_spear",
+  "addition": "minecraft:resin_brick",
+  "template": "minecraft:flow_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:iron_spear",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:resin",
+        "pattern": "minecraft:flow",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

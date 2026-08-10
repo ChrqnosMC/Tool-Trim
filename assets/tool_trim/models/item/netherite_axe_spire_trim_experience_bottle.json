@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tool_trim:item/netherite_axe_spire_trim_experience_bottle"
+  }
+}

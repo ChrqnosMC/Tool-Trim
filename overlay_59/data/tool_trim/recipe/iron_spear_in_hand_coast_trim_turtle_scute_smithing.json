@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:iron_spear_in_hand",
+  "addition": "minecraft:turtle_scute",
+  "template": "minecraft:coast_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:iron_spear_in_hand",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:turtle_scute",
+        "pattern": "minecraft:coast",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          2
+        ]
+      }
+    }
+  }
+}

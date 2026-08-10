@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:stone_spear_in_hand",
+  "addition": "minecraft:quartz",
+  "template": "minecraft:wild_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:stone_spear_in_hand",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:quartz",
+        "pattern": "minecraft:wild",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          18
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:stone_pickaxe",
+  "addition": "minecraft:glowstone_dust",
+  "template": "minecraft:snout_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:stone_pickaxe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:glowstone",
+        "pattern": "minecraft:snout",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:stone_axe",
+  "addition": "minecraft:rabbit_hide",
+  "template": "minecraft:sentry_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:stone_axe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:rabbit_hide",
+        "pattern": "minecraft:sentry",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          9
+        ]
+      }
+    }
+  }
+}

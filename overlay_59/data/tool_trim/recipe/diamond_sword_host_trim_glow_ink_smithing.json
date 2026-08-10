@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:diamond_sword",
+  "addition": "minecraft:glow_ink_sac",
+  "template": "minecraft:host_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:diamond_sword",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:glow_ink",
+        "pattern": "minecraft:host",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          6
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:golden_hoe",
+  "addition": "minecraft:redstone",
+  "template": "minecraft:snout_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:golden_hoe",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:redstone",
+        "pattern": "minecraft:snout",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:iron_pickaxe",
+  "addition": "minecraft:experience_bottle",
+  "template": "minecraft:vex_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:iron_pickaxe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:experience_bottle",
+        "pattern": "minecraft:vex",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 15
+    }
+  }
+}

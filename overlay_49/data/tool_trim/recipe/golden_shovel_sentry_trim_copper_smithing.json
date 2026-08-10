@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:golden_shovel",
+  "addition": "minecraft:copper_ingot",
+  "template": "minecraft:sentry_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:golden_shovel",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:copper",
+        "pattern": "minecraft:sentry",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 9
+    }
+  }
+}

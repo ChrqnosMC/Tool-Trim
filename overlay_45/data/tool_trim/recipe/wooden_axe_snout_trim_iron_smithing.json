@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:wooden_axe"
+  },
+  "addition": {
+    "item": "minecraft:iron_ingot"
+  },
+  "template": {
+    "item": "minecraft:snout_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:wooden_axe",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:iron",
+        "pattern": "minecraft:snout",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 12
+    }
+  }
+}

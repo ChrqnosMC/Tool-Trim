@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:golden_sword"
+  },
+  "addition": {
+    "item": "minecraft:emerald"
+  },
+  "template": {
+    "item": "minecraft:bolt_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:golden_sword",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:emerald",
+        "pattern": "minecraft:bolt",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 1
+    }
+  }
+}

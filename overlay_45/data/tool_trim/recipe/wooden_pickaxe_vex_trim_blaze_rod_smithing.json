@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:wooden_pickaxe"
+  },
+  "addition": {
+    "item": "minecraft:blaze_rod"
+  },
+  "template": {
+    "item": "minecraft:vex_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:wooden_pickaxe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:blaze_rod",
+        "pattern": "minecraft:vex",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 15
+    }
+  }
+}

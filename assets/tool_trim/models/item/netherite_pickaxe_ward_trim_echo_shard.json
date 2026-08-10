@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tool_trim:item/netherite_pickaxe_ward_trim_echo_shard"
+  }
+}

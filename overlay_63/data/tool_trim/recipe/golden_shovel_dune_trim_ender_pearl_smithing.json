@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:golden_shovel",
+  "addition": "minecraft:ender_pearl",
+  "template": "minecraft:dune_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:golden_shovel",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:ender_pearl",
+        "pattern": "minecraft:dune",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

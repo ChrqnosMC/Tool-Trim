@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:golden_axe",
+  "addition": "minecraft:quartz",
+  "template": "minecraft:eye_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:golden_axe",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:quartz",
+        "pattern": "minecraft:eye",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 4
+    }
+  }
+}

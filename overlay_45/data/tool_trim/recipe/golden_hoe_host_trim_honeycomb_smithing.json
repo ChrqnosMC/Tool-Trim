@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:golden_hoe"
+  },
+  "addition": {
+    "item": "minecraft:honeycomb"
+  },
+  "template": {
+    "item": "minecraft:host_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:golden_hoe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:honeycomb",
+        "pattern": "minecraft:host",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 6
+    }
+  }
+}

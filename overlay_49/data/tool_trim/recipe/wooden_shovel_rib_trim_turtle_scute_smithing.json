@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:wooden_shovel",
+  "addition": "minecraft:turtle_scute",
+  "template": "minecraft:rib_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:wooden_shovel",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:turtle_scute",
+        "pattern": "minecraft:rib",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 8
+    }
+  }
+}

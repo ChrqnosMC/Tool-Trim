@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:stone_spear",
+  "addition": "minecraft:lapis_lazuli",
+  "template": "minecraft:snout_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:stone_spear",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:lapis",
+        "pattern": "minecraft:snout",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          12
+        ]
+      }
+    }
+  }
+}

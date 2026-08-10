@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:golden_pickaxe",
+  "addition": "minecraft:copper_ingot",
+  "template": "minecraft:shaper_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:golden_pickaxe",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:copper",
+        "pattern": "minecraft:shaper",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          10
+        ]
+      }
+    }
+  }
+}

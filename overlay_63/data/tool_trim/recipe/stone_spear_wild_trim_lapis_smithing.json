@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:stone_spear",
+  "addition": "minecraft:lapis_lazuli",
+  "template": "minecraft:wild_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:stone_spear",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:lapis",
+        "pattern": "minecraft:wild",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

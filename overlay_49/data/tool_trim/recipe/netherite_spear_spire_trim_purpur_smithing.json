@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:netherite_spear",
+  "addition": "minecraft:popped_chorus_fruit",
+  "template": "minecraft:spire_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:netherite_spear",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:purpur",
+        "pattern": "minecraft:spire",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 13
+    }
+  }
+}

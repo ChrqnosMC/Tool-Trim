@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:iron_hoe",
+  "addition": "minecraft:phantom_membrane",
+  "template": "minecraft:eye_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:iron_hoe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:phantom_membrane",
+        "pattern": "minecraft:eye",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:golden_pickaxe"
+  },
+  "addition": {
+    "item": "minecraft:heart_of_the_sea"
+  },
+  "template": {
+    "item": "minecraft:ward_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:golden_pickaxe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:heart_of_the_sea",
+        "pattern": "minecraft:ward",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 16
+    }
+  }
+}

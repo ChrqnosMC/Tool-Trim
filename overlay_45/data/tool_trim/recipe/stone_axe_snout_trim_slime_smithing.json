@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:stone_axe"
+  },
+  "addition": {
+    "item": "minecraft:slime_ball"
+  },
+  "template": {
+    "item": "minecraft:snout_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:stone_axe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:slime",
+        "pattern": "minecraft:snout",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 12
+    }
+  }
+}

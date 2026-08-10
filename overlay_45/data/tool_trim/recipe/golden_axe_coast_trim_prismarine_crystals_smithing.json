@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:golden_axe"
+  },
+  "addition": {
+    "item": "minecraft:prismarine_crystals"
+  },
+  "template": {
+    "item": "minecraft:coast_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:golden_axe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:prismarine_crystals",
+        "pattern": "minecraft:coast",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 2
+    }
+  }
+}

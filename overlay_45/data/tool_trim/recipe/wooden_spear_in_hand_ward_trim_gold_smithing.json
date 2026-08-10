@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:wooden_spear_in_hand"
+  },
+  "addition": {
+    "item": "minecraft:gold_ingot"
+  },
+  "template": {
+    "item": "minecraft:ward_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:wooden_spear_in_hand",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:gold",
+        "pattern": "minecraft:ward",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 16
+    }
+  }
+}

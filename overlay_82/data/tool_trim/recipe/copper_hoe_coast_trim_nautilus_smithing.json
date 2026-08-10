@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:copper_hoe",
+  "addition": "minecraft:nautilus_shell",
+  "template": "minecraft:coast_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:copper_hoe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:nautilus",
+        "pattern": "minecraft:coast",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

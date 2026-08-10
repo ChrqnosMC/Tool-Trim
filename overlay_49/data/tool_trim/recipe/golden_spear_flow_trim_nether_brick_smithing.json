@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:golden_spear",
+  "addition": "minecraft:nether_brick",
+  "template": "minecraft:flow_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:golden_spear",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:nether_brick",
+        "pattern": "minecraft:flow",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 5
+    }
+  }
+}

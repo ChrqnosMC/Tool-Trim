@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tool_trim:item/stone_spear_in_hand_tide_trim_gunpowder"
+  }
+}

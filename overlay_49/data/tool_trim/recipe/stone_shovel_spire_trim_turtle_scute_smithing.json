@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:stone_shovel",
+  "addition": "minecraft:turtle_scute",
+  "template": "minecraft:spire_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:stone_shovel",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:turtle_scute",
+        "pattern": "minecraft:spire",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 13
+    }
+  }
+}

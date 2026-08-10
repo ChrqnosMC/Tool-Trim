@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:golden_shovel"
+  },
+  "addition": {
+    "item": "minecraft:experience_bottle"
+  },
+  "template": {
+    "item": "minecraft:raiser_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:golden_shovel",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:experience_bottle",
+        "pattern": "minecraft:raiser",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 7
+    }
+  }
+}

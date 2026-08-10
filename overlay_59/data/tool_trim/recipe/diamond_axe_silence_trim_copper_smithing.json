@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:diamond_axe",
+  "addition": "minecraft:copper_ingot",
+  "template": "minecraft:silence_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:diamond_axe",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:copper",
+        "pattern": "minecraft:silence",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          11
+        ]
+      }
+    }
+  }
+}

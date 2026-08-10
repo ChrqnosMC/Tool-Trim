@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:copper_shovel",
+  "addition": "minecraft:turtle_scute",
+  "template": "minecraft:host_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:copper_shovel",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:turtle_scute",
+        "pattern": "minecraft:host",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:stone_sword",
+  "addition": "minecraft:amethyst_shard",
+  "template": "minecraft:snout_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:stone_sword",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:amethyst",
+        "pattern": "minecraft:snout",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

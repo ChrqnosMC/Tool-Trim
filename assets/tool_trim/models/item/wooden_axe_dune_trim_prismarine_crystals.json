@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tool_trim:item/wooden_axe_dune_trim_prismarine_crystals"
+  }
+}

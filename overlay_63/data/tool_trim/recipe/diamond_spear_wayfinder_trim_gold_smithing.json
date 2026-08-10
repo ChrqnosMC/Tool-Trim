@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:diamond_spear",
+  "addition": "minecraft:gold_ingot",
+  "template": "minecraft:wayfinder_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:diamond_spear",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:gold",
+        "pattern": "minecraft:wayfinder",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

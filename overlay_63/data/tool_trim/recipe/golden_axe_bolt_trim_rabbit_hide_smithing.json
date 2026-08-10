@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:golden_axe",
+  "addition": "minecraft:rabbit_hide",
+  "template": "minecraft:bolt_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:golden_axe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:rabbit_hide",
+        "pattern": "minecraft:bolt",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

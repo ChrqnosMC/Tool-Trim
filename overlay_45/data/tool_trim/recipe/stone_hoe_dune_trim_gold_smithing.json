@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:stone_hoe"
+  },
+  "addition": {
+    "item": "minecraft:gold_ingot"
+  },
+  "template": {
+    "item": "minecraft:dune_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:stone_hoe",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:gold",
+        "pattern": "minecraft:dune",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 3
+    }
+  }
+}

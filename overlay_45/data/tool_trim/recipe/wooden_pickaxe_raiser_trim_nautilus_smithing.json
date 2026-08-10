@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:wooden_pickaxe"
+  },
+  "addition": {
+    "item": "minecraft:nautilus_shell"
+  },
+  "template": {
+    "item": "minecraft:raiser_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:wooden_pickaxe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:nautilus",
+        "pattern": "minecraft:raiser",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 7
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:netherite_hoe",
+  "addition": "minecraft:armadillo_scute",
+  "template": "minecraft:eye_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:netherite_hoe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:armadillo_scute",
+        "pattern": "minecraft:eye",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

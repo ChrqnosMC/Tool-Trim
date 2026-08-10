@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:wooden_spear",
+  "addition": "minecraft:blaze_rod",
+  "template": "minecraft:ward_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:wooden_spear",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:blaze_rod",
+        "pattern": "minecraft:ward",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          16
+        ]
+      }
+    }
+  }
+}

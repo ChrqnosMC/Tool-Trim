@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:copper_shovel",
+  "addition": "minecraft:glow_ink_sac",
+  "template": "minecraft:sentry_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:copper_shovel",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:glow_ink",
+        "pattern": "minecraft:sentry",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

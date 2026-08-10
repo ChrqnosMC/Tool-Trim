@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:golden_shovel",
+  "addition": "minecraft:prismarine_crystals",
+  "template": "minecraft:wild_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:golden_shovel",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:prismarine_crystals",
+        "pattern": "minecraft:wild",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          18
+        ]
+      }
+    }
+  }
+}

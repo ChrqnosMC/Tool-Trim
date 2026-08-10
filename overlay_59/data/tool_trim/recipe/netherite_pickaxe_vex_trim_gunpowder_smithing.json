@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:netherite_pickaxe",
+  "addition": "minecraft:gunpowder",
+  "template": "minecraft:vex_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:netherite_pickaxe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:gunpowder",
+        "pattern": "minecraft:vex",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          15
+        ]
+      }
+    }
+  }
+}

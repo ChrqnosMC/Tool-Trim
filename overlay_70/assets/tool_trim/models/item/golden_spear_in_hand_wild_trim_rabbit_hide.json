@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tool_trim:item/golden_spear_in_hand_wild_trim_rabbit_hide"
+  }
+}

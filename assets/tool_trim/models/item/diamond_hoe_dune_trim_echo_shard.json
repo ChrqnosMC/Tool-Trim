@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tool_trim:item/diamond_hoe_dune_trim_echo_shard"
+  }
+}

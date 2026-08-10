@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:netherite_shovel",
+  "addition": "minecraft:prismarine_shard",
+  "template": "minecraft:eye_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:netherite_shovel",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:prismarine",
+        "pattern": "minecraft:eye",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": {
+        "floats": [
+          4
+        ]
+      }
+    }
+  }
+}

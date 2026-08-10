@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:golden_axe"
+  },
+  "addition": {
+    "item": "minecraft:redstone"
+  },
+  "template": {
+    "item": "minecraft:rib_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:golden_axe",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:redstone",
+        "pattern": "minecraft:rib",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 8
+    }
+  }
+}

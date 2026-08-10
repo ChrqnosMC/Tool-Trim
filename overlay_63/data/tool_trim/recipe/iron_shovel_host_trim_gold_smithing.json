@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:iron_shovel",
+  "addition": "minecraft:gold_ingot",
+  "template": "minecraft:host_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:iron_shovel",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:gold",
+        "pattern": "minecraft:host",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:wooden_hoe"
+  },
+  "addition": {
+    "item": "minecraft:gold_ingot"
+  },
+  "template": {
+    "item": "minecraft:shaper_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:wooden_hoe",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:gold",
+        "pattern": "minecraft:shaper",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 10
+    }
+  }
+}

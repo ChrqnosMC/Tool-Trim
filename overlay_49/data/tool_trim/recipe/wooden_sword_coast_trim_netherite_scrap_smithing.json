@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:wooden_sword",
+  "addition": "minecraft:netherite_scrap",
+  "template": "minecraft:coast_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:wooden_sword",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:netherite_scrap",
+        "pattern": "minecraft:coast",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 2
+    }
+  }
+}

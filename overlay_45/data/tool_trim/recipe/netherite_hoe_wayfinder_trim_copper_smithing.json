@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:netherite_hoe"
+  },
+  "addition": {
+    "item": "minecraft:copper_ingot"
+  },
+  "template": {
+    "item": "minecraft:wayfinder_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:netherite_hoe",
+    "components": {
+      "minecraft:trim": {
+        "material": "minecraft:copper",
+        "pattern": "minecraft:wayfinder",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 17
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:iron_hoe"
+  },
+  "addition": {
+    "item": "minecraft:turtle_scute"
+  },
+  "template": {
+    "item": "minecraft:eye_armor_trim_smithing_template"
+  },
+  "result": {
+    "id": "minecraft:iron_hoe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:turtle_scute",
+        "pattern": "minecraft:eye",
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_model_data": 4
+    }
+  }
+}

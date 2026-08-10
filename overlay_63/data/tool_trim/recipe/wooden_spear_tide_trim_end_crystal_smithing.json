@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:wooden_spear",
+  "addition": "minecraft:end_crystal",
+  "template": "minecraft:tide_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:wooden_spear",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:end_crystal",
+        "pattern": "minecraft:tide",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

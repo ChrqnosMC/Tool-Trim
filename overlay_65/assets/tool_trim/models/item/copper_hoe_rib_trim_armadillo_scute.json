@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tool_trim:item/copper_hoe_rib_trim_armadillo_scute"
+  }
+}

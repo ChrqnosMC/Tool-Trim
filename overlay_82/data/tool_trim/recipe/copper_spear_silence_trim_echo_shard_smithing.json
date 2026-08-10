@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:copper_spear",
+  "addition": "minecraft:echo_shard",
+  "template": "minecraft:silence_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:copper_spear",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:echo_shard",
+        "pattern": "minecraft:silence",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}

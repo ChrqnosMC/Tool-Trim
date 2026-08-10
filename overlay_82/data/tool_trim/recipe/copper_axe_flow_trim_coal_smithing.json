@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:copper_axe",
+  "addition": "minecraft:coal",
+  "template": "minecraft:flow_armor_trim_smithing_template",
+  "result": {
+    "id": "minecraft:copper_axe",
+    "components": {
+      "minecraft:trim": {
+        "material": "more_trim_materials:coal",
+        "pattern": "minecraft:flow",
+        "show_in_tooltip": true
+      }
+    }
+  }
+}
