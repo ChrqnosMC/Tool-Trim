@@ -116,7 +116,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_armadillo_scute"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_armadillo_scute"
         },
         "when": {
           "material": "more_trim_materials:armadillo_scute",
@@ -126,7 +126,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_blaze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_blaze_rod"
         },
         "when": {
           "material": "more_trim_materials:blaze_rod",
@@ -136,7 +136,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_bone"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_bone"
         },
         "when": {
           "material": "more_trim_materials:bone",
@@ -146,7 +146,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_breeze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_breeze_rod"
         },
         "when": {
           "material": "more_trim_materials:breeze_rod",
@@ -156,7 +156,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_coal"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_coal"
         },
         "when": {
           "material": "more_trim_materials:coal",
@@ -166,7 +166,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_dragon_breath"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_dragon_breath"
         },
         "when": {
           "material": "more_trim_materials:dragon_breath",
@@ -176,7 +176,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_echo_shard"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_echo_shard"
         },
         "when": {
           "material": "more_trim_materials:echo_shard",
@@ -186,7 +186,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_end_crystal"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_end_crystal"
         },
         "when": {
           "material": "more_trim_materials:end_crystal",
@@ -196,7 +196,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_ender_pearl"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_ender_pearl"
         },
         "when": {
           "material": "more_trim_materials:ender_pearl",
@@ -206,7 +206,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_experience_bottle"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_experience_bottle"
         },
         "when": {
           "material": "more_trim_materials:experience_bottle",
@@ -216,7 +216,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_fire_charge"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_fire_charge"
         },
         "when": {
           "material": "more_trim_materials:fire_charge",
@@ -226,7 +226,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_glow_ink"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_glow_ink"
         },
         "when": {
           "material": "more_trim_materials:glow_ink",
@@ -236,7 +236,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_glowstone"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_glowstone"
         },
         "when": {
           "material": "more_trim_materials:glowstone",
@@ -246,7 +246,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_gunpowder"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_gunpowder"
         },
         "when": {
           "material": "more_trim_materials:gunpowder",
@@ -256,7 +256,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_heart_of_the_sea"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_heart_of_the_sea"
         },
         "when": {
           "material": "more_trim_materials:heart_of_the_sea",
@@ -266,7 +266,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_honeycomb"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_honeycomb"
         },
         "when": {
           "material": "more_trim_materials:honeycomb",
@@ -276,7 +276,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_leather"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_leather"
         },
         "when": {
           "material": "more_trim_materials:leather",
@@ -286,7 +286,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_nautilus"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_nautilus"
         },
         "when": {
           "material": "more_trim_materials:nautilus",
@@ -296,7 +296,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_nether_brick"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_nether_brick"
         },
         "when": {
           "material": "more_trim_materials:nether_brick",
@@ -306,7 +306,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_nether_star"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_nether_star"
         },
         "when": {
           "material": "more_trim_materials:nether_star",
@@ -316,7 +316,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_netherite_scrap"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_netherite_scrap"
         },
         "when": {
           "material": "more_trim_materials:netherite_scrap",
@@ -326,7 +326,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_phantom_membrane"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_phantom_membrane"
         },
         "when": {
           "material": "more_trim_materials:phantom_membrane",
@@ -336,7 +336,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_prismarine_crystals"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_prismarine_crystals"
         },
         "when": {
           "material": "more_trim_materials:prismarine_crystals",
@@ -346,7 +346,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_prismarine"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_prismarine"
         },
         "when": {
           "material": "more_trim_materials:prismarine",
@@ -356,7 +356,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_purpur"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_purpur"
         },
         "when": {
           "material": "more_trim_materials:purpur",
@@ -366,7 +366,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_rabbit_hide"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_rabbit_hide"
         },
         "when": {
           "material": "more_trim_materials:rabbit_hide",
@@ -376,7 +376,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_slime"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_slime"
         },
         "when": {
           "material": "more_trim_materials:slime",
@@ -386,7 +386,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_bolt_trim_turtle_scute"
+          "model": "tool_trim:item/wooden_pickaxe_bolt_trim_turtle_scute"
         },
         "when": {
           "material": "more_trim_materials:turtle_scute",
@@ -506,7 +506,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_armadillo_scute"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_armadillo_scute"
         },
         "when": {
           "material": "more_trim_materials:armadillo_scute",
@@ -516,7 +516,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_blaze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_blaze_rod"
         },
         "when": {
           "material": "more_trim_materials:blaze_rod",
@@ -526,7 +526,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_bone"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_bone"
         },
         "when": {
           "material": "more_trim_materials:bone",
@@ -536,7 +536,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_breeze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_breeze_rod"
         },
         "when": {
           "material": "more_trim_materials:breeze_rod",
@@ -546,7 +546,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_coal"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_coal"
         },
         "when": {
           "material": "more_trim_materials:coal",
@@ -556,7 +556,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_dragon_breath"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_dragon_breath"
         },
         "when": {
           "material": "more_trim_materials:dragon_breath",
@@ -566,7 +566,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_echo_shard"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_echo_shard"
         },
         "when": {
           "material": "more_trim_materials:echo_shard",
@@ -576,7 +576,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_end_crystal"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_end_crystal"
         },
         "when": {
           "material": "more_trim_materials:end_crystal",
@@ -586,7 +586,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_ender_pearl"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_ender_pearl"
         },
         "when": {
           "material": "more_trim_materials:ender_pearl",
@@ -596,7 +596,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_experience_bottle"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_experience_bottle"
         },
         "when": {
           "material": "more_trim_materials:experience_bottle",
@@ -606,7 +606,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_fire_charge"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_fire_charge"
         },
         "when": {
           "material": "more_trim_materials:fire_charge",
@@ -616,7 +616,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_glow_ink"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_glow_ink"
         },
         "when": {
           "material": "more_trim_materials:glow_ink",
@@ -626,7 +626,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_glowstone"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_glowstone"
         },
         "when": {
           "material": "more_trim_materials:glowstone",
@@ -636,7 +636,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_gunpowder"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_gunpowder"
         },
         "when": {
           "material": "more_trim_materials:gunpowder",
@@ -646,7 +646,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_heart_of_the_sea"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_heart_of_the_sea"
         },
         "when": {
           "material": "more_trim_materials:heart_of_the_sea",
@@ -656,7 +656,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_honeycomb"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_honeycomb"
         },
         "when": {
           "material": "more_trim_materials:honeycomb",
@@ -666,7 +666,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_leather"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_leather"
         },
         "when": {
           "material": "more_trim_materials:leather",
@@ -676,7 +676,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_nautilus"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_nautilus"
         },
         "when": {
           "material": "more_trim_materials:nautilus",
@@ -686,7 +686,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_nether_brick"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_nether_brick"
         },
         "when": {
           "material": "more_trim_materials:nether_brick",
@@ -696,7 +696,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_nether_star"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_nether_star"
         },
         "when": {
           "material": "more_trim_materials:nether_star",
@@ -706,7 +706,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_netherite_scrap"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_netherite_scrap"
         },
         "when": {
           "material": "more_trim_materials:netherite_scrap",
@@ -716,7 +716,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_phantom_membrane"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_phantom_membrane"
         },
         "when": {
           "material": "more_trim_materials:phantom_membrane",
@@ -726,7 +726,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_prismarine_crystals"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_prismarine_crystals"
         },
         "when": {
           "material": "more_trim_materials:prismarine_crystals",
@@ -736,7 +736,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_prismarine"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_prismarine"
         },
         "when": {
           "material": "more_trim_materials:prismarine",
@@ -746,7 +746,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_purpur"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_purpur"
         },
         "when": {
           "material": "more_trim_materials:purpur",
@@ -756,7 +756,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_rabbit_hide"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_rabbit_hide"
         },
         "when": {
           "material": "more_trim_materials:rabbit_hide",
@@ -766,7 +766,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_slime"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_slime"
         },
         "when": {
           "material": "more_trim_materials:slime",
@@ -776,7 +776,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_coast_trim_turtle_scute"
+          "model": "tool_trim:item/wooden_pickaxe_coast_trim_turtle_scute"
         },
         "when": {
           "material": "more_trim_materials:turtle_scute",
@@ -896,7 +896,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_armadillo_scute"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_armadillo_scute"
         },
         "when": {
           "material": "more_trim_materials:armadillo_scute",
@@ -906,7 +906,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_blaze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_blaze_rod"
         },
         "when": {
           "material": "more_trim_materials:blaze_rod",
@@ -916,7 +916,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_bone"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_bone"
         },
         "when": {
           "material": "more_trim_materials:bone",
@@ -926,7 +926,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_breeze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_breeze_rod"
         },
         "when": {
           "material": "more_trim_materials:breeze_rod",
@@ -936,7 +936,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_coal"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_coal"
         },
         "when": {
           "material": "more_trim_materials:coal",
@@ -946,7 +946,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_dragon_breath"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_dragon_breath"
         },
         "when": {
           "material": "more_trim_materials:dragon_breath",
@@ -956,7 +956,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_echo_shard"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_echo_shard"
         },
         "when": {
           "material": "more_trim_materials:echo_shard",
@@ -966,7 +966,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_end_crystal"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_end_crystal"
         },
         "when": {
           "material": "more_trim_materials:end_crystal",
@@ -976,7 +976,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_ender_pearl"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_ender_pearl"
         },
         "when": {
           "material": "more_trim_materials:ender_pearl",
@@ -986,7 +986,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_experience_bottle"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_experience_bottle"
         },
         "when": {
           "material": "more_trim_materials:experience_bottle",
@@ -996,7 +996,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_fire_charge"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_fire_charge"
         },
         "when": {
           "material": "more_trim_materials:fire_charge",
@@ -1006,7 +1006,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_glow_ink"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_glow_ink"
         },
         "when": {
           "material": "more_trim_materials:glow_ink",
@@ -1016,7 +1016,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_glowstone"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_glowstone"
         },
         "when": {
           "material": "more_trim_materials:glowstone",
@@ -1026,7 +1026,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_gunpowder"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_gunpowder"
         },
         "when": {
           "material": "more_trim_materials:gunpowder",
@@ -1036,7 +1036,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_heart_of_the_sea"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_heart_of_the_sea"
         },
         "when": {
           "material": "more_trim_materials:heart_of_the_sea",
@@ -1046,7 +1046,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_honeycomb"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_honeycomb"
         },
         "when": {
           "material": "more_trim_materials:honeycomb",
@@ -1056,7 +1056,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_leather"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_leather"
         },
         "when": {
           "material": "more_trim_materials:leather",
@@ -1066,7 +1066,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_nautilus"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_nautilus"
         },
         "when": {
           "material": "more_trim_materials:nautilus",
@@ -1076,7 +1076,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_nether_brick"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_nether_brick"
         },
         "when": {
           "material": "more_trim_materials:nether_brick",
@@ -1086,7 +1086,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_nether_star"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_nether_star"
         },
         "when": {
           "material": "more_trim_materials:nether_star",
@@ -1096,7 +1096,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_netherite_scrap"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_netherite_scrap"
         },
         "when": {
           "material": "more_trim_materials:netherite_scrap",
@@ -1106,7 +1106,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_phantom_membrane"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_phantom_membrane"
         },
         "when": {
           "material": "more_trim_materials:phantom_membrane",
@@ -1116,7 +1116,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_prismarine_crystals"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_prismarine_crystals"
         },
         "when": {
           "material": "more_trim_materials:prismarine_crystals",
@@ -1126,7 +1126,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_prismarine"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_prismarine"
         },
         "when": {
           "material": "more_trim_materials:prismarine",
@@ -1136,7 +1136,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_purpur"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_purpur"
         },
         "when": {
           "material": "more_trim_materials:purpur",
@@ -1146,7 +1146,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_rabbit_hide"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_rabbit_hide"
         },
         "when": {
           "material": "more_trim_materials:rabbit_hide",
@@ -1156,7 +1156,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_slime"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_slime"
         },
         "when": {
           "material": "more_trim_materials:slime",
@@ -1166,7 +1166,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_dune_trim_turtle_scute"
+          "model": "tool_trim:item/wooden_pickaxe_dune_trim_turtle_scute"
         },
         "when": {
           "material": "more_trim_materials:turtle_scute",
@@ -1286,7 +1286,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_armadillo_scute"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_armadillo_scute"
         },
         "when": {
           "material": "more_trim_materials:armadillo_scute",
@@ -1296,7 +1296,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_blaze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_blaze_rod"
         },
         "when": {
           "material": "more_trim_materials:blaze_rod",
@@ -1306,7 +1306,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_bone"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_bone"
         },
         "when": {
           "material": "more_trim_materials:bone",
@@ -1316,7 +1316,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_breeze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_breeze_rod"
         },
         "when": {
           "material": "more_trim_materials:breeze_rod",
@@ -1326,7 +1326,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_coal"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_coal"
         },
         "when": {
           "material": "more_trim_materials:coal",
@@ -1336,7 +1336,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_dragon_breath"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_dragon_breath"
         },
         "when": {
           "material": "more_trim_materials:dragon_breath",
@@ -1346,7 +1346,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_echo_shard"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_echo_shard"
         },
         "when": {
           "material": "more_trim_materials:echo_shard",
@@ -1356,7 +1356,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_end_crystal"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_end_crystal"
         },
         "when": {
           "material": "more_trim_materials:end_crystal",
@@ -1366,7 +1366,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_ender_pearl"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_ender_pearl"
         },
         "when": {
           "material": "more_trim_materials:ender_pearl",
@@ -1376,7 +1376,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_experience_bottle"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_experience_bottle"
         },
         "when": {
           "material": "more_trim_materials:experience_bottle",
@@ -1386,7 +1386,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_fire_charge"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_fire_charge"
         },
         "when": {
           "material": "more_trim_materials:fire_charge",
@@ -1396,7 +1396,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_glow_ink"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_glow_ink"
         },
         "when": {
           "material": "more_trim_materials:glow_ink",
@@ -1406,7 +1406,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_glowstone"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_glowstone"
         },
         "when": {
           "material": "more_trim_materials:glowstone",
@@ -1416,7 +1416,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_gunpowder"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_gunpowder"
         },
         "when": {
           "material": "more_trim_materials:gunpowder",
@@ -1426,7 +1426,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_heart_of_the_sea"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_heart_of_the_sea"
         },
         "when": {
           "material": "more_trim_materials:heart_of_the_sea",
@@ -1436,7 +1436,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_honeycomb"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_honeycomb"
         },
         "when": {
           "material": "more_trim_materials:honeycomb",
@@ -1446,7 +1446,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_leather"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_leather"
         },
         "when": {
           "material": "more_trim_materials:leather",
@@ -1456,7 +1456,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_nautilus"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_nautilus"
         },
         "when": {
           "material": "more_trim_materials:nautilus",
@@ -1466,7 +1466,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_nether_brick"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_nether_brick"
         },
         "when": {
           "material": "more_trim_materials:nether_brick",
@@ -1476,7 +1476,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_nether_star"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_nether_star"
         },
         "when": {
           "material": "more_trim_materials:nether_star",
@@ -1486,7 +1486,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_netherite_scrap"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_netherite_scrap"
         },
         "when": {
           "material": "more_trim_materials:netherite_scrap",
@@ -1496,7 +1496,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_phantom_membrane"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_phantom_membrane"
         },
         "when": {
           "material": "more_trim_materials:phantom_membrane",
@@ -1506,7 +1506,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_prismarine_crystals"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_prismarine_crystals"
         },
         "when": {
           "material": "more_trim_materials:prismarine_crystals",
@@ -1516,7 +1516,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_prismarine"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_prismarine"
         },
         "when": {
           "material": "more_trim_materials:prismarine",
@@ -1526,7 +1526,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_purpur"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_purpur"
         },
         "when": {
           "material": "more_trim_materials:purpur",
@@ -1536,7 +1536,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_rabbit_hide"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_rabbit_hide"
         },
         "when": {
           "material": "more_trim_materials:rabbit_hide",
@@ -1546,7 +1546,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_slime"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_slime"
         },
         "when": {
           "material": "more_trim_materials:slime",
@@ -1556,7 +1556,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_eye_trim_turtle_scute"
+          "model": "tool_trim:item/wooden_pickaxe_eye_trim_turtle_scute"
         },
         "when": {
           "material": "more_trim_materials:turtle_scute",
@@ -1676,7 +1676,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_armadillo_scute"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_armadillo_scute"
         },
         "when": {
           "material": "more_trim_materials:armadillo_scute",
@@ -1686,7 +1686,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_blaze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_blaze_rod"
         },
         "when": {
           "material": "more_trim_materials:blaze_rod",
@@ -1696,7 +1696,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_bone"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_bone"
         },
         "when": {
           "material": "more_trim_materials:bone",
@@ -1706,7 +1706,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_breeze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_breeze_rod"
         },
         "when": {
           "material": "more_trim_materials:breeze_rod",
@@ -1716,7 +1716,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_coal"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_coal"
         },
         "when": {
           "material": "more_trim_materials:coal",
@@ -1726,7 +1726,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_dragon_breath"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_dragon_breath"
         },
         "when": {
           "material": "more_trim_materials:dragon_breath",
@@ -1736,7 +1736,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_echo_shard"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_echo_shard"
         },
         "when": {
           "material": "more_trim_materials:echo_shard",
@@ -1746,7 +1746,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_end_crystal"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_end_crystal"
         },
         "when": {
           "material": "more_trim_materials:end_crystal",
@@ -1756,7 +1756,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_ender_pearl"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_ender_pearl"
         },
         "when": {
           "material": "more_trim_materials:ender_pearl",
@@ -1766,7 +1766,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_experience_bottle"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_experience_bottle"
         },
         "when": {
           "material": "more_trim_materials:experience_bottle",
@@ -1776,7 +1776,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_fire_charge"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_fire_charge"
         },
         "when": {
           "material": "more_trim_materials:fire_charge",
@@ -1786,7 +1786,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_glow_ink"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_glow_ink"
         },
         "when": {
           "material": "more_trim_materials:glow_ink",
@@ -1796,7 +1796,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_glowstone"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_glowstone"
         },
         "when": {
           "material": "more_trim_materials:glowstone",
@@ -1806,7 +1806,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_gunpowder"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_gunpowder"
         },
         "when": {
           "material": "more_trim_materials:gunpowder",
@@ -1816,7 +1816,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_heart_of_the_sea"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_heart_of_the_sea"
         },
         "when": {
           "material": "more_trim_materials:heart_of_the_sea",
@@ -1826,7 +1826,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_honeycomb"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_honeycomb"
         },
         "when": {
           "material": "more_trim_materials:honeycomb",
@@ -1836,7 +1836,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_leather"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_leather"
         },
         "when": {
           "material": "more_trim_materials:leather",
@@ -1846,7 +1846,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_nautilus"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_nautilus"
         },
         "when": {
           "material": "more_trim_materials:nautilus",
@@ -1856,7 +1856,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_nether_brick"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_nether_brick"
         },
         "when": {
           "material": "more_trim_materials:nether_brick",
@@ -1866,7 +1866,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_nether_star"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_nether_star"
         },
         "when": {
           "material": "more_trim_materials:nether_star",
@@ -1876,7 +1876,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_netherite_scrap"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_netherite_scrap"
         },
         "when": {
           "material": "more_trim_materials:netherite_scrap",
@@ -1886,7 +1886,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_phantom_membrane"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_phantom_membrane"
         },
         "when": {
           "material": "more_trim_materials:phantom_membrane",
@@ -1896,7 +1896,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_prismarine_crystals"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_prismarine_crystals"
         },
         "when": {
           "material": "more_trim_materials:prismarine_crystals",
@@ -1906,7 +1906,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_prismarine"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_prismarine"
         },
         "when": {
           "material": "more_trim_materials:prismarine",
@@ -1916,7 +1916,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_purpur"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_purpur"
         },
         "when": {
           "material": "more_trim_materials:purpur",
@@ -1926,7 +1926,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_rabbit_hide"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_rabbit_hide"
         },
         "when": {
           "material": "more_trim_materials:rabbit_hide",
@@ -1936,7 +1936,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_slime"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_slime"
         },
         "when": {
           "material": "more_trim_materials:slime",
@@ -1946,7 +1946,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_flow_trim_turtle_scute"
+          "model": "tool_trim:item/wooden_pickaxe_flow_trim_turtle_scute"
         },
         "when": {
           "material": "more_trim_materials:turtle_scute",
@@ -2066,7 +2066,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_armadillo_scute"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_armadillo_scute"
         },
         "when": {
           "material": "more_trim_materials:armadillo_scute",
@@ -2076,7 +2076,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_blaze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_blaze_rod"
         },
         "when": {
           "material": "more_trim_materials:blaze_rod",
@@ -2086,7 +2086,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_bone"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_bone"
         },
         "when": {
           "material": "more_trim_materials:bone",
@@ -2096,7 +2096,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_breeze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_breeze_rod"
         },
         "when": {
           "material": "more_trim_materials:breeze_rod",
@@ -2106,7 +2106,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_coal"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_coal"
         },
         "when": {
           "material": "more_trim_materials:coal",
@@ -2116,7 +2116,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_dragon_breath"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_dragon_breath"
         },
         "when": {
           "material": "more_trim_materials:dragon_breath",
@@ -2126,7 +2126,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_echo_shard"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_echo_shard"
         },
         "when": {
           "material": "more_trim_materials:echo_shard",
@@ -2136,7 +2136,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_end_crystal"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_end_crystal"
         },
         "when": {
           "material": "more_trim_materials:end_crystal",
@@ -2146,7 +2146,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_ender_pearl"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_ender_pearl"
         },
         "when": {
           "material": "more_trim_materials:ender_pearl",
@@ -2156,7 +2156,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_experience_bottle"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_experience_bottle"
         },
         "when": {
           "material": "more_trim_materials:experience_bottle",
@@ -2166,7 +2166,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_fire_charge"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_fire_charge"
         },
         "when": {
           "material": "more_trim_materials:fire_charge",
@@ -2176,7 +2176,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_glow_ink"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_glow_ink"
         },
         "when": {
           "material": "more_trim_materials:glow_ink",
@@ -2186,7 +2186,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_glowstone"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_glowstone"
         },
         "when": {
           "material": "more_trim_materials:glowstone",
@@ -2196,7 +2196,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_gunpowder"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_gunpowder"
         },
         "when": {
           "material": "more_trim_materials:gunpowder",
@@ -2206,7 +2206,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_heart_of_the_sea"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_heart_of_the_sea"
         },
         "when": {
           "material": "more_trim_materials:heart_of_the_sea",
@@ -2216,7 +2216,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_honeycomb"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_honeycomb"
         },
         "when": {
           "material": "more_trim_materials:honeycomb",
@@ -2226,7 +2226,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_leather"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_leather"
         },
         "when": {
           "material": "more_trim_materials:leather",
@@ -2236,7 +2236,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_nautilus"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_nautilus"
         },
         "when": {
           "material": "more_trim_materials:nautilus",
@@ -2246,7 +2246,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_nether_brick"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_nether_brick"
         },
         "when": {
           "material": "more_trim_materials:nether_brick",
@@ -2256,7 +2256,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_nether_star"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_nether_star"
         },
         "when": {
           "material": "more_trim_materials:nether_star",
@@ -2266,7 +2266,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_netherite_scrap"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_netherite_scrap"
         },
         "when": {
           "material": "more_trim_materials:netherite_scrap",
@@ -2276,7 +2276,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_phantom_membrane"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_phantom_membrane"
         },
         "when": {
           "material": "more_trim_materials:phantom_membrane",
@@ -2286,7 +2286,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_prismarine_crystals"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_prismarine_crystals"
         },
         "when": {
           "material": "more_trim_materials:prismarine_crystals",
@@ -2296,7 +2296,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_prismarine"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_prismarine"
         },
         "when": {
           "material": "more_trim_materials:prismarine",
@@ -2306,7 +2306,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_purpur"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_purpur"
         },
         "when": {
           "material": "more_trim_materials:purpur",
@@ -2316,7 +2316,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_rabbit_hide"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_rabbit_hide"
         },
         "when": {
           "material": "more_trim_materials:rabbit_hide",
@@ -2326,7 +2326,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_slime"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_slime"
         },
         "when": {
           "material": "more_trim_materials:slime",
@@ -2336,7 +2336,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_host_trim_turtle_scute"
+          "model": "tool_trim:item/wooden_pickaxe_host_trim_turtle_scute"
         },
         "when": {
           "material": "more_trim_materials:turtle_scute",
@@ -2456,7 +2456,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_armadillo_scute"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_armadillo_scute"
         },
         "when": {
           "material": "more_trim_materials:armadillo_scute",
@@ -2466,7 +2466,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_blaze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_blaze_rod"
         },
         "when": {
           "material": "more_trim_materials:blaze_rod",
@@ -2476,7 +2476,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_bone"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_bone"
         },
         "when": {
           "material": "more_trim_materials:bone",
@@ -2486,7 +2486,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_breeze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_breeze_rod"
         },
         "when": {
           "material": "more_trim_materials:breeze_rod",
@@ -2496,7 +2496,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_coal"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_coal"
         },
         "when": {
           "material": "more_trim_materials:coal",
@@ -2506,7 +2506,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_dragon_breath"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_dragon_breath"
         },
         "when": {
           "material": "more_trim_materials:dragon_breath",
@@ -2516,7 +2516,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_echo_shard"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_echo_shard"
         },
         "when": {
           "material": "more_trim_materials:echo_shard",
@@ -2526,7 +2526,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_end_crystal"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_end_crystal"
         },
         "when": {
           "material": "more_trim_materials:end_crystal",
@@ -2536,7 +2536,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_ender_pearl"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_ender_pearl"
         },
         "when": {
           "material": "more_trim_materials:ender_pearl",
@@ -2546,7 +2546,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_experience_bottle"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_experience_bottle"
         },
         "when": {
           "material": "more_trim_materials:experience_bottle",
@@ -2556,7 +2556,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_fire_charge"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_fire_charge"
         },
         "when": {
           "material": "more_trim_materials:fire_charge",
@@ -2566,7 +2566,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_glow_ink"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_glow_ink"
         },
         "when": {
           "material": "more_trim_materials:glow_ink",
@@ -2576,7 +2576,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_glowstone"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_glowstone"
         },
         "when": {
           "material": "more_trim_materials:glowstone",
@@ -2586,7 +2586,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_gunpowder"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_gunpowder"
         },
         "when": {
           "material": "more_trim_materials:gunpowder",
@@ -2596,7 +2596,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_heart_of_the_sea"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_heart_of_the_sea"
         },
         "when": {
           "material": "more_trim_materials:heart_of_the_sea",
@@ -2606,7 +2606,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_honeycomb"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_honeycomb"
         },
         "when": {
           "material": "more_trim_materials:honeycomb",
@@ -2616,7 +2616,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_leather"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_leather"
         },
         "when": {
           "material": "more_trim_materials:leather",
@@ -2626,7 +2626,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_nautilus"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_nautilus"
         },
         "when": {
           "material": "more_trim_materials:nautilus",
@@ -2636,7 +2636,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_nether_brick"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_nether_brick"
         },
         "when": {
           "material": "more_trim_materials:nether_brick",
@@ -2646,7 +2646,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_nether_star"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_nether_star"
         },
         "when": {
           "material": "more_trim_materials:nether_star",
@@ -2656,7 +2656,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_netherite_scrap"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_netherite_scrap"
         },
         "when": {
           "material": "more_trim_materials:netherite_scrap",
@@ -2666,7 +2666,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_phantom_membrane"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_phantom_membrane"
         },
         "when": {
           "material": "more_trim_materials:phantom_membrane",
@@ -2676,7 +2676,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_prismarine_crystals"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_prismarine_crystals"
         },
         "when": {
           "material": "more_trim_materials:prismarine_crystals",
@@ -2686,7 +2686,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_prismarine"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_prismarine"
         },
         "when": {
           "material": "more_trim_materials:prismarine",
@@ -2696,7 +2696,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_purpur"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_purpur"
         },
         "when": {
           "material": "more_trim_materials:purpur",
@@ -2706,7 +2706,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_rabbit_hide"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_rabbit_hide"
         },
         "when": {
           "material": "more_trim_materials:rabbit_hide",
@@ -2716,7 +2716,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_slime"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_slime"
         },
         "when": {
           "material": "more_trim_materials:slime",
@@ -2726,7 +2726,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_raiser_trim_turtle_scute"
+          "model": "tool_trim:item/wooden_pickaxe_raiser_trim_turtle_scute"
         },
         "when": {
           "material": "more_trim_materials:turtle_scute",
@@ -2846,7 +2846,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_armadillo_scute"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_armadillo_scute"
         },
         "when": {
           "material": "more_trim_materials:armadillo_scute",
@@ -2856,7 +2856,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_blaze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_blaze_rod"
         },
         "when": {
           "material": "more_trim_materials:blaze_rod",
@@ -2866,7 +2866,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_bone"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_bone"
         },
         "when": {
           "material": "more_trim_materials:bone",
@@ -2876,7 +2876,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_breeze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_breeze_rod"
         },
         "when": {
           "material": "more_trim_materials:breeze_rod",
@@ -2886,7 +2886,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_coal"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_coal"
         },
         "when": {
           "material": "more_trim_materials:coal",
@@ -2896,7 +2896,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_dragon_breath"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_dragon_breath"
         },
         "when": {
           "material": "more_trim_materials:dragon_breath",
@@ -2906,7 +2906,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_echo_shard"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_echo_shard"
         },
         "when": {
           "material": "more_trim_materials:echo_shard",
@@ -2916,7 +2916,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_end_crystal"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_end_crystal"
         },
         "when": {
           "material": "more_trim_materials:end_crystal",
@@ -2926,7 +2926,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_ender_pearl"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_ender_pearl"
         },
         "when": {
           "material": "more_trim_materials:ender_pearl",
@@ -2936,7 +2936,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_experience_bottle"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_experience_bottle"
         },
         "when": {
           "material": "more_trim_materials:experience_bottle",
@@ -2946,7 +2946,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_fire_charge"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_fire_charge"
         },
         "when": {
           "material": "more_trim_materials:fire_charge",
@@ -2956,7 +2956,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_glow_ink"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_glow_ink"
         },
         "when": {
           "material": "more_trim_materials:glow_ink",
@@ -2966,7 +2966,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_glowstone"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_glowstone"
         },
         "when": {
           "material": "more_trim_materials:glowstone",
@@ -2976,7 +2976,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_gunpowder"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_gunpowder"
         },
         "when": {
           "material": "more_trim_materials:gunpowder",
@@ -2986,7 +2986,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_heart_of_the_sea"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_heart_of_the_sea"
         },
         "when": {
           "material": "more_trim_materials:heart_of_the_sea",
@@ -2996,7 +2996,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_honeycomb"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_honeycomb"
         },
         "when": {
           "material": "more_trim_materials:honeycomb",
@@ -3006,7 +3006,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_leather"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_leather"
         },
         "when": {
           "material": "more_trim_materials:leather",
@@ -3016,7 +3016,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_nautilus"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_nautilus"
         },
         "when": {
           "material": "more_trim_materials:nautilus",
@@ -3026,7 +3026,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_nether_brick"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_nether_brick"
         },
         "when": {
           "material": "more_trim_materials:nether_brick",
@@ -3036,7 +3036,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_nether_star"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_nether_star"
         },
         "when": {
           "material": "more_trim_materials:nether_star",
@@ -3046,7 +3046,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_netherite_scrap"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_netherite_scrap"
         },
         "when": {
           "material": "more_trim_materials:netherite_scrap",
@@ -3056,7 +3056,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_phantom_membrane"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_phantom_membrane"
         },
         "when": {
           "material": "more_trim_materials:phantom_membrane",
@@ -3066,7 +3066,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_prismarine_crystals"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_prismarine_crystals"
         },
         "when": {
           "material": "more_trim_materials:prismarine_crystals",
@@ -3076,7 +3076,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_prismarine"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_prismarine"
         },
         "when": {
           "material": "more_trim_materials:prismarine",
@@ -3086,7 +3086,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_purpur"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_purpur"
         },
         "when": {
           "material": "more_trim_materials:purpur",
@@ -3096,7 +3096,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_rabbit_hide"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_rabbit_hide"
         },
         "when": {
           "material": "more_trim_materials:rabbit_hide",
@@ -3106,7 +3106,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_slime"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_slime"
         },
         "when": {
           "material": "more_trim_materials:slime",
@@ -3116,7 +3116,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_rib_trim_turtle_scute"
+          "model": "tool_trim:item/wooden_pickaxe_rib_trim_turtle_scute"
         },
         "when": {
           "material": "more_trim_materials:turtle_scute",
@@ -3236,7 +3236,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_armadillo_scute"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_armadillo_scute"
         },
         "when": {
           "material": "more_trim_materials:armadillo_scute",
@@ -3246,7 +3246,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_blaze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_blaze_rod"
         },
         "when": {
           "material": "more_trim_materials:blaze_rod",
@@ -3256,7 +3256,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_bone"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_bone"
         },
         "when": {
           "material": "more_trim_materials:bone",
@@ -3266,7 +3266,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_breeze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_breeze_rod"
         },
         "when": {
           "material": "more_trim_materials:breeze_rod",
@@ -3276,7 +3276,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_coal"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_coal"
         },
         "when": {
           "material": "more_trim_materials:coal",
@@ -3286,7 +3286,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_dragon_breath"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_dragon_breath"
         },
         "when": {
           "material": "more_trim_materials:dragon_breath",
@@ -3296,7 +3296,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_echo_shard"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_echo_shard"
         },
         "when": {
           "material": "more_trim_materials:echo_shard",
@@ -3306,7 +3306,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_end_crystal"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_end_crystal"
         },
         "when": {
           "material": "more_trim_materials:end_crystal",
@@ -3316,7 +3316,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_ender_pearl"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_ender_pearl"
         },
         "when": {
           "material": "more_trim_materials:ender_pearl",
@@ -3326,7 +3326,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_experience_bottle"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_experience_bottle"
         },
         "when": {
           "material": "more_trim_materials:experience_bottle",
@@ -3336,7 +3336,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_fire_charge"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_fire_charge"
         },
         "when": {
           "material": "more_trim_materials:fire_charge",
@@ -3346,7 +3346,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_glow_ink"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_glow_ink"
         },
         "when": {
           "material": "more_trim_materials:glow_ink",
@@ -3356,7 +3356,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_glowstone"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_glowstone"
         },
         "when": {
           "material": "more_trim_materials:glowstone",
@@ -3366,7 +3366,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_gunpowder"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_gunpowder"
         },
         "when": {
           "material": "more_trim_materials:gunpowder",
@@ -3376,7 +3376,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_heart_of_the_sea"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_heart_of_the_sea"
         },
         "when": {
           "material": "more_trim_materials:heart_of_the_sea",
@@ -3386,7 +3386,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_honeycomb"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_honeycomb"
         },
         "when": {
           "material": "more_trim_materials:honeycomb",
@@ -3396,7 +3396,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_leather"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_leather"
         },
         "when": {
           "material": "more_trim_materials:leather",
@@ -3406,7 +3406,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_nautilus"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_nautilus"
         },
         "when": {
           "material": "more_trim_materials:nautilus",
@@ -3416,7 +3416,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_nether_brick"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_nether_brick"
         },
         "when": {
           "material": "more_trim_materials:nether_brick",
@@ -3426,7 +3426,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_nether_star"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_nether_star"
         },
         "when": {
           "material": "more_trim_materials:nether_star",
@@ -3436,7 +3436,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_netherite_scrap"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_netherite_scrap"
         },
         "when": {
           "material": "more_trim_materials:netherite_scrap",
@@ -3446,7 +3446,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_phantom_membrane"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_phantom_membrane"
         },
         "when": {
           "material": "more_trim_materials:phantom_membrane",
@@ -3456,7 +3456,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_prismarine_crystals"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_prismarine_crystals"
         },
         "when": {
           "material": "more_trim_materials:prismarine_crystals",
@@ -3466,7 +3466,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_prismarine"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_prismarine"
         },
         "when": {
           "material": "more_trim_materials:prismarine",
@@ -3476,7 +3476,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_purpur"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_purpur"
         },
         "when": {
           "material": "more_trim_materials:purpur",
@@ -3486,7 +3486,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_rabbit_hide"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_rabbit_hide"
         },
         "when": {
           "material": "more_trim_materials:rabbit_hide",
@@ -3496,7 +3496,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_slime"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_slime"
         },
         "when": {
           "material": "more_trim_materials:slime",
@@ -3506,7 +3506,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_sentry_trim_turtle_scute"
+          "model": "tool_trim:item/wooden_pickaxe_sentry_trim_turtle_scute"
         },
         "when": {
           "material": "more_trim_materials:turtle_scute",
@@ -3626,7 +3626,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_armadillo_scute"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_armadillo_scute"
         },
         "when": {
           "material": "more_trim_materials:armadillo_scute",
@@ -3636,7 +3636,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_blaze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_blaze_rod"
         },
         "when": {
           "material": "more_trim_materials:blaze_rod",
@@ -3646,7 +3646,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_bone"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_bone"
         },
         "when": {
           "material": "more_trim_materials:bone",
@@ -3656,7 +3656,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_breeze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_breeze_rod"
         },
         "when": {
           "material": "more_trim_materials:breeze_rod",
@@ -3666,7 +3666,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_coal"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_coal"
         },
         "when": {
           "material": "more_trim_materials:coal",
@@ -3676,7 +3676,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_dragon_breath"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_dragon_breath"
         },
         "when": {
           "material": "more_trim_materials:dragon_breath",
@@ -3686,7 +3686,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_echo_shard"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_echo_shard"
         },
         "when": {
           "material": "more_trim_materials:echo_shard",
@@ -3696,7 +3696,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_end_crystal"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_end_crystal"
         },
         "when": {
           "material": "more_trim_materials:end_crystal",
@@ -3706,7 +3706,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_ender_pearl"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_ender_pearl"
         },
         "when": {
           "material": "more_trim_materials:ender_pearl",
@@ -3716,7 +3716,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_experience_bottle"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_experience_bottle"
         },
         "when": {
           "material": "more_trim_materials:experience_bottle",
@@ -3726,7 +3726,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_fire_charge"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_fire_charge"
         },
         "when": {
           "material": "more_trim_materials:fire_charge",
@@ -3736,7 +3736,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_glow_ink"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_glow_ink"
         },
         "when": {
           "material": "more_trim_materials:glow_ink",
@@ -3746,7 +3746,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_glowstone"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_glowstone"
         },
         "when": {
           "material": "more_trim_materials:glowstone",
@@ -3756,7 +3756,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_gunpowder"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_gunpowder"
         },
         "when": {
           "material": "more_trim_materials:gunpowder",
@@ -3766,7 +3766,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_heart_of_the_sea"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_heart_of_the_sea"
         },
         "when": {
           "material": "more_trim_materials:heart_of_the_sea",
@@ -3776,7 +3776,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_honeycomb"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_honeycomb"
         },
         "when": {
           "material": "more_trim_materials:honeycomb",
@@ -3786,7 +3786,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_leather"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_leather"
         },
         "when": {
           "material": "more_trim_materials:leather",
@@ -3796,7 +3796,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_nautilus"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_nautilus"
         },
         "when": {
           "material": "more_trim_materials:nautilus",
@@ -3806,7 +3806,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_nether_brick"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_nether_brick"
         },
         "when": {
           "material": "more_trim_materials:nether_brick",
@@ -3816,7 +3816,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_nether_star"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_nether_star"
         },
         "when": {
           "material": "more_trim_materials:nether_star",
@@ -3826,7 +3826,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_netherite_scrap"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_netherite_scrap"
         },
         "when": {
           "material": "more_trim_materials:netherite_scrap",
@@ -3836,7 +3836,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_phantom_membrane"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_phantom_membrane"
         },
         "when": {
           "material": "more_trim_materials:phantom_membrane",
@@ -3846,7 +3846,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_prismarine_crystals"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_prismarine_crystals"
         },
         "when": {
           "material": "more_trim_materials:prismarine_crystals",
@@ -3856,7 +3856,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_prismarine"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_prismarine"
         },
         "when": {
           "material": "more_trim_materials:prismarine",
@@ -3866,7 +3866,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_purpur"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_purpur"
         },
         "when": {
           "material": "more_trim_materials:purpur",
@@ -3876,7 +3876,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_rabbit_hide"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_rabbit_hide"
         },
         "when": {
           "material": "more_trim_materials:rabbit_hide",
@@ -3886,7 +3886,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_slime"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_slime"
         },
         "when": {
           "material": "more_trim_materials:slime",
@@ -3896,7 +3896,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_shaper_trim_turtle_scute"
+          "model": "tool_trim:item/wooden_pickaxe_shaper_trim_turtle_scute"
         },
         "when": {
           "material": "more_trim_materials:turtle_scute",
@@ -4016,7 +4016,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_armadillo_scute"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_armadillo_scute"
         },
         "when": {
           "material": "more_trim_materials:armadillo_scute",
@@ -4026,7 +4026,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_blaze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_blaze_rod"
         },
         "when": {
           "material": "more_trim_materials:blaze_rod",
@@ -4036,7 +4036,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_bone"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_bone"
         },
         "when": {
           "material": "more_trim_materials:bone",
@@ -4046,7 +4046,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_breeze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_breeze_rod"
         },
         "when": {
           "material": "more_trim_materials:breeze_rod",
@@ -4056,7 +4056,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_coal"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_coal"
         },
         "when": {
           "material": "more_trim_materials:coal",
@@ -4066,7 +4066,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_dragon_breath"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_dragon_breath"
         },
         "when": {
           "material": "more_trim_materials:dragon_breath",
@@ -4076,7 +4076,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_echo_shard"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_echo_shard"
         },
         "when": {
           "material": "more_trim_materials:echo_shard",
@@ -4086,7 +4086,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_end_crystal"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_end_crystal"
         },
         "when": {
           "material": "more_trim_materials:end_crystal",
@@ -4096,7 +4096,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_ender_pearl"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_ender_pearl"
         },
         "when": {
           "material": "more_trim_materials:ender_pearl",
@@ -4106,7 +4106,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_experience_bottle"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_experience_bottle"
         },
         "when": {
           "material": "more_trim_materials:experience_bottle",
@@ -4116,7 +4116,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_fire_charge"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_fire_charge"
         },
         "when": {
           "material": "more_trim_materials:fire_charge",
@@ -4126,7 +4126,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_glow_ink"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_glow_ink"
         },
         "when": {
           "material": "more_trim_materials:glow_ink",
@@ -4136,7 +4136,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_glowstone"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_glowstone"
         },
         "when": {
           "material": "more_trim_materials:glowstone",
@@ -4146,7 +4146,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_gunpowder"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_gunpowder"
         },
         "when": {
           "material": "more_trim_materials:gunpowder",
@@ -4156,7 +4156,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_heart_of_the_sea"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_heart_of_the_sea"
         },
         "when": {
           "material": "more_trim_materials:heart_of_the_sea",
@@ -4166,7 +4166,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_honeycomb"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_honeycomb"
         },
         "when": {
           "material": "more_trim_materials:honeycomb",
@@ -4176,7 +4176,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_leather"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_leather"
         },
         "when": {
           "material": "more_trim_materials:leather",
@@ -4186,7 +4186,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_nautilus"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_nautilus"
         },
         "when": {
           "material": "more_trim_materials:nautilus",
@@ -4196,7 +4196,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_nether_brick"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_nether_brick"
         },
         "when": {
           "material": "more_trim_materials:nether_brick",
@@ -4206,7 +4206,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_nether_star"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_nether_star"
         },
         "when": {
           "material": "more_trim_materials:nether_star",
@@ -4216,7 +4216,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_netherite_scrap"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_netherite_scrap"
         },
         "when": {
           "material": "more_trim_materials:netherite_scrap",
@@ -4226,7 +4226,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_phantom_membrane"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_phantom_membrane"
         },
         "when": {
           "material": "more_trim_materials:phantom_membrane",
@@ -4236,7 +4236,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_prismarine_crystals"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_prismarine_crystals"
         },
         "when": {
           "material": "more_trim_materials:prismarine_crystals",
@@ -4246,7 +4246,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_prismarine"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_prismarine"
         },
         "when": {
           "material": "more_trim_materials:prismarine",
@@ -4256,7 +4256,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_purpur"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_purpur"
         },
         "when": {
           "material": "more_trim_materials:purpur",
@@ -4266,7 +4266,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_rabbit_hide"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_rabbit_hide"
         },
         "when": {
           "material": "more_trim_materials:rabbit_hide",
@@ -4276,7 +4276,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_slime"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_slime"
         },
         "when": {
           "material": "more_trim_materials:slime",
@@ -4286,7 +4286,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_silence_trim_turtle_scute"
+          "model": "tool_trim:item/wooden_pickaxe_silence_trim_turtle_scute"
         },
         "when": {
           "material": "more_trim_materials:turtle_scute",
@@ -4406,7 +4406,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_armadillo_scute"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_armadillo_scute"
         },
         "when": {
           "material": "more_trim_materials:armadillo_scute",
@@ -4416,7 +4416,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_blaze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_blaze_rod"
         },
         "when": {
           "material": "more_trim_materials:blaze_rod",
@@ -4426,7 +4426,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_bone"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_bone"
         },
         "when": {
           "material": "more_trim_materials:bone",
@@ -4436,7 +4436,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_breeze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_breeze_rod"
         },
         "when": {
           "material": "more_trim_materials:breeze_rod",
@@ -4446,7 +4446,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_coal"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_coal"
         },
         "when": {
           "material": "more_trim_materials:coal",
@@ -4456,7 +4456,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_dragon_breath"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_dragon_breath"
         },
         "when": {
           "material": "more_trim_materials:dragon_breath",
@@ -4466,7 +4466,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_echo_shard"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_echo_shard"
         },
         "when": {
           "material": "more_trim_materials:echo_shard",
@@ -4476,7 +4476,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_end_crystal"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_end_crystal"
         },
         "when": {
           "material": "more_trim_materials:end_crystal",
@@ -4486,7 +4486,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_ender_pearl"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_ender_pearl"
         },
         "when": {
           "material": "more_trim_materials:ender_pearl",
@@ -4496,7 +4496,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_experience_bottle"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_experience_bottle"
         },
         "when": {
           "material": "more_trim_materials:experience_bottle",
@@ -4506,7 +4506,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_fire_charge"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_fire_charge"
         },
         "when": {
           "material": "more_trim_materials:fire_charge",
@@ -4516,7 +4516,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_glow_ink"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_glow_ink"
         },
         "when": {
           "material": "more_trim_materials:glow_ink",
@@ -4526,7 +4526,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_glowstone"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_glowstone"
         },
         "when": {
           "material": "more_trim_materials:glowstone",
@@ -4536,7 +4536,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_gunpowder"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_gunpowder"
         },
         "when": {
           "material": "more_trim_materials:gunpowder",
@@ -4546,7 +4546,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_heart_of_the_sea"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_heart_of_the_sea"
         },
         "when": {
           "material": "more_trim_materials:heart_of_the_sea",
@@ -4556,7 +4556,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_honeycomb"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_honeycomb"
         },
         "when": {
           "material": "more_trim_materials:honeycomb",
@@ -4566,7 +4566,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_leather"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_leather"
         },
         "when": {
           "material": "more_trim_materials:leather",
@@ -4576,7 +4576,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_nautilus"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_nautilus"
         },
         "when": {
           "material": "more_trim_materials:nautilus",
@@ -4586,7 +4586,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_nether_brick"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_nether_brick"
         },
         "when": {
           "material": "more_trim_materials:nether_brick",
@@ -4596,7 +4596,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_nether_star"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_nether_star"
         },
         "when": {
           "material": "more_trim_materials:nether_star",
@@ -4606,7 +4606,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_netherite_scrap"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_netherite_scrap"
         },
         "when": {
           "material": "more_trim_materials:netherite_scrap",
@@ -4616,7 +4616,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_phantom_membrane"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_phantom_membrane"
         },
         "when": {
           "material": "more_trim_materials:phantom_membrane",
@@ -4626,7 +4626,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_prismarine_crystals"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_prismarine_crystals"
         },
         "when": {
           "material": "more_trim_materials:prismarine_crystals",
@@ -4636,7 +4636,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_prismarine"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_prismarine"
         },
         "when": {
           "material": "more_trim_materials:prismarine",
@@ -4646,7 +4646,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_purpur"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_purpur"
         },
         "when": {
           "material": "more_trim_materials:purpur",
@@ -4656,7 +4656,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_rabbit_hide"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_rabbit_hide"
         },
         "when": {
           "material": "more_trim_materials:rabbit_hide",
@@ -4666,7 +4666,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_slime"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_slime"
         },
         "when": {
           "material": "more_trim_materials:slime",
@@ -4676,7 +4676,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_snout_trim_turtle_scute"
+          "model": "tool_trim:item/wooden_pickaxe_snout_trim_turtle_scute"
         },
         "when": {
           "material": "more_trim_materials:turtle_scute",
@@ -4796,7 +4796,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_armadillo_scute"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_armadillo_scute"
         },
         "when": {
           "material": "more_trim_materials:armadillo_scute",
@@ -4806,7 +4806,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_blaze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_blaze_rod"
         },
         "when": {
           "material": "more_trim_materials:blaze_rod",
@@ -4816,7 +4816,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_bone"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_bone"
         },
         "when": {
           "material": "more_trim_materials:bone",
@@ -4826,7 +4826,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_breeze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_breeze_rod"
         },
         "when": {
           "material": "more_trim_materials:breeze_rod",
@@ -4836,7 +4836,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_coal"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_coal"
         },
         "when": {
           "material": "more_trim_materials:coal",
@@ -4846,7 +4846,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_dragon_breath"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_dragon_breath"
         },
         "when": {
           "material": "more_trim_materials:dragon_breath",
@@ -4856,7 +4856,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_echo_shard"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_echo_shard"
         },
         "when": {
           "material": "more_trim_materials:echo_shard",
@@ -4866,7 +4866,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_end_crystal"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_end_crystal"
         },
         "when": {
           "material": "more_trim_materials:end_crystal",
@@ -4876,7 +4876,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_ender_pearl"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_ender_pearl"
         },
         "when": {
           "material": "more_trim_materials:ender_pearl",
@@ -4886,7 +4886,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_experience_bottle"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_experience_bottle"
         },
         "when": {
           "material": "more_trim_materials:experience_bottle",
@@ -4896,7 +4896,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_fire_charge"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_fire_charge"
         },
         "when": {
           "material": "more_trim_materials:fire_charge",
@@ -4906,7 +4906,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_glow_ink"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_glow_ink"
         },
         "when": {
           "material": "more_trim_materials:glow_ink",
@@ -4916,7 +4916,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_glowstone"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_glowstone"
         },
         "when": {
           "material": "more_trim_materials:glowstone",
@@ -4926,7 +4926,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_gunpowder"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_gunpowder"
         },
         "when": {
           "material": "more_trim_materials:gunpowder",
@@ -4936,7 +4936,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_heart_of_the_sea"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_heart_of_the_sea"
         },
         "when": {
           "material": "more_trim_materials:heart_of_the_sea",
@@ -4946,7 +4946,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_honeycomb"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_honeycomb"
         },
         "when": {
           "material": "more_trim_materials:honeycomb",
@@ -4956,7 +4956,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_leather"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_leather"
         },
         "when": {
           "material": "more_trim_materials:leather",
@@ -4966,7 +4966,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_nautilus"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_nautilus"
         },
         "when": {
           "material": "more_trim_materials:nautilus",
@@ -4976,7 +4976,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_nether_brick"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_nether_brick"
         },
         "when": {
           "material": "more_trim_materials:nether_brick",
@@ -4986,7 +4986,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_nether_star"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_nether_star"
         },
         "when": {
           "material": "more_trim_materials:nether_star",
@@ -4996,7 +4996,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_netherite_scrap"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_netherite_scrap"
         },
         "when": {
           "material": "more_trim_materials:netherite_scrap",
@@ -5006,7 +5006,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_phantom_membrane"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_phantom_membrane"
         },
         "when": {
           "material": "more_trim_materials:phantom_membrane",
@@ -5016,7 +5016,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_prismarine_crystals"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_prismarine_crystals"
         },
         "when": {
           "material": "more_trim_materials:prismarine_crystals",
@@ -5026,7 +5026,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_prismarine"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_prismarine"
         },
         "when": {
           "material": "more_trim_materials:prismarine",
@@ -5036,7 +5036,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_purpur"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_purpur"
         },
         "when": {
           "material": "more_trim_materials:purpur",
@@ -5046,7 +5046,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_rabbit_hide"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_rabbit_hide"
         },
         "when": {
           "material": "more_trim_materials:rabbit_hide",
@@ -5056,7 +5056,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_slime"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_slime"
         },
         "when": {
           "material": "more_trim_materials:slime",
@@ -5066,7 +5066,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_spire_trim_turtle_scute"
+          "model": "tool_trim:item/wooden_pickaxe_spire_trim_turtle_scute"
         },
         "when": {
           "material": "more_trim_materials:turtle_scute",
@@ -5186,7 +5186,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_armadillo_scute"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_armadillo_scute"
         },
         "when": {
           "material": "more_trim_materials:armadillo_scute",
@@ -5196,7 +5196,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_blaze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_blaze_rod"
         },
         "when": {
           "material": "more_trim_materials:blaze_rod",
@@ -5206,7 +5206,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_bone"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_bone"
         },
         "when": {
           "material": "more_trim_materials:bone",
@@ -5216,7 +5216,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_breeze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_breeze_rod"
         },
         "when": {
           "material": "more_trim_materials:breeze_rod",
@@ -5226,7 +5226,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_coal"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_coal"
         },
         "when": {
           "material": "more_trim_materials:coal",
@@ -5236,7 +5236,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_dragon_breath"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_dragon_breath"
         },
         "when": {
           "material": "more_trim_materials:dragon_breath",
@@ -5246,7 +5246,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_echo_shard"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_echo_shard"
         },
         "when": {
           "material": "more_trim_materials:echo_shard",
@@ -5256,7 +5256,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_end_crystal"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_end_crystal"
         },
         "when": {
           "material": "more_trim_materials:end_crystal",
@@ -5266,7 +5266,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_ender_pearl"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_ender_pearl"
         },
         "when": {
           "material": "more_trim_materials:ender_pearl",
@@ -5276,7 +5276,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_experience_bottle"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_experience_bottle"
         },
         "when": {
           "material": "more_trim_materials:experience_bottle",
@@ -5286,7 +5286,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_fire_charge"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_fire_charge"
         },
         "when": {
           "material": "more_trim_materials:fire_charge",
@@ -5296,7 +5296,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_glow_ink"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_glow_ink"
         },
         "when": {
           "material": "more_trim_materials:glow_ink",
@@ -5306,7 +5306,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_glowstone"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_glowstone"
         },
         "when": {
           "material": "more_trim_materials:glowstone",
@@ -5316,7 +5316,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_gunpowder"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_gunpowder"
         },
         "when": {
           "material": "more_trim_materials:gunpowder",
@@ -5326,7 +5326,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_heart_of_the_sea"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_heart_of_the_sea"
         },
         "when": {
           "material": "more_trim_materials:heart_of_the_sea",
@@ -5336,7 +5336,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_honeycomb"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_honeycomb"
         },
         "when": {
           "material": "more_trim_materials:honeycomb",
@@ -5346,7 +5346,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_leather"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_leather"
         },
         "when": {
           "material": "more_trim_materials:leather",
@@ -5356,7 +5356,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_nautilus"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_nautilus"
         },
         "when": {
           "material": "more_trim_materials:nautilus",
@@ -5366,7 +5366,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_nether_brick"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_nether_brick"
         },
         "when": {
           "material": "more_trim_materials:nether_brick",
@@ -5376,7 +5376,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_nether_star"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_nether_star"
         },
         "when": {
           "material": "more_trim_materials:nether_star",
@@ -5386,7 +5386,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_netherite_scrap"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_netherite_scrap"
         },
         "when": {
           "material": "more_trim_materials:netherite_scrap",
@@ -5396,7 +5396,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_phantom_membrane"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_phantom_membrane"
         },
         "when": {
           "material": "more_trim_materials:phantom_membrane",
@@ -5406,7 +5406,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_prismarine_crystals"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_prismarine_crystals"
         },
         "when": {
           "material": "more_trim_materials:prismarine_crystals",
@@ -5416,7 +5416,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_prismarine"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_prismarine"
         },
         "when": {
           "material": "more_trim_materials:prismarine",
@@ -5426,7 +5426,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_purpur"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_purpur"
         },
         "when": {
           "material": "more_trim_materials:purpur",
@@ -5436,7 +5436,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_rabbit_hide"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_rabbit_hide"
         },
         "when": {
           "material": "more_trim_materials:rabbit_hide",
@@ -5446,7 +5446,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_slime"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_slime"
         },
         "when": {
           "material": "more_trim_materials:slime",
@@ -5456,7 +5456,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_tide_trim_turtle_scute"
+          "model": "tool_trim:item/wooden_pickaxe_tide_trim_turtle_scute"
         },
         "when": {
           "material": "more_trim_materials:turtle_scute",
@@ -5576,7 +5576,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_armadillo_scute"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_armadillo_scute"
         },
         "when": {
           "material": "more_trim_materials:armadillo_scute",
@@ -5586,7 +5586,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_blaze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_blaze_rod"
         },
         "when": {
           "material": "more_trim_materials:blaze_rod",
@@ -5596,7 +5596,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_bone"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_bone"
         },
         "when": {
           "material": "more_trim_materials:bone",
@@ -5606,7 +5606,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_breeze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_breeze_rod"
         },
         "when": {
           "material": "more_trim_materials:breeze_rod",
@@ -5616,7 +5616,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_coal"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_coal"
         },
         "when": {
           "material": "more_trim_materials:coal",
@@ -5626,7 +5626,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_dragon_breath"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_dragon_breath"
         },
         "when": {
           "material": "more_trim_materials:dragon_breath",
@@ -5636,7 +5636,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_echo_shard"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_echo_shard"
         },
         "when": {
           "material": "more_trim_materials:echo_shard",
@@ -5646,7 +5646,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_end_crystal"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_end_crystal"
         },
         "when": {
           "material": "more_trim_materials:end_crystal",
@@ -5656,7 +5656,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_ender_pearl"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_ender_pearl"
         },
         "when": {
           "material": "more_trim_materials:ender_pearl",
@@ -5666,7 +5666,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_experience_bottle"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_experience_bottle"
         },
         "when": {
           "material": "more_trim_materials:experience_bottle",
@@ -5676,7 +5676,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_fire_charge"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_fire_charge"
         },
         "when": {
           "material": "more_trim_materials:fire_charge",
@@ -5686,7 +5686,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_glow_ink"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_glow_ink"
         },
         "when": {
           "material": "more_trim_materials:glow_ink",
@@ -5696,7 +5696,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_glowstone"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_glowstone"
         },
         "when": {
           "material": "more_trim_materials:glowstone",
@@ -5706,7 +5706,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_gunpowder"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_gunpowder"
         },
         "when": {
           "material": "more_trim_materials:gunpowder",
@@ -5716,7 +5716,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_heart_of_the_sea"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_heart_of_the_sea"
         },
         "when": {
           "material": "more_trim_materials:heart_of_the_sea",
@@ -5726,7 +5726,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_honeycomb"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_honeycomb"
         },
         "when": {
           "material": "more_trim_materials:honeycomb",
@@ -5736,7 +5736,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_leather"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_leather"
         },
         "when": {
           "material": "more_trim_materials:leather",
@@ -5746,7 +5746,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_nautilus"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_nautilus"
         },
         "when": {
           "material": "more_trim_materials:nautilus",
@@ -5756,7 +5756,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_nether_brick"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_nether_brick"
         },
         "when": {
           "material": "more_trim_materials:nether_brick",
@@ -5766,7 +5766,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_nether_star"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_nether_star"
         },
         "when": {
           "material": "more_trim_materials:nether_star",
@@ -5776,7 +5776,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_netherite_scrap"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_netherite_scrap"
         },
         "when": {
           "material": "more_trim_materials:netherite_scrap",
@@ -5786,7 +5786,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_phantom_membrane"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_phantom_membrane"
         },
         "when": {
           "material": "more_trim_materials:phantom_membrane",
@@ -5796,7 +5796,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_prismarine_crystals"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_prismarine_crystals"
         },
         "when": {
           "material": "more_trim_materials:prismarine_crystals",
@@ -5806,7 +5806,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_prismarine"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_prismarine"
         },
         "when": {
           "material": "more_trim_materials:prismarine",
@@ -5816,7 +5816,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_purpur"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_purpur"
         },
         "when": {
           "material": "more_trim_materials:purpur",
@@ -5826,7 +5826,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_rabbit_hide"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_rabbit_hide"
         },
         "when": {
           "material": "more_trim_materials:rabbit_hide",
@@ -5836,7 +5836,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_slime"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_slime"
         },
         "when": {
           "material": "more_trim_materials:slime",
@@ -5846,7 +5846,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_vex_trim_turtle_scute"
+          "model": "tool_trim:item/wooden_pickaxe_vex_trim_turtle_scute"
         },
         "when": {
           "material": "more_trim_materials:turtle_scute",
@@ -5966,7 +5966,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_armadillo_scute"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_armadillo_scute"
         },
         "when": {
           "material": "more_trim_materials:armadillo_scute",
@@ -5976,7 +5976,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_blaze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_blaze_rod"
         },
         "when": {
           "material": "more_trim_materials:blaze_rod",
@@ -5986,7 +5986,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_bone"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_bone"
         },
         "when": {
           "material": "more_trim_materials:bone",
@@ -5996,7 +5996,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_breeze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_breeze_rod"
         },
         "when": {
           "material": "more_trim_materials:breeze_rod",
@@ -6006,7 +6006,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_coal"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_coal"
         },
         "when": {
           "material": "more_trim_materials:coal",
@@ -6016,7 +6016,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_dragon_breath"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_dragon_breath"
         },
         "when": {
           "material": "more_trim_materials:dragon_breath",
@@ -6026,7 +6026,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_echo_shard"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_echo_shard"
         },
         "when": {
           "material": "more_trim_materials:echo_shard",
@@ -6036,7 +6036,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_end_crystal"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_end_crystal"
         },
         "when": {
           "material": "more_trim_materials:end_crystal",
@@ -6046,7 +6046,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_ender_pearl"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_ender_pearl"
         },
         "when": {
           "material": "more_trim_materials:ender_pearl",
@@ -6056,7 +6056,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_experience_bottle"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_experience_bottle"
         },
         "when": {
           "material": "more_trim_materials:experience_bottle",
@@ -6066,7 +6066,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_fire_charge"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_fire_charge"
         },
         "when": {
           "material": "more_trim_materials:fire_charge",
@@ -6076,7 +6076,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_glow_ink"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_glow_ink"
         },
         "when": {
           "material": "more_trim_materials:glow_ink",
@@ -6086,7 +6086,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_glowstone"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_glowstone"
         },
         "when": {
           "material": "more_trim_materials:glowstone",
@@ -6096,7 +6096,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_gunpowder"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_gunpowder"
         },
         "when": {
           "material": "more_trim_materials:gunpowder",
@@ -6106,7 +6106,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_heart_of_the_sea"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_heart_of_the_sea"
         },
         "when": {
           "material": "more_trim_materials:heart_of_the_sea",
@@ -6116,7 +6116,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_honeycomb"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_honeycomb"
         },
         "when": {
           "material": "more_trim_materials:honeycomb",
@@ -6126,7 +6126,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_leather"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_leather"
         },
         "when": {
           "material": "more_trim_materials:leather",
@@ -6136,7 +6136,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_nautilus"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_nautilus"
         },
         "when": {
           "material": "more_trim_materials:nautilus",
@@ -6146,7 +6146,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_nether_brick"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_nether_brick"
         },
         "when": {
           "material": "more_trim_materials:nether_brick",
@@ -6156,7 +6156,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_nether_star"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_nether_star"
         },
         "when": {
           "material": "more_trim_materials:nether_star",
@@ -6166,7 +6166,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_netherite_scrap"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_netherite_scrap"
         },
         "when": {
           "material": "more_trim_materials:netherite_scrap",
@@ -6176,7 +6176,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_phantom_membrane"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_phantom_membrane"
         },
         "when": {
           "material": "more_trim_materials:phantom_membrane",
@@ -6186,7 +6186,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_prismarine_crystals"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_prismarine_crystals"
         },
         "when": {
           "material": "more_trim_materials:prismarine_crystals",
@@ -6196,7 +6196,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_prismarine"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_prismarine"
         },
         "when": {
           "material": "more_trim_materials:prismarine",
@@ -6206,7 +6206,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_purpur"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_purpur"
         },
         "when": {
           "material": "more_trim_materials:purpur",
@@ -6216,7 +6216,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_rabbit_hide"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_rabbit_hide"
         },
         "when": {
           "material": "more_trim_materials:rabbit_hide",
@@ -6226,7 +6226,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_slime"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_slime"
         },
         "when": {
           "material": "more_trim_materials:slime",
@@ -6236,7 +6236,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_ward_trim_turtle_scute"
+          "model": "tool_trim:item/wooden_pickaxe_ward_trim_turtle_scute"
         },
         "when": {
           "material": "more_trim_materials:turtle_scute",
@@ -6356,7 +6356,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_armadillo_scute"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_armadillo_scute"
         },
         "when": {
           "material": "more_trim_materials:armadillo_scute",
@@ -6366,7 +6366,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_blaze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_blaze_rod"
         },
         "when": {
           "material": "more_trim_materials:blaze_rod",
@@ -6376,7 +6376,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_bone"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_bone"
         },
         "when": {
           "material": "more_trim_materials:bone",
@@ -6386,7 +6386,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_breeze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_breeze_rod"
         },
         "when": {
           "material": "more_trim_materials:breeze_rod",
@@ -6396,7 +6396,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_coal"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_coal"
         },
         "when": {
           "material": "more_trim_materials:coal",
@@ -6406,7 +6406,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_dragon_breath"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_dragon_breath"
         },
         "when": {
           "material": "more_trim_materials:dragon_breath",
@@ -6416,7 +6416,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_echo_shard"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_echo_shard"
         },
         "when": {
           "material": "more_trim_materials:echo_shard",
@@ -6426,7 +6426,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_end_crystal"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_end_crystal"
         },
         "when": {
           "material": "more_trim_materials:end_crystal",
@@ -6436,7 +6436,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_ender_pearl"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_ender_pearl"
         },
         "when": {
           "material": "more_trim_materials:ender_pearl",
@@ -6446,7 +6446,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_experience_bottle"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_experience_bottle"
         },
         "when": {
           "material": "more_trim_materials:experience_bottle",
@@ -6456,7 +6456,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_fire_charge"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_fire_charge"
         },
         "when": {
           "material": "more_trim_materials:fire_charge",
@@ -6466,7 +6466,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_glow_ink"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_glow_ink"
         },
         "when": {
           "material": "more_trim_materials:glow_ink",
@@ -6476,7 +6476,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_glowstone"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_glowstone"
         },
         "when": {
           "material": "more_trim_materials:glowstone",
@@ -6486,7 +6486,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_gunpowder"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_gunpowder"
         },
         "when": {
           "material": "more_trim_materials:gunpowder",
@@ -6496,7 +6496,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_heart_of_the_sea"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_heart_of_the_sea"
         },
         "when": {
           "material": "more_trim_materials:heart_of_the_sea",
@@ -6506,7 +6506,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_honeycomb"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_honeycomb"
         },
         "when": {
           "material": "more_trim_materials:honeycomb",
@@ -6516,7 +6516,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_leather"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_leather"
         },
         "when": {
           "material": "more_trim_materials:leather",
@@ -6526,7 +6526,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_nautilus"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_nautilus"
         },
         "when": {
           "material": "more_trim_materials:nautilus",
@@ -6536,7 +6536,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_nether_brick"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_nether_brick"
         },
         "when": {
           "material": "more_trim_materials:nether_brick",
@@ -6546,7 +6546,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_nether_star"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_nether_star"
         },
         "when": {
           "material": "more_trim_materials:nether_star",
@@ -6556,7 +6556,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_netherite_scrap"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_netherite_scrap"
         },
         "when": {
           "material": "more_trim_materials:netherite_scrap",
@@ -6566,7 +6566,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_phantom_membrane"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_phantom_membrane"
         },
         "when": {
           "material": "more_trim_materials:phantom_membrane",
@@ -6576,7 +6576,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_prismarine_crystals"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_prismarine_crystals"
         },
         "when": {
           "material": "more_trim_materials:prismarine_crystals",
@@ -6586,7 +6586,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_prismarine"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_prismarine"
         },
         "when": {
           "material": "more_trim_materials:prismarine",
@@ -6596,7 +6596,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_purpur"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_purpur"
         },
         "when": {
           "material": "more_trim_materials:purpur",
@@ -6606,7 +6606,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_rabbit_hide"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_rabbit_hide"
         },
         "when": {
           "material": "more_trim_materials:rabbit_hide",
@@ -6616,7 +6616,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_slime"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_slime"
         },
         "when": {
           "material": "more_trim_materials:slime",
@@ -6626,7 +6626,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wayfinder_trim_turtle_scute"
+          "model": "tool_trim:item/wooden_pickaxe_wayfinder_trim_turtle_scute"
         },
         "when": {
           "material": "more_trim_materials:turtle_scute",
@@ -6746,7 +6746,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_armadillo_scute"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_armadillo_scute"
         },
         "when": {
           "material": "more_trim_materials:armadillo_scute",
@@ -6756,7 +6756,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_blaze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_blaze_rod"
         },
         "when": {
           "material": "more_trim_materials:blaze_rod",
@@ -6766,7 +6766,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_bone"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_bone"
         },
         "when": {
           "material": "more_trim_materials:bone",
@@ -6776,7 +6776,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_breeze_rod"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_breeze_rod"
         },
         "when": {
           "material": "more_trim_materials:breeze_rod",
@@ -6786,7 +6786,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_coal"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_coal"
         },
         "when": {
           "material": "more_trim_materials:coal",
@@ -6796,7 +6796,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_dragon_breath"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_dragon_breath"
         },
         "when": {
           "material": "more_trim_materials:dragon_breath",
@@ -6806,7 +6806,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_echo_shard"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_echo_shard"
         },
         "when": {
           "material": "more_trim_materials:echo_shard",
@@ -6816,7 +6816,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_end_crystal"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_end_crystal"
         },
         "when": {
           "material": "more_trim_materials:end_crystal",
@@ -6826,7 +6826,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_ender_pearl"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_ender_pearl"
         },
         "when": {
           "material": "more_trim_materials:ender_pearl",
@@ -6836,7 +6836,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_experience_bottle"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_experience_bottle"
         },
         "when": {
           "material": "more_trim_materials:experience_bottle",
@@ -6846,7 +6846,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_fire_charge"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_fire_charge"
         },
         "when": {
           "material": "more_trim_materials:fire_charge",
@@ -6856,7 +6856,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_glow_ink"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_glow_ink"
         },
         "when": {
           "material": "more_trim_materials:glow_ink",
@@ -6866,7 +6866,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_glowstone"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_glowstone"
         },
         "when": {
           "material": "more_trim_materials:glowstone",
@@ -6876,7 +6876,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_gunpowder"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_gunpowder"
         },
         "when": {
           "material": "more_trim_materials:gunpowder",
@@ -6886,7 +6886,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_heart_of_the_sea"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_heart_of_the_sea"
         },
         "when": {
           "material": "more_trim_materials:heart_of_the_sea",
@@ -6896,7 +6896,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_honeycomb"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_honeycomb"
         },
         "when": {
           "material": "more_trim_materials:honeycomb",
@@ -6906,7 +6906,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_leather"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_leather"
         },
         "when": {
           "material": "more_trim_materials:leather",
@@ -6916,7 +6916,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_nautilus"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_nautilus"
         },
         "when": {
           "material": "more_trim_materials:nautilus",
@@ -6926,7 +6926,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_nether_brick"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_nether_brick"
         },
         "when": {
           "material": "more_trim_materials:nether_brick",
@@ -6936,7 +6936,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_nether_star"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_nether_star"
         },
         "when": {
           "material": "more_trim_materials:nether_star",
@@ -6946,7 +6946,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_netherite_scrap"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_netherite_scrap"
         },
         "when": {
           "material": "more_trim_materials:netherite_scrap",
@@ -6956,7 +6956,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_phantom_membrane"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_phantom_membrane"
         },
         "when": {
           "material": "more_trim_materials:phantom_membrane",
@@ -6966,7 +6966,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_prismarine_crystals"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_prismarine_crystals"
         },
         "when": {
           "material": "more_trim_materials:prismarine_crystals",
@@ -6976,7 +6976,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_prismarine"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_prismarine"
         },
         "when": {
           "material": "more_trim_materials:prismarine",
@@ -6986,7 +6986,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_purpur"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_purpur"
         },
         "when": {
           "material": "more_trim_materials:purpur",
@@ -6996,7 +6996,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_rabbit_hide"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_rabbit_hide"
         },
         "when": {
           "material": "more_trim_materials:rabbit_hide",
@@ -7006,7 +7006,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_slime"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_slime"
         },
         "when": {
           "material": "more_trim_materials:slime",
@@ -7016,7 +7016,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "more_trim_materials:item/wooden_pickaxe_wild_trim_turtle_scute"
+          "model": "tool_trim:item/wooden_pickaxe_wild_trim_turtle_scute"
         },
         "when": {
           "material": "more_trim_materials:turtle_scute",
