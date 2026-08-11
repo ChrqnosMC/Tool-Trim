@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "tool_trim:item/copper_spear_rib_trim_glow_ink"
-  }
-}
