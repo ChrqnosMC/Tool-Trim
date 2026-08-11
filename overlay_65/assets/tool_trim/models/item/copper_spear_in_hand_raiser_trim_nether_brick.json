@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/generated",
+  "parent": "minecraft:item/handheld",
   "textures": {
     "layer0": "tool_trim:item/copper_spear_in_hand_raiser_trim_nether_brick"
   }

@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/generated",
+  "parent": "minecraft:item/handheld",
   "textures": {
     "layer0": "tool_trim:item/wooden_axe_host_trim_breeze_rod"
   }
