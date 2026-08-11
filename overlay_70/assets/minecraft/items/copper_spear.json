@@ -7028,6 +7028,10 @@
                             }
                         }
                     ],
+                    "fallback": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/copper_spear"
+                    },
                     "property": "minecraft:component"
                 },
                 "when": [
