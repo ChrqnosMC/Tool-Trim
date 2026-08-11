@@ -14073,7 +14073,6 @@
             },
             "property": "minecraft:component"
         },
-        "swap_animation_scale": 1.95,
         "property": "minecraft:display_context"
     },
     "swap_animation_scale": 1.95
