@@ -211,6 +211,21 @@
 					0
 				],
 				"directory": "overlay_82"
+			},
+			{
+				"formats": [
+					89,
+					110
+				],
+				"min_format": [
+					89,
+					0
+				],
+				"max_format": [
+					110,
+					0
+				],
+				"directory": "overlay_89"
 			}
 		]
 	}
