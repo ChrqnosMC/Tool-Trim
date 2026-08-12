@@ -39,14 +39,16 @@ jobs:
         with:
           path: src/supported_versions.txt
       - name: Upload to modrinth
-        uses: modrinth/minotaur@v2
+        uses: modrinth/publish-action@v2
         with:
           token: ${{secrets.ACCESS_TOKEN}}
-          prodject-id: aa6VCPUX
-          version-name: Tool Trim ${{env.tag}}
-          version-number: ${{env.tag}}
-          file: src/${{env.name}}-${{env.tag}}.zip
+          project: aa6VCPUX
+          name: Tool Trim ${{env.tag}}
+          version: ${{env.tag}}
           files: |
+            src/${{env.name}}-${{env.tag}}.zip
             src/${{env.name}}-${{env.tag}}-more-trim-materials-addon.zip
+          primary-file: ${{env.name}}-${{env.tag}}.zip
+          file-types: ${{env.name}}-${{env.tag}}-more-trim-materials-addon.zip=required-resource-pack
           game-versions: ${{steps.read_file.outputs.contents}}
           loaders: datapack
