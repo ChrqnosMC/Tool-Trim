@@ -24,11 +24,14 @@ jobs:
         with:
           name: ${{env.name}}-${{env.tag}}
           path: src
-      - name: Create zip file
-        run: zip -r ${{env.name}}-${{env.tag}}.zip . -x ".git/*" ".github/*" ".gitattributes" "supported_versions.txt" "add_on/*"
+      - name: Create datapack zip file
+        run: zip -r ${{env.name}}-${{env.tag}}.zip . -x ".git/*" ".github/*" ".gitattributes" "supported_versions.txt" "add_on/*" "assets/*" "overlay_34/*" "overlay_43/*" "overlay_43_2/*" "overlay_44/*" "overlay_48/*" "overlay_65/*" "overlay_70/*"
+        working-directory: src
+      - name: Create resourcepack zip file
+        run: zip -r ${{env.name}}-${{env.tag}}-resourcepack.zip . -x ".git/*" ".github/*" ".gitattributes" "supported_versions.txt" "add_on/*" "data/*" "overlay_45/*" "overlay_49/*" "overlay_58/*" "overlay_59/*" "overlay_63/*" "overlay_82/*" "overlay_89/*"
         working-directory: src
       - name: Create add-on zip file
-        run: zip -r ../${{env.name}}-${{env.tag}}-addon.zip .
+        run: zip -r ../${{env.name}}-${{env.tag}}-more-trim-materials-addon.zip .
         working-directory: src/add_on
       - name: Read supported versions
         uses: andstor/file-reader-action@v1
@@ -36,17 +39,14 @@ jobs:
         with:
           path: src/supported_versions.txt
       - name: Upload to modrinth
-        uses: kir-antipov/mc-publish@v3.3
+        uses: modrinth/minotaur@v2
         with:
-          modrinth-token: ${{secrets.ACCESS_TOKEN}}
-          modrinth-id: aa6VCPUX
-          game-version-filter: none
-          name: Tool Trim ${{env.tag}}
-          version: ${{env.tag}}
+          token: ${{secrets.ACCESS_TOKEN}}
+          prodject-id: aa6VCPUX
+          version-name: Tool Trim ${{env.tag}}
+          version-number: ${{env.tag}}
+          file: src/${{env.name}}-${{env.tag}}.zip
           files: |
-            src/${{env.name}}-${{env.tag}}.zip
-            src/${{env.name}}-${{env.tag}}-addon.zip
+            src/${{env.name}}-${{env.tag}}-more-trim-materials-addon.zip
           game-versions: ${{steps.read_file.outputs.contents}}
-          loaders: |
-            minecraft
-            datapack
+          loaders: datapack
