@@ -44,7 +44,14 @@ jobs:
           name: Tool Trim ${{env.tag}}
           version: ${{env.tag}}
           files: |
-            src/${{env.name}}-${{env.tag}}.zip
-            src/${{env.name}}-${{env.tag}}-addon.zip
+            - path: src/${{env.name}}-${{env.tag}}.zip
+              primary: true
+              loaders:
+                - datapack
+                - minecraft
+            - path: src/${{env.name}}-${{env.tag}}-addon.zip
+              primary: false
+              loaders:
+                - datapack
+                - minecraft
           game-versions: ${{steps.read_file.outputs.contents}}
-          loaders: minecraft datapack
