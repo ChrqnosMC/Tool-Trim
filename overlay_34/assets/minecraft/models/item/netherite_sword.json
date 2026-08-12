@@ -1,4796 +1,1268 @@
 {
-    "parent": "minecraft:item/generated",
-    "overrides": [
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_quartz",
-            "predicate": {
-                "trim_type": 0.1,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_iron",
-            "predicate": {
-                "trim_type": 0.2,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_netherite",
-            "predicate": {
-                "trim_type": 0.3,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_redstone",
-            "predicate": {
-                "trim_type": 0.4,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_copper",
-            "predicate": {
-                "trim_type": 0.5,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_gold",
-            "predicate": {
-                "trim_type": 0.6,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_emerald",
-            "predicate": {
-                "trim_type": 0.7,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_diamond",
-            "predicate": {
-                "trim_type": 0.8,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_lapis",
-            "predicate": {
-                "trim_type": 0.9,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_amethyst",
-            "predicate": {
-                "trim_type": 1.0,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_armadillo_scute",
-            "predicate": {
-                "trim_type": 1.1,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_blaze_rod",
-            "predicate": {
-                "trim_type": 1.2,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_bone",
-            "predicate": {
-                "trim_type": 1.3,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_breeze_rod",
-            "predicate": {
-                "trim_type": 1.4,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_coal",
-            "predicate": {
-                "trim_type": 1.5,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_dragon_breath",
-            "predicate": {
-                "trim_type": 1.6,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_echo_shard",
-            "predicate": {
-                "trim_type": 1.7,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_end_crystal",
-            "predicate": {
-                "trim_type": 1.8,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_ender_pearl",
-            "predicate": {
-                "trim_type": 1.9,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_experience_bottle",
-            "predicate": {
-                "trim_type": 2.0,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_fire_charge",
-            "predicate": {
-                "trim_type": 2.1,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_glow_ink",
-            "predicate": {
-                "trim_type": 2.2,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_glowstone",
-            "predicate": {
-                "trim_type": 2.3,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_gunpowder",
-            "predicate": {
-                "trim_type": 2.4,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_heart_of_the_sea",
-            "predicate": {
-                "trim_type": 2.5,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_rabbit_hide",
-            "predicate": {
-                "trim_type": 2.6,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_honeycomb",
-            "predicate": {
-                "trim_type": 2.7,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_leather",
-            "predicate": {
-                "trim_type": 2.8,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_nautilus",
-            "predicate": {
-                "trim_type": 2.9,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_nether_star",
-            "predicate": {
-                "trim_type": 3.0,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_nether_brick",
-            "predicate": {
-                "trim_type": 3.1,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_netherite_scrap",
-            "predicate": {
-                "trim_type": 3.2,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_phantom_membrane",
-            "predicate": {
-                "trim_type": 3.3,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_prismarine",
-            "predicate": {
-                "trim_type": 3.4,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_prismarine_crystals",
-            "predicate": {
-                "trim_type": 3.5,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_purpur",
-            "predicate": {
-                "trim_type": 3.6,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_turtle_scute",
-            "predicate": {
-                "trim_type": 3.7,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_bolt_trim_slime",
-            "predicate": {
-                "trim_type": 3.8,
-                "custom_model_data": 1
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_quartz",
-            "predicate": {
-                "trim_type": 0.1,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_iron",
-            "predicate": {
-                "trim_type": 0.2,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_netherite",
-            "predicate": {
-                "trim_type": 0.3,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_redstone",
-            "predicate": {
-                "trim_type": 0.4,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_copper",
-            "predicate": {
-                "trim_type": 0.5,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_gold",
-            "predicate": {
-                "trim_type": 0.6,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_emerald",
-            "predicate": {
-                "trim_type": 0.7,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_diamond",
-            "predicate": {
-                "trim_type": 0.8,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_lapis",
-            "predicate": {
-                "trim_type": 0.9,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_amethyst",
-            "predicate": {
-                "trim_type": 1.0,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_armadillo_scute",
-            "predicate": {
-                "trim_type": 1.1,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_blaze_rod",
-            "predicate": {
-                "trim_type": 1.2,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_bone",
-            "predicate": {
-                "trim_type": 1.3,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_breeze_rod",
-            "predicate": {
-                "trim_type": 1.4,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_coal",
-            "predicate": {
-                "trim_type": 1.5,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_dragon_breath",
-            "predicate": {
-                "trim_type": 1.6,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_echo_shard",
-            "predicate": {
-                "trim_type": 1.7,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_end_crystal",
-            "predicate": {
-                "trim_type": 1.8,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_ender_pearl",
-            "predicate": {
-                "trim_type": 1.9,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_experience_bottle",
-            "predicate": {
-                "trim_type": 2.0,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_fire_charge",
-            "predicate": {
-                "trim_type": 2.1,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_glow_ink",
-            "predicate": {
-                "trim_type": 2.2,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_glowstone",
-            "predicate": {
-                "trim_type": 2.3,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_gunpowder",
-            "predicate": {
-                "trim_type": 2.4,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_heart_of_the_sea",
-            "predicate": {
-                "trim_type": 2.5,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_rabbit_hide",
-            "predicate": {
-                "trim_type": 2.6,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_honeycomb",
-            "predicate": {
-                "trim_type": 2.7,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_leather",
-            "predicate": {
-                "trim_type": 2.8,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_nautilus",
-            "predicate": {
-                "trim_type": 2.9,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_nether_star",
-            "predicate": {
-                "trim_type": 3.0,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_nether_brick",
-            "predicate": {
-                "trim_type": 3.1,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_netherite_scrap",
-            "predicate": {
-                "trim_type": 3.2,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_phantom_membrane",
-            "predicate": {
-                "trim_type": 3.3,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_prismarine",
-            "predicate": {
-                "trim_type": 3.4,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_prismarine_crystals",
-            "predicate": {
-                "trim_type": 3.5,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_purpur",
-            "predicate": {
-                "trim_type": 3.6,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_turtle_scute",
-            "predicate": {
-                "trim_type": 3.7,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_coast_trim_slime",
-            "predicate": {
-                "trim_type": 3.8,
-                "custom_model_data": 2
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_quartz",
-            "predicate": {
-                "trim_type": 0.1,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_iron",
-            "predicate": {
-                "trim_type": 0.2,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_netherite",
-            "predicate": {
-                "trim_type": 0.3,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_redstone",
-            "predicate": {
-                "trim_type": 0.4,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_copper",
-            "predicate": {
-                "trim_type": 0.5,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_gold",
-            "predicate": {
-                "trim_type": 0.6,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_emerald",
-            "predicate": {
-                "trim_type": 0.7,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_diamond",
-            "predicate": {
-                "trim_type": 0.8,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_lapis",
-            "predicate": {
-                "trim_type": 0.9,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_amethyst",
-            "predicate": {
-                "trim_type": 1.0,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_armadillo_scute",
-            "predicate": {
-                "trim_type": 1.1,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_blaze_rod",
-            "predicate": {
-                "trim_type": 1.2,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_bone",
-            "predicate": {
-                "trim_type": 1.3,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_breeze_rod",
-            "predicate": {
-                "trim_type": 1.4,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_coal",
-            "predicate": {
-                "trim_type": 1.5,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_dragon_breath",
-            "predicate": {
-                "trim_type": 1.6,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_echo_shard",
-            "predicate": {
-                "trim_type": 1.7,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_end_crystal",
-            "predicate": {
-                "trim_type": 1.8,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_ender_pearl",
-            "predicate": {
-                "trim_type": 1.9,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_experience_bottle",
-            "predicate": {
-                "trim_type": 2.0,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_fire_charge",
-            "predicate": {
-                "trim_type": 2.1,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_glow_ink",
-            "predicate": {
-                "trim_type": 2.2,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_glowstone",
-            "predicate": {
-                "trim_type": 2.3,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_gunpowder",
-            "predicate": {
-                "trim_type": 2.4,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_heart_of_the_sea",
-            "predicate": {
-                "trim_type": 2.5,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_rabbit_hide",
-            "predicate": {
-                "trim_type": 2.6,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_honeycomb",
-            "predicate": {
-                "trim_type": 2.7,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_leather",
-            "predicate": {
-                "trim_type": 2.8,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_nautilus",
-            "predicate": {
-                "trim_type": 2.9,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_nether_star",
-            "predicate": {
-                "trim_type": 3.0,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_nether_brick",
-            "predicate": {
-                "trim_type": 3.1,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_netherite_scrap",
-            "predicate": {
-                "trim_type": 3.2,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_phantom_membrane",
-            "predicate": {
-                "trim_type": 3.3,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_prismarine",
-            "predicate": {
-                "trim_type": 3.4,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_prismarine_crystals",
-            "predicate": {
-                "trim_type": 3.5,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_purpur",
-            "predicate": {
-                "trim_type": 3.6,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_turtle_scute",
-            "predicate": {
-                "trim_type": 3.7,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_dune_trim_slime",
-            "predicate": {
-                "trim_type": 3.8,
-                "custom_model_data": 3
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_quartz",
-            "predicate": {
-                "trim_type": 0.1,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_iron",
-            "predicate": {
-                "trim_type": 0.2,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_netherite",
-            "predicate": {
-                "trim_type": 0.3,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_redstone",
-            "predicate": {
-                "trim_type": 0.4,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_copper",
-            "predicate": {
-                "trim_type": 0.5,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_gold",
-            "predicate": {
-                "trim_type": 0.6,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_emerald",
-            "predicate": {
-                "trim_type": 0.7,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_diamond",
-            "predicate": {
-                "trim_type": 0.8,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_lapis",
-            "predicate": {
-                "trim_type": 0.9,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_amethyst",
-            "predicate": {
-                "trim_type": 1.0,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_armadillo_scute",
-            "predicate": {
-                "trim_type": 1.1,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_blaze_rod",
-            "predicate": {
-                "trim_type": 1.2,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_bone",
-            "predicate": {
-                "trim_type": 1.3,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_breeze_rod",
-            "predicate": {
-                "trim_type": 1.4,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_coal",
-            "predicate": {
-                "trim_type": 1.5,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_dragon_breath",
-            "predicate": {
-                "trim_type": 1.6,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_echo_shard",
-            "predicate": {
-                "trim_type": 1.7,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_end_crystal",
-            "predicate": {
-                "trim_type": 1.8,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_ender_pearl",
-            "predicate": {
-                "trim_type": 1.9,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_experience_bottle",
-            "predicate": {
-                "trim_type": 2.0,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_fire_charge",
-            "predicate": {
-                "trim_type": 2.1,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_glow_ink",
-            "predicate": {
-                "trim_type": 2.2,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_glowstone",
-            "predicate": {
-                "trim_type": 2.3,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_gunpowder",
-            "predicate": {
-                "trim_type": 2.4,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_heart_of_the_sea",
-            "predicate": {
-                "trim_type": 2.5,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_rabbit_hide",
-            "predicate": {
-                "trim_type": 2.6,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_honeycomb",
-            "predicate": {
-                "trim_type": 2.7,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_leather",
-            "predicate": {
-                "trim_type": 2.8,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_nautilus",
-            "predicate": {
-                "trim_type": 2.9,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_nether_star",
-            "predicate": {
-                "trim_type": 3.0,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_nether_brick",
-            "predicate": {
-                "trim_type": 3.1,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_netherite_scrap",
-            "predicate": {
-                "trim_type": 3.2,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_phantom_membrane",
-            "predicate": {
-                "trim_type": 3.3,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_prismarine",
-            "predicate": {
-                "trim_type": 3.4,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_prismarine_crystals",
-            "predicate": {
-                "trim_type": 3.5,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_purpur",
-            "predicate": {
-                "trim_type": 3.6,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_turtle_scute",
-            "predicate": {
-                "trim_type": 3.7,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_eye_trim_slime",
-            "predicate": {
-                "trim_type": 3.8,
-                "custom_model_data": 4
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_quartz",
-            "predicate": {
-                "trim_type": 0.1,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_iron",
-            "predicate": {
-                "trim_type": 0.2,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_netherite",
-            "predicate": {
-                "trim_type": 0.3,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_redstone",
-            "predicate": {
-                "trim_type": 0.4,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_copper",
-            "predicate": {
-                "trim_type": 0.5,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_gold",
-            "predicate": {
-                "trim_type": 0.6,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_emerald",
-            "predicate": {
-                "trim_type": 0.7,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_diamond",
-            "predicate": {
-                "trim_type": 0.8,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_lapis",
-            "predicate": {
-                "trim_type": 0.9,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_amethyst",
-            "predicate": {
-                "trim_type": 1.0,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_armadillo_scute",
-            "predicate": {
-                "trim_type": 1.1,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_blaze_rod",
-            "predicate": {
-                "trim_type": 1.2,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_bone",
-            "predicate": {
-                "trim_type": 1.3,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_breeze_rod",
-            "predicate": {
-                "trim_type": 1.4,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_coal",
-            "predicate": {
-                "trim_type": 1.5,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_dragon_breath",
-            "predicate": {
-                "trim_type": 1.6,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_echo_shard",
-            "predicate": {
-                "trim_type": 1.7,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_end_crystal",
-            "predicate": {
-                "trim_type": 1.8,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_ender_pearl",
-            "predicate": {
-                "trim_type": 1.9,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_experience_bottle",
-            "predicate": {
-                "trim_type": 2.0,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_fire_charge",
-            "predicate": {
-                "trim_type": 2.1,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_glow_ink",
-            "predicate": {
-                "trim_type": 2.2,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_glowstone",
-            "predicate": {
-                "trim_type": 2.3,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_gunpowder",
-            "predicate": {
-                "trim_type": 2.4,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_heart_of_the_sea",
-            "predicate": {
-                "trim_type": 2.5,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_rabbit_hide",
-            "predicate": {
-                "trim_type": 2.6,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_honeycomb",
-            "predicate": {
-                "trim_type": 2.7,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_leather",
-            "predicate": {
-                "trim_type": 2.8,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_nautilus",
-            "predicate": {
-                "trim_type": 2.9,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_nether_star",
-            "predicate": {
-                "trim_type": 3.0,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_nether_brick",
-            "predicate": {
-                "trim_type": 3.1,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_netherite_scrap",
-            "predicate": {
-                "trim_type": 3.2,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_phantom_membrane",
-            "predicate": {
-                "trim_type": 3.3,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_prismarine",
-            "predicate": {
-                "trim_type": 3.4,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_prismarine_crystals",
-            "predicate": {
-                "trim_type": 3.5,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_purpur",
-            "predicate": {
-                "trim_type": 3.6,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_turtle_scute",
-            "predicate": {
-                "trim_type": 3.7,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_flow_trim_slime",
-            "predicate": {
-                "trim_type": 3.8,
-                "custom_model_data": 5
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_quartz",
-            "predicate": {
-                "trim_type": 0.1,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_iron",
-            "predicate": {
-                "trim_type": 0.2,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_netherite",
-            "predicate": {
-                "trim_type": 0.3,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_redstone",
-            "predicate": {
-                "trim_type": 0.4,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_copper",
-            "predicate": {
-                "trim_type": 0.5,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_gold",
-            "predicate": {
-                "trim_type": 0.6,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_emerald",
-            "predicate": {
-                "trim_type": 0.7,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_diamond",
-            "predicate": {
-                "trim_type": 0.8,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_lapis",
-            "predicate": {
-                "trim_type": 0.9,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_amethyst",
-            "predicate": {
-                "trim_type": 1.0,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_armadillo_scute",
-            "predicate": {
-                "trim_type": 1.1,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_blaze_rod",
-            "predicate": {
-                "trim_type": 1.2,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_bone",
-            "predicate": {
-                "trim_type": 1.3,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_breeze_rod",
-            "predicate": {
-                "trim_type": 1.4,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_coal",
-            "predicate": {
-                "trim_type": 1.5,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_dragon_breath",
-            "predicate": {
-                "trim_type": 1.6,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_echo_shard",
-            "predicate": {
-                "trim_type": 1.7,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_end_crystal",
-            "predicate": {
-                "trim_type": 1.8,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_ender_pearl",
-            "predicate": {
-                "trim_type": 1.9,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_experience_bottle",
-            "predicate": {
-                "trim_type": 2.0,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_fire_charge",
-            "predicate": {
-                "trim_type": 2.1,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_glow_ink",
-            "predicate": {
-                "trim_type": 2.2,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_glowstone",
-            "predicate": {
-                "trim_type": 2.3,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_gunpowder",
-            "predicate": {
-                "trim_type": 2.4,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_heart_of_the_sea",
-            "predicate": {
-                "trim_type": 2.5,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_rabbit_hide",
-            "predicate": {
-                "trim_type": 2.6,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_honeycomb",
-            "predicate": {
-                "trim_type": 2.7,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_leather",
-            "predicate": {
-                "trim_type": 2.8,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_nautilus",
-            "predicate": {
-                "trim_type": 2.9,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_nether_star",
-            "predicate": {
-                "trim_type": 3.0,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_nether_brick",
-            "predicate": {
-                "trim_type": 3.1,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_netherite_scrap",
-            "predicate": {
-                "trim_type": 3.2,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_phantom_membrane",
-            "predicate": {
-                "trim_type": 3.3,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_prismarine",
-            "predicate": {
-                "trim_type": 3.4,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_prismarine_crystals",
-            "predicate": {
-                "trim_type": 3.5,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_purpur",
-            "predicate": {
-                "trim_type": 3.6,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_turtle_scute",
-            "predicate": {
-                "trim_type": 3.7,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_host_trim_slime",
-            "predicate": {
-                "trim_type": 3.8,
-                "custom_model_data": 6
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_quartz",
-            "predicate": {
-                "trim_type": 0.1,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_iron",
-            "predicate": {
-                "trim_type": 0.2,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_netherite",
-            "predicate": {
-                "trim_type": 0.3,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_redstone",
-            "predicate": {
-                "trim_type": 0.4,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_copper",
-            "predicate": {
-                "trim_type": 0.5,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_gold",
-            "predicate": {
-                "trim_type": 0.6,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_emerald",
-            "predicate": {
-                "trim_type": 0.7,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_diamond",
-            "predicate": {
-                "trim_type": 0.8,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_lapis",
-            "predicate": {
-                "trim_type": 0.9,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_amethyst",
-            "predicate": {
-                "trim_type": 1.0,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_armadillo_scute",
-            "predicate": {
-                "trim_type": 1.1,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_blaze_rod",
-            "predicate": {
-                "trim_type": 1.2,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_bone",
-            "predicate": {
-                "trim_type": 1.3,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_breeze_rod",
-            "predicate": {
-                "trim_type": 1.4,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_coal",
-            "predicate": {
-                "trim_type": 1.5,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_dragon_breath",
-            "predicate": {
-                "trim_type": 1.6,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_echo_shard",
-            "predicate": {
-                "trim_type": 1.7,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_end_crystal",
-            "predicate": {
-                "trim_type": 1.8,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_ender_pearl",
-            "predicate": {
-                "trim_type": 1.9,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_experience_bottle",
-            "predicate": {
-                "trim_type": 2.0,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_fire_charge",
-            "predicate": {
-                "trim_type": 2.1,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_glow_ink",
-            "predicate": {
-                "trim_type": 2.2,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_glowstone",
-            "predicate": {
-                "trim_type": 2.3,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_gunpowder",
-            "predicate": {
-                "trim_type": 2.4,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_heart_of_the_sea",
-            "predicate": {
-                "trim_type": 2.5,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_rabbit_hide",
-            "predicate": {
-                "trim_type": 2.6,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_honeycomb",
-            "predicate": {
-                "trim_type": 2.7,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_leather",
-            "predicate": {
-                "trim_type": 2.8,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_nautilus",
-            "predicate": {
-                "trim_type": 2.9,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_nether_star",
-            "predicate": {
-                "trim_type": 3.0,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_nether_brick",
-            "predicate": {
-                "trim_type": 3.1,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_netherite_scrap",
-            "predicate": {
-                "trim_type": 3.2,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_phantom_membrane",
-            "predicate": {
-                "trim_type": 3.3,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_prismarine",
-            "predicate": {
-                "trim_type": 3.4,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_prismarine_crystals",
-            "predicate": {
-                "trim_type": 3.5,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_purpur",
-            "predicate": {
-                "trim_type": 3.6,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_turtle_scute",
-            "predicate": {
-                "trim_type": 3.7,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_raiser_trim_slime",
-            "predicate": {
-                "trim_type": 3.8,
-                "custom_model_data": 7
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_quartz",
-            "predicate": {
-                "trim_type": 0.1,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_iron",
-            "predicate": {
-                "trim_type": 0.2,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_netherite",
-            "predicate": {
-                "trim_type": 0.3,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_redstone",
-            "predicate": {
-                "trim_type": 0.4,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_copper",
-            "predicate": {
-                "trim_type": 0.5,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_gold",
-            "predicate": {
-                "trim_type": 0.6,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_emerald",
-            "predicate": {
-                "trim_type": 0.7,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_diamond",
-            "predicate": {
-                "trim_type": 0.8,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_lapis",
-            "predicate": {
-                "trim_type": 0.9,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_amethyst",
-            "predicate": {
-                "trim_type": 1.0,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_armadillo_scute",
-            "predicate": {
-                "trim_type": 1.1,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_blaze_rod",
-            "predicate": {
-                "trim_type": 1.2,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_bone",
-            "predicate": {
-                "trim_type": 1.3,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_breeze_rod",
-            "predicate": {
-                "trim_type": 1.4,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_coal",
-            "predicate": {
-                "trim_type": 1.5,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_dragon_breath",
-            "predicate": {
-                "trim_type": 1.6,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_echo_shard",
-            "predicate": {
-                "trim_type": 1.7,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_end_crystal",
-            "predicate": {
-                "trim_type": 1.8,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_ender_pearl",
-            "predicate": {
-                "trim_type": 1.9,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_experience_bottle",
-            "predicate": {
-                "trim_type": 2.0,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_fire_charge",
-            "predicate": {
-                "trim_type": 2.1,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_glow_ink",
-            "predicate": {
-                "trim_type": 2.2,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_glowstone",
-            "predicate": {
-                "trim_type": 2.3,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_gunpowder",
-            "predicate": {
-                "trim_type": 2.4,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_heart_of_the_sea",
-            "predicate": {
-                "trim_type": 2.5,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_rabbit_hide",
-            "predicate": {
-                "trim_type": 2.6,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_honeycomb",
-            "predicate": {
-                "trim_type": 2.7,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_leather",
-            "predicate": {
-                "trim_type": 2.8,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_nautilus",
-            "predicate": {
-                "trim_type": 2.9,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_nether_star",
-            "predicate": {
-                "trim_type": 3.0,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_nether_brick",
-            "predicate": {
-                "trim_type": 3.1,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_netherite_scrap",
-            "predicate": {
-                "trim_type": 3.2,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_phantom_membrane",
-            "predicate": {
-                "trim_type": 3.3,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_prismarine",
-            "predicate": {
-                "trim_type": 3.4,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_prismarine_crystals",
-            "predicate": {
-                "trim_type": 3.5,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_purpur",
-            "predicate": {
-                "trim_type": 3.6,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_turtle_scute",
-            "predicate": {
-                "trim_type": 3.7,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_rib_trim_slime",
-            "predicate": {
-                "trim_type": 3.8,
-                "custom_model_data": 8
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_quartz",
-            "predicate": {
-                "trim_type": 0.1,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_iron",
-            "predicate": {
-                "trim_type": 0.2,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_netherite",
-            "predicate": {
-                "trim_type": 0.3,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_redstone",
-            "predicate": {
-                "trim_type": 0.4,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_copper",
-            "predicate": {
-                "trim_type": 0.5,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_gold",
-            "predicate": {
-                "trim_type": 0.6,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_emerald",
-            "predicate": {
-                "trim_type": 0.7,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_diamond",
-            "predicate": {
-                "trim_type": 0.8,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_lapis",
-            "predicate": {
-                "trim_type": 0.9,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_amethyst",
-            "predicate": {
-                "trim_type": 1.0,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_armadillo_scute",
-            "predicate": {
-                "trim_type": 1.1,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_blaze_rod",
-            "predicate": {
-                "trim_type": 1.2,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_bone",
-            "predicate": {
-                "trim_type": 1.3,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_breeze_rod",
-            "predicate": {
-                "trim_type": 1.4,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_coal",
-            "predicate": {
-                "trim_type": 1.5,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_dragon_breath",
-            "predicate": {
-                "trim_type": 1.6,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_echo_shard",
-            "predicate": {
-                "trim_type": 1.7,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_end_crystal",
-            "predicate": {
-                "trim_type": 1.8,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_ender_pearl",
-            "predicate": {
-                "trim_type": 1.9,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_experience_bottle",
-            "predicate": {
-                "trim_type": 2.0,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_fire_charge",
-            "predicate": {
-                "trim_type": 2.1,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_glow_ink",
-            "predicate": {
-                "trim_type": 2.2,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_glowstone",
-            "predicate": {
-                "trim_type": 2.3,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_gunpowder",
-            "predicate": {
-                "trim_type": 2.4,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_heart_of_the_sea",
-            "predicate": {
-                "trim_type": 2.5,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_rabbit_hide",
-            "predicate": {
-                "trim_type": 2.6,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_honeycomb",
-            "predicate": {
-                "trim_type": 2.7,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_leather",
-            "predicate": {
-                "trim_type": 2.8,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_nautilus",
-            "predicate": {
-                "trim_type": 2.9,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_nether_star",
-            "predicate": {
-                "trim_type": 3.0,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_nether_brick",
-            "predicate": {
-                "trim_type": 3.1,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_netherite_scrap",
-            "predicate": {
-                "trim_type": 3.2,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_phantom_membrane",
-            "predicate": {
-                "trim_type": 3.3,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_prismarine",
-            "predicate": {
-                "trim_type": 3.4,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_prismarine_crystals",
-            "predicate": {
-                "trim_type": 3.5,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_purpur",
-            "predicate": {
-                "trim_type": 3.6,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_turtle_scute",
-            "predicate": {
-                "trim_type": 3.7,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_sentry_trim_slime",
-            "predicate": {
-                "trim_type": 3.8,
-                "custom_model_data": 9
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_quartz",
-            "predicate": {
-                "trim_type": 0.1,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_iron",
-            "predicate": {
-                "trim_type": 0.2,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_netherite",
-            "predicate": {
-                "trim_type": 0.3,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_redstone",
-            "predicate": {
-                "trim_type": 0.4,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_copper",
-            "predicate": {
-                "trim_type": 0.5,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_gold",
-            "predicate": {
-                "trim_type": 0.6,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_emerald",
-            "predicate": {
-                "trim_type": 0.7,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_diamond",
-            "predicate": {
-                "trim_type": 0.8,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_lapis",
-            "predicate": {
-                "trim_type": 0.9,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_amethyst",
-            "predicate": {
-                "trim_type": 1.0,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_armadillo_scute",
-            "predicate": {
-                "trim_type": 1.1,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_blaze_rod",
-            "predicate": {
-                "trim_type": 1.2,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_bone",
-            "predicate": {
-                "trim_type": 1.3,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_breeze_rod",
-            "predicate": {
-                "trim_type": 1.4,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_coal",
-            "predicate": {
-                "trim_type": 1.5,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_dragon_breath",
-            "predicate": {
-                "trim_type": 1.6,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_echo_shard",
-            "predicate": {
-                "trim_type": 1.7,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_end_crystal",
-            "predicate": {
-                "trim_type": 1.8,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_ender_pearl",
-            "predicate": {
-                "trim_type": 1.9,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_experience_bottle",
-            "predicate": {
-                "trim_type": 2.0,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_fire_charge",
-            "predicate": {
-                "trim_type": 2.1,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_glow_ink",
-            "predicate": {
-                "trim_type": 2.2,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_glowstone",
-            "predicate": {
-                "trim_type": 2.3,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_gunpowder",
-            "predicate": {
-                "trim_type": 2.4,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_heart_of_the_sea",
-            "predicate": {
-                "trim_type": 2.5,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_rabbit_hide",
-            "predicate": {
-                "trim_type": 2.6,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_honeycomb",
-            "predicate": {
-                "trim_type": 2.7,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_leather",
-            "predicate": {
-                "trim_type": 2.8,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_nautilus",
-            "predicate": {
-                "trim_type": 2.9,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_nether_star",
-            "predicate": {
-                "trim_type": 3.0,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_nether_brick",
-            "predicate": {
-                "trim_type": 3.1,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_netherite_scrap",
-            "predicate": {
-                "trim_type": 3.2,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_phantom_membrane",
-            "predicate": {
-                "trim_type": 3.3,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_prismarine",
-            "predicate": {
-                "trim_type": 3.4,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_prismarine_crystals",
-            "predicate": {
-                "trim_type": 3.5,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_purpur",
-            "predicate": {
-                "trim_type": 3.6,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_turtle_scute",
-            "predicate": {
-                "trim_type": 3.7,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_shaper_trim_slime",
-            "predicate": {
-                "trim_type": 3.8,
-                "custom_model_data": 10
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_quartz",
-            "predicate": {
-                "trim_type": 0.1,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_iron",
-            "predicate": {
-                "trim_type": 0.2,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_netherite",
-            "predicate": {
-                "trim_type": 0.3,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_redstone",
-            "predicate": {
-                "trim_type": 0.4,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_copper",
-            "predicate": {
-                "trim_type": 0.5,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_gold",
-            "predicate": {
-                "trim_type": 0.6,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_emerald",
-            "predicate": {
-                "trim_type": 0.7,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_diamond",
-            "predicate": {
-                "trim_type": 0.8,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_lapis",
-            "predicate": {
-                "trim_type": 0.9,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_amethyst",
-            "predicate": {
-                "trim_type": 1.0,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_armadillo_scute",
-            "predicate": {
-                "trim_type": 1.1,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_blaze_rod",
-            "predicate": {
-                "trim_type": 1.2,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_bone",
-            "predicate": {
-                "trim_type": 1.3,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_breeze_rod",
-            "predicate": {
-                "trim_type": 1.4,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_coal",
-            "predicate": {
-                "trim_type": 1.5,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_dragon_breath",
-            "predicate": {
-                "trim_type": 1.6,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_echo_shard",
-            "predicate": {
-                "trim_type": 1.7,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_end_crystal",
-            "predicate": {
-                "trim_type": 1.8,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_ender_pearl",
-            "predicate": {
-                "trim_type": 1.9,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_experience_bottle",
-            "predicate": {
-                "trim_type": 2.0,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_fire_charge",
-            "predicate": {
-                "trim_type": 2.1,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_glow_ink",
-            "predicate": {
-                "trim_type": 2.2,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_glowstone",
-            "predicate": {
-                "trim_type": 2.3,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_gunpowder",
-            "predicate": {
-                "trim_type": 2.4,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_heart_of_the_sea",
-            "predicate": {
-                "trim_type": 2.5,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_rabbit_hide",
-            "predicate": {
-                "trim_type": 2.6,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_honeycomb",
-            "predicate": {
-                "trim_type": 2.7,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_leather",
-            "predicate": {
-                "trim_type": 2.8,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_nautilus",
-            "predicate": {
-                "trim_type": 2.9,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_nether_star",
-            "predicate": {
-                "trim_type": 3.0,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_nether_brick",
-            "predicate": {
-                "trim_type": 3.1,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_netherite_scrap",
-            "predicate": {
-                "trim_type": 3.2,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_phantom_membrane",
-            "predicate": {
-                "trim_type": 3.3,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_prismarine",
-            "predicate": {
-                "trim_type": 3.4,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_prismarine_crystals",
-            "predicate": {
-                "trim_type": 3.5,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_purpur",
-            "predicate": {
-                "trim_type": 3.6,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_turtle_scute",
-            "predicate": {
-                "trim_type": 3.7,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_silence_trim_slime",
-            "predicate": {
-                "trim_type": 3.8,
-                "custom_model_data": 11
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_quartz",
-            "predicate": {
-                "trim_type": 0.1,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_iron",
-            "predicate": {
-                "trim_type": 0.2,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_netherite",
-            "predicate": {
-                "trim_type": 0.3,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_redstone",
-            "predicate": {
-                "trim_type": 0.4,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_copper",
-            "predicate": {
-                "trim_type": 0.5,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_gold",
-            "predicate": {
-                "trim_type": 0.6,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_emerald",
-            "predicate": {
-                "trim_type": 0.7,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_diamond",
-            "predicate": {
-                "trim_type": 0.8,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_lapis",
-            "predicate": {
-                "trim_type": 0.9,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_amethyst",
-            "predicate": {
-                "trim_type": 1.0,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_armadillo_scute",
-            "predicate": {
-                "trim_type": 1.1,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_blaze_rod",
-            "predicate": {
-                "trim_type": 1.2,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_bone",
-            "predicate": {
-                "trim_type": 1.3,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_breeze_rod",
-            "predicate": {
-                "trim_type": 1.4,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_coal",
-            "predicate": {
-                "trim_type": 1.5,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_dragon_breath",
-            "predicate": {
-                "trim_type": 1.6,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_echo_shard",
-            "predicate": {
-                "trim_type": 1.7,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_end_crystal",
-            "predicate": {
-                "trim_type": 1.8,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_ender_pearl",
-            "predicate": {
-                "trim_type": 1.9,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_experience_bottle",
-            "predicate": {
-                "trim_type": 2.0,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_fire_charge",
-            "predicate": {
-                "trim_type": 2.1,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_glow_ink",
-            "predicate": {
-                "trim_type": 2.2,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_glowstone",
-            "predicate": {
-                "trim_type": 2.3,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_gunpowder",
-            "predicate": {
-                "trim_type": 2.4,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_heart_of_the_sea",
-            "predicate": {
-                "trim_type": 2.5,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_rabbit_hide",
-            "predicate": {
-                "trim_type": 2.6,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_honeycomb",
-            "predicate": {
-                "trim_type": 2.7,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_leather",
-            "predicate": {
-                "trim_type": 2.8,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_nautilus",
-            "predicate": {
-                "trim_type": 2.9,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_nether_star",
-            "predicate": {
-                "trim_type": 3.0,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_nether_brick",
-            "predicate": {
-                "trim_type": 3.1,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_netherite_scrap",
-            "predicate": {
-                "trim_type": 3.2,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_phantom_membrane",
-            "predicate": {
-                "trim_type": 3.3,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_prismarine",
-            "predicate": {
-                "trim_type": 3.4,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_prismarine_crystals",
-            "predicate": {
-                "trim_type": 3.5,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_purpur",
-            "predicate": {
-                "trim_type": 3.6,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_turtle_scute",
-            "predicate": {
-                "trim_type": 3.7,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_snout_trim_slime",
-            "predicate": {
-                "trim_type": 3.8,
-                "custom_model_data": 12
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_quartz",
-            "predicate": {
-                "trim_type": 0.1,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_iron",
-            "predicate": {
-                "trim_type": 0.2,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_netherite",
-            "predicate": {
-                "trim_type": 0.3,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_redstone",
-            "predicate": {
-                "trim_type": 0.4,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_copper",
-            "predicate": {
-                "trim_type": 0.5,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_gold",
-            "predicate": {
-                "trim_type": 0.6,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_emerald",
-            "predicate": {
-                "trim_type": 0.7,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_diamond",
-            "predicate": {
-                "trim_type": 0.8,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_lapis",
-            "predicate": {
-                "trim_type": 0.9,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_amethyst",
-            "predicate": {
-                "trim_type": 1.0,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_armadillo_scute",
-            "predicate": {
-                "trim_type": 1.1,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_blaze_rod",
-            "predicate": {
-                "trim_type": 1.2,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_bone",
-            "predicate": {
-                "trim_type": 1.3,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_breeze_rod",
-            "predicate": {
-                "trim_type": 1.4,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_coal",
-            "predicate": {
-                "trim_type": 1.5,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_dragon_breath",
-            "predicate": {
-                "trim_type": 1.6,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_echo_shard",
-            "predicate": {
-                "trim_type": 1.7,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_end_crystal",
-            "predicate": {
-                "trim_type": 1.8,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_ender_pearl",
-            "predicate": {
-                "trim_type": 1.9,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_experience_bottle",
-            "predicate": {
-                "trim_type": 2.0,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_fire_charge",
-            "predicate": {
-                "trim_type": 2.1,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_glow_ink",
-            "predicate": {
-                "trim_type": 2.2,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_glowstone",
-            "predicate": {
-                "trim_type": 2.3,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_gunpowder",
-            "predicate": {
-                "trim_type": 2.4,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_heart_of_the_sea",
-            "predicate": {
-                "trim_type": 2.5,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_rabbit_hide",
-            "predicate": {
-                "trim_type": 2.6,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_honeycomb",
-            "predicate": {
-                "trim_type": 2.7,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_leather",
-            "predicate": {
-                "trim_type": 2.8,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_nautilus",
-            "predicate": {
-                "trim_type": 2.9,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_nether_star",
-            "predicate": {
-                "trim_type": 3.0,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_nether_brick",
-            "predicate": {
-                "trim_type": 3.1,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_netherite_scrap",
-            "predicate": {
-                "trim_type": 3.2,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_phantom_membrane",
-            "predicate": {
-                "trim_type": 3.3,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_prismarine",
-            "predicate": {
-                "trim_type": 3.4,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_prismarine_crystals",
-            "predicate": {
-                "trim_type": 3.5,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_purpur",
-            "predicate": {
-                "trim_type": 3.6,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_turtle_scute",
-            "predicate": {
-                "trim_type": 3.7,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_spire_trim_slime",
-            "predicate": {
-                "trim_type": 3.8,
-                "custom_model_data": 13
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_quartz",
-            "predicate": {
-                "trim_type": 0.1,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_iron",
-            "predicate": {
-                "trim_type": 0.2,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_netherite",
-            "predicate": {
-                "trim_type": 0.3,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_redstone",
-            "predicate": {
-                "trim_type": 0.4,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_copper",
-            "predicate": {
-                "trim_type": 0.5,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_gold",
-            "predicate": {
-                "trim_type": 0.6,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_emerald",
-            "predicate": {
-                "trim_type": 0.7,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_diamond",
-            "predicate": {
-                "trim_type": 0.8,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_lapis",
-            "predicate": {
-                "trim_type": 0.9,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_amethyst",
-            "predicate": {
-                "trim_type": 1.0,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_armadillo_scute",
-            "predicate": {
-                "trim_type": 1.1,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_blaze_rod",
-            "predicate": {
-                "trim_type": 1.2,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_bone",
-            "predicate": {
-                "trim_type": 1.3,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_breeze_rod",
-            "predicate": {
-                "trim_type": 1.4,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_coal",
-            "predicate": {
-                "trim_type": 1.5,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_dragon_breath",
-            "predicate": {
-                "trim_type": 1.6,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_echo_shard",
-            "predicate": {
-                "trim_type": 1.7,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_end_crystal",
-            "predicate": {
-                "trim_type": 1.8,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_ender_pearl",
-            "predicate": {
-                "trim_type": 1.9,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_experience_bottle",
-            "predicate": {
-                "trim_type": 2.0,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_fire_charge",
-            "predicate": {
-                "trim_type": 2.1,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_glow_ink",
-            "predicate": {
-                "trim_type": 2.2,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_glowstone",
-            "predicate": {
-                "trim_type": 2.3,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_gunpowder",
-            "predicate": {
-                "trim_type": 2.4,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_heart_of_the_sea",
-            "predicate": {
-                "trim_type": 2.5,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_rabbit_hide",
-            "predicate": {
-                "trim_type": 2.6,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_honeycomb",
-            "predicate": {
-                "trim_type": 2.7,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_leather",
-            "predicate": {
-                "trim_type": 2.8,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_nautilus",
-            "predicate": {
-                "trim_type": 2.9,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_nether_star",
-            "predicate": {
-                "trim_type": 3.0,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_nether_brick",
-            "predicate": {
-                "trim_type": 3.1,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_netherite_scrap",
-            "predicate": {
-                "trim_type": 3.2,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_phantom_membrane",
-            "predicate": {
-                "trim_type": 3.3,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_prismarine",
-            "predicate": {
-                "trim_type": 3.4,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_prismarine_crystals",
-            "predicate": {
-                "trim_type": 3.5,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_purpur",
-            "predicate": {
-                "trim_type": 3.6,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_turtle_scute",
-            "predicate": {
-                "trim_type": 3.7,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_tide_trim_slime",
-            "predicate": {
-                "trim_type": 3.8,
-                "custom_model_data": 14
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_quartz",
-            "predicate": {
-                "trim_type": 0.1,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_iron",
-            "predicate": {
-                "trim_type": 0.2,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_netherite",
-            "predicate": {
-                "trim_type": 0.3,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_redstone",
-            "predicate": {
-                "trim_type": 0.4,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_copper",
-            "predicate": {
-                "trim_type": 0.5,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_gold",
-            "predicate": {
-                "trim_type": 0.6,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_emerald",
-            "predicate": {
-                "trim_type": 0.7,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_diamond",
-            "predicate": {
-                "trim_type": 0.8,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_lapis",
-            "predicate": {
-                "trim_type": 0.9,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_amethyst",
-            "predicate": {
-                "trim_type": 1.0,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_armadillo_scute",
-            "predicate": {
-                "trim_type": 1.1,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_blaze_rod",
-            "predicate": {
-                "trim_type": 1.2,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_bone",
-            "predicate": {
-                "trim_type": 1.3,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_breeze_rod",
-            "predicate": {
-                "trim_type": 1.4,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_coal",
-            "predicate": {
-                "trim_type": 1.5,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_dragon_breath",
-            "predicate": {
-                "trim_type": 1.6,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_echo_shard",
-            "predicate": {
-                "trim_type": 1.7,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_end_crystal",
-            "predicate": {
-                "trim_type": 1.8,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_ender_pearl",
-            "predicate": {
-                "trim_type": 1.9,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_experience_bottle",
-            "predicate": {
-                "trim_type": 2.0,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_fire_charge",
-            "predicate": {
-                "trim_type": 2.1,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_glow_ink",
-            "predicate": {
-                "trim_type": 2.2,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_glowstone",
-            "predicate": {
-                "trim_type": 2.3,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_gunpowder",
-            "predicate": {
-                "trim_type": 2.4,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_heart_of_the_sea",
-            "predicate": {
-                "trim_type": 2.5,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_rabbit_hide",
-            "predicate": {
-                "trim_type": 2.6,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_honeycomb",
-            "predicate": {
-                "trim_type": 2.7,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_leather",
-            "predicate": {
-                "trim_type": 2.8,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_nautilus",
-            "predicate": {
-                "trim_type": 2.9,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_nether_star",
-            "predicate": {
-                "trim_type": 3.0,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_nether_brick",
-            "predicate": {
-                "trim_type": 3.1,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_netherite_scrap",
-            "predicate": {
-                "trim_type": 3.2,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_phantom_membrane",
-            "predicate": {
-                "trim_type": 3.3,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_prismarine",
-            "predicate": {
-                "trim_type": 3.4,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_prismarine_crystals",
-            "predicate": {
-                "trim_type": 3.5,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_purpur",
-            "predicate": {
-                "trim_type": 3.6,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_turtle_scute",
-            "predicate": {
-                "trim_type": 3.7,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_vex_trim_slime",
-            "predicate": {
-                "trim_type": 3.8,
-                "custom_model_data": 15
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_quartz",
-            "predicate": {
-                "trim_type": 0.1,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_iron",
-            "predicate": {
-                "trim_type": 0.2,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_netherite",
-            "predicate": {
-                "trim_type": 0.3,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_redstone",
-            "predicate": {
-                "trim_type": 0.4,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_copper",
-            "predicate": {
-                "trim_type": 0.5,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_gold",
-            "predicate": {
-                "trim_type": 0.6,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_emerald",
-            "predicate": {
-                "trim_type": 0.7,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_diamond",
-            "predicate": {
-                "trim_type": 0.8,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_lapis",
-            "predicate": {
-                "trim_type": 0.9,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_amethyst",
-            "predicate": {
-                "trim_type": 1.0,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_armadillo_scute",
-            "predicate": {
-                "trim_type": 1.1,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_blaze_rod",
-            "predicate": {
-                "trim_type": 1.2,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_bone",
-            "predicate": {
-                "trim_type": 1.3,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_breeze_rod",
-            "predicate": {
-                "trim_type": 1.4,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_coal",
-            "predicate": {
-                "trim_type": 1.5,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_dragon_breath",
-            "predicate": {
-                "trim_type": 1.6,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_echo_shard",
-            "predicate": {
-                "trim_type": 1.7,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_end_crystal",
-            "predicate": {
-                "trim_type": 1.8,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_ender_pearl",
-            "predicate": {
-                "trim_type": 1.9,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_experience_bottle",
-            "predicate": {
-                "trim_type": 2.0,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_fire_charge",
-            "predicate": {
-                "trim_type": 2.1,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_glow_ink",
-            "predicate": {
-                "trim_type": 2.2,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_glowstone",
-            "predicate": {
-                "trim_type": 2.3,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_gunpowder",
-            "predicate": {
-                "trim_type": 2.4,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_heart_of_the_sea",
-            "predicate": {
-                "trim_type": 2.5,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_rabbit_hide",
-            "predicate": {
-                "trim_type": 2.6,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_honeycomb",
-            "predicate": {
-                "trim_type": 2.7,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_leather",
-            "predicate": {
-                "trim_type": 2.8,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_nautilus",
-            "predicate": {
-                "trim_type": 2.9,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_nether_star",
-            "predicate": {
-                "trim_type": 3.0,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_nether_brick",
-            "predicate": {
-                "trim_type": 3.1,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_netherite_scrap",
-            "predicate": {
-                "trim_type": 3.2,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_phantom_membrane",
-            "predicate": {
-                "trim_type": 3.3,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_prismarine",
-            "predicate": {
-                "trim_type": 3.4,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_prismarine_crystals",
-            "predicate": {
-                "trim_type": 3.5,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_purpur",
-            "predicate": {
-                "trim_type": 3.6,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_turtle_scute",
-            "predicate": {
-                "trim_type": 3.7,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_ward_trim_slime",
-            "predicate": {
-                "trim_type": 3.8,
-                "custom_model_data": 16
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_quartz",
-            "predicate": {
-                "trim_type": 0.1,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_iron",
-            "predicate": {
-                "trim_type": 0.2,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_netherite",
-            "predicate": {
-                "trim_type": 0.3,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_redstone",
-            "predicate": {
-                "trim_type": 0.4,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_copper",
-            "predicate": {
-                "trim_type": 0.5,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_gold",
-            "predicate": {
-                "trim_type": 0.6,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_emerald",
-            "predicate": {
-                "trim_type": 0.7,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_diamond",
-            "predicate": {
-                "trim_type": 0.8,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_lapis",
-            "predicate": {
-                "trim_type": 0.9,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_amethyst",
-            "predicate": {
-                "trim_type": 1.0,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_armadillo_scute",
-            "predicate": {
-                "trim_type": 1.1,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_blaze_rod",
-            "predicate": {
-                "trim_type": 1.2,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_bone",
-            "predicate": {
-                "trim_type": 1.3,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_breeze_rod",
-            "predicate": {
-                "trim_type": 1.4,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_coal",
-            "predicate": {
-                "trim_type": 1.5,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_dragon_breath",
-            "predicate": {
-                "trim_type": 1.6,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_echo_shard",
-            "predicate": {
-                "trim_type": 1.7,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_end_crystal",
-            "predicate": {
-                "trim_type": 1.8,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_ender_pearl",
-            "predicate": {
-                "trim_type": 1.9,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_experience_bottle",
-            "predicate": {
-                "trim_type": 2.0,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_fire_charge",
-            "predicate": {
-                "trim_type": 2.1,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_glow_ink",
-            "predicate": {
-                "trim_type": 2.2,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_glowstone",
-            "predicate": {
-                "trim_type": 2.3,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_gunpowder",
-            "predicate": {
-                "trim_type": 2.4,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_heart_of_the_sea",
-            "predicate": {
-                "trim_type": 2.5,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_rabbit_hide",
-            "predicate": {
-                "trim_type": 2.6,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_honeycomb",
-            "predicate": {
-                "trim_type": 2.7,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_leather",
-            "predicate": {
-                "trim_type": 2.8,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_nautilus",
-            "predicate": {
-                "trim_type": 2.9,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_nether_star",
-            "predicate": {
-                "trim_type": 3.0,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_nether_brick",
-            "predicate": {
-                "trim_type": 3.1,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_netherite_scrap",
-            "predicate": {
-                "trim_type": 3.2,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_phantom_membrane",
-            "predicate": {
-                "trim_type": 3.3,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_prismarine",
-            "predicate": {
-                "trim_type": 3.4,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_prismarine_crystals",
-            "predicate": {
-                "trim_type": 3.5,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_purpur",
-            "predicate": {
-                "trim_type": 3.6,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_turtle_scute",
-            "predicate": {
-                "trim_type": 3.7,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wayfinder_trim_slime",
-            "predicate": {
-                "trim_type": 3.8,
-                "custom_model_data": 17
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_quartz",
-            "predicate": {
-                "trim_type": 0.1,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_iron",
-            "predicate": {
-                "trim_type": 0.2,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_netherite",
-            "predicate": {
-                "trim_type": 0.3,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_redstone",
-            "predicate": {
-                "trim_type": 0.4,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_copper",
-            "predicate": {
-                "trim_type": 0.5,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_gold",
-            "predicate": {
-                "trim_type": 0.6,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_emerald",
-            "predicate": {
-                "trim_type": 0.7,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_diamond",
-            "predicate": {
-                "trim_type": 0.8,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_lapis",
-            "predicate": {
-                "trim_type": 0.9,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_amethyst",
-            "predicate": {
-                "trim_type": 1.0,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_armadillo_scute",
-            "predicate": {
-                "trim_type": 1.1,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_blaze_rod",
-            "predicate": {
-                "trim_type": 1.2,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_bone",
-            "predicate": {
-                "trim_type": 1.3,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_breeze_rod",
-            "predicate": {
-                "trim_type": 1.4,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_coal",
-            "predicate": {
-                "trim_type": 1.5,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_dragon_breath",
-            "predicate": {
-                "trim_type": 1.6,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_echo_shard",
-            "predicate": {
-                "trim_type": 1.7,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_end_crystal",
-            "predicate": {
-                "trim_type": 1.8,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_ender_pearl",
-            "predicate": {
-                "trim_type": 1.9,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_experience_bottle",
-            "predicate": {
-                "trim_type": 2.0,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_fire_charge",
-            "predicate": {
-                "trim_type": 2.1,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_glow_ink",
-            "predicate": {
-                "trim_type": 2.2,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_glowstone",
-            "predicate": {
-                "trim_type": 2.3,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_gunpowder",
-            "predicate": {
-                "trim_type": 2.4,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_heart_of_the_sea",
-            "predicate": {
-                "trim_type": 2.5,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_rabbit_hide",
-            "predicate": {
-                "trim_type": 2.6,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_honeycomb",
-            "predicate": {
-                "trim_type": 2.7,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_leather",
-            "predicate": {
-                "trim_type": 2.8,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_nautilus",
-            "predicate": {
-                "trim_type": 2.9,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_nether_star",
-            "predicate": {
-                "trim_type": 3.0,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_nether_brick",
-            "predicate": {
-                "trim_type": 3.1,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_netherite_scrap",
-            "predicate": {
-                "trim_type": 3.2,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_phantom_membrane",
-            "predicate": {
-                "trim_type": 3.3,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_prismarine",
-            "predicate": {
-                "trim_type": 3.4,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_prismarine_crystals",
-            "predicate": {
-                "trim_type": 3.5,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_purpur",
-            "predicate": {
-                "trim_type": 3.6,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_turtle_scute",
-            "predicate": {
-                "trim_type": 3.7,
-                "custom_model_data": 18
-            }
-        },
-        {
-            "model": "tool_trim:item/netherite_sword_wild_trim_slime",
-            "predicate": {
-                "trim_type": 3.8,
-                "custom_model_data": 18
-            }
-        }
-    ],
-    "textures": {
-        "layer0": "minecraft:item/netherite_sword"
+  "parent": "minecraft:item/generated",
+  "overrides": [
+    {
+      "model": "tool_trim:item/netherite_sword_bolt_trim_quartz",
+      "predicate": {
+        "trim_type": 0.1,
+        "custom_model_data": 1
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_bolt_trim_iron",
+      "predicate": {
+        "trim_type": 0.2,
+        "custom_model_data": 1
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_bolt_trim_netherite",
+      "predicate": {
+        "trim_type": 0.3,
+        "custom_model_data": 1
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_bolt_trim_redstone",
+      "predicate": {
+        "trim_type": 0.4,
+        "custom_model_data": 1
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_bolt_trim_copper",
+      "predicate": {
+        "trim_type": 0.5,
+        "custom_model_data": 1
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_bolt_trim_gold",
+      "predicate": {
+        "trim_type": 0.6,
+        "custom_model_data": 1
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_bolt_trim_emerald",
+      "predicate": {
+        "trim_type": 0.7,
+        "custom_model_data": 1
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_bolt_trim_diamond",
+      "predicate": {
+        "trim_type": 0.8,
+        "custom_model_data": 1
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_bolt_trim_lapis",
+      "predicate": {
+        "trim_type": 0.9,
+        "custom_model_data": 1
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_bolt_trim_amethyst",
+      "predicate": {
+        "trim_type": 1.0,
+        "custom_model_data": 1
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_coast_trim_quartz",
+      "predicate": {
+        "trim_type": 0.1,
+        "custom_model_data": 2
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_coast_trim_iron",
+      "predicate": {
+        "trim_type": 0.2,
+        "custom_model_data": 2
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_coast_trim_netherite",
+      "predicate": {
+        "trim_type": 0.3,
+        "custom_model_data": 2
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_coast_trim_redstone",
+      "predicate": {
+        "trim_type": 0.4,
+        "custom_model_data": 2
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_coast_trim_copper",
+      "predicate": {
+        "trim_type": 0.5,
+        "custom_model_data": 2
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_coast_trim_gold",
+      "predicate": {
+        "trim_type": 0.6,
+        "custom_model_data": 2
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_coast_trim_emerald",
+      "predicate": {
+        "trim_type": 0.7,
+        "custom_model_data": 2
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_coast_trim_diamond",
+      "predicate": {
+        "trim_type": 0.8,
+        "custom_model_data": 2
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_coast_trim_lapis",
+      "predicate": {
+        "trim_type": 0.9,
+        "custom_model_data": 2
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_coast_trim_amethyst",
+      "predicate": {
+        "trim_type": 1.0,
+        "custom_model_data": 2
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_dune_trim_quartz",
+      "predicate": {
+        "trim_type": 0.1,
+        "custom_model_data": 3
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_dune_trim_iron",
+      "predicate": {
+        "trim_type": 0.2,
+        "custom_model_data": 3
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_dune_trim_netherite",
+      "predicate": {
+        "trim_type": 0.3,
+        "custom_model_data": 3
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_dune_trim_redstone",
+      "predicate": {
+        "trim_type": 0.4,
+        "custom_model_data": 3
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_dune_trim_copper",
+      "predicate": {
+        "trim_type": 0.5,
+        "custom_model_data": 3
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_dune_trim_gold",
+      "predicate": {
+        "trim_type": 0.6,
+        "custom_model_data": 3
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_dune_trim_emerald",
+      "predicate": {
+        "trim_type": 0.7,
+        "custom_model_data": 3
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_dune_trim_diamond",
+      "predicate": {
+        "trim_type": 0.8,
+        "custom_model_data": 3
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_dune_trim_lapis",
+      "predicate": {
+        "trim_type": 0.9,
+        "custom_model_data": 3
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_dune_trim_amethyst",
+      "predicate": {
+        "trim_type": 1.0,
+        "custom_model_data": 3
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_eye_trim_quartz",
+      "predicate": {
+        "trim_type": 0.1,
+        "custom_model_data": 4
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_eye_trim_iron",
+      "predicate": {
+        "trim_type": 0.2,
+        "custom_model_data": 4
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_eye_trim_netherite",
+      "predicate": {
+        "trim_type": 0.3,
+        "custom_model_data": 4
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_eye_trim_redstone",
+      "predicate": {
+        "trim_type": 0.4,
+        "custom_model_data": 4
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_eye_trim_copper",
+      "predicate": {
+        "trim_type": 0.5,
+        "custom_model_data": 4
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_eye_trim_gold",
+      "predicate": {
+        "trim_type": 0.6,
+        "custom_model_data": 4
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_eye_trim_emerald",
+      "predicate": {
+        "trim_type": 0.7,
+        "custom_model_data": 4
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_eye_trim_diamond",
+      "predicate": {
+        "trim_type": 0.8,
+        "custom_model_data": 4
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_eye_trim_lapis",
+      "predicate": {
+        "trim_type": 0.9,
+        "custom_model_data": 4
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_eye_trim_amethyst",
+      "predicate": {
+        "trim_type": 1.0,
+        "custom_model_data": 4
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_flow_trim_quartz",
+      "predicate": {
+        "trim_type": 0.1,
+        "custom_model_data": 5
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_flow_trim_iron",
+      "predicate": {
+        "trim_type": 0.2,
+        "custom_model_data": 5
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_flow_trim_netherite",
+      "predicate": {
+        "trim_type": 0.3,
+        "custom_model_data": 5
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_flow_trim_redstone",
+      "predicate": {
+        "trim_type": 0.4,
+        "custom_model_data": 5
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_flow_trim_copper",
+      "predicate": {
+        "trim_type": 0.5,
+        "custom_model_data": 5
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_flow_trim_gold",
+      "predicate": {
+        "trim_type": 0.6,
+        "custom_model_data": 5
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_flow_trim_emerald",
+      "predicate": {
+        "trim_type": 0.7,
+        "custom_model_data": 5
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_flow_trim_diamond",
+      "predicate": {
+        "trim_type": 0.8,
+        "custom_model_data": 5
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_flow_trim_lapis",
+      "predicate": {
+        "trim_type": 0.9,
+        "custom_model_data": 5
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_flow_trim_amethyst",
+      "predicate": {
+        "trim_type": 1.0,
+        "custom_model_data": 5
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_host_trim_quartz",
+      "predicate": {
+        "trim_type": 0.1,
+        "custom_model_data": 6
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_host_trim_iron",
+      "predicate": {
+        "trim_type": 0.2,
+        "custom_model_data": 6
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_host_trim_netherite",
+      "predicate": {
+        "trim_type": 0.3,
+        "custom_model_data": 6
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_host_trim_redstone",
+      "predicate": {
+        "trim_type": 0.4,
+        "custom_model_data": 6
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_host_trim_copper",
+      "predicate": {
+        "trim_type": 0.5,
+        "custom_model_data": 6
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_host_trim_gold",
+      "predicate": {
+        "trim_type": 0.6,
+        "custom_model_data": 6
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_host_trim_emerald",
+      "predicate": {
+        "trim_type": 0.7,
+        "custom_model_data": 6
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_host_trim_diamond",
+      "predicate": {
+        "trim_type": 0.8,
+        "custom_model_data": 6
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_host_trim_lapis",
+      "predicate": {
+        "trim_type": 0.9,
+        "custom_model_data": 6
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_host_trim_amethyst",
+      "predicate": {
+        "trim_type": 1.0,
+        "custom_model_data": 6
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_raiser_trim_quartz",
+      "predicate": {
+        "trim_type": 0.1,
+        "custom_model_data": 7
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_raiser_trim_iron",
+      "predicate": {
+        "trim_type": 0.2,
+        "custom_model_data": 7
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_raiser_trim_netherite",
+      "predicate": {
+        "trim_type": 0.3,
+        "custom_model_data": 7
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_raiser_trim_redstone",
+      "predicate": {
+        "trim_type": 0.4,
+        "custom_model_data": 7
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_raiser_trim_copper",
+      "predicate": {
+        "trim_type": 0.5,
+        "custom_model_data": 7
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_raiser_trim_gold",
+      "predicate": {
+        "trim_type": 0.6,
+        "custom_model_data": 7
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_raiser_trim_emerald",
+      "predicate": {
+        "trim_type": 0.7,
+        "custom_model_data": 7
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_raiser_trim_diamond",
+      "predicate": {
+        "trim_type": 0.8,
+        "custom_model_data": 7
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_raiser_trim_lapis",
+      "predicate": {
+        "trim_type": 0.9,
+        "custom_model_data": 7
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_raiser_trim_amethyst",
+      "predicate": {
+        "trim_type": 1.0,
+        "custom_model_data": 7
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_rib_trim_quartz",
+      "predicate": {
+        "trim_type": 0.1,
+        "custom_model_data": 8
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_rib_trim_iron",
+      "predicate": {
+        "trim_type": 0.2,
+        "custom_model_data": 8
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_rib_trim_netherite",
+      "predicate": {
+        "trim_type": 0.3,
+        "custom_model_data": 8
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_rib_trim_redstone",
+      "predicate": {
+        "trim_type": 0.4,
+        "custom_model_data": 8
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_rib_trim_copper",
+      "predicate": {
+        "trim_type": 0.5,
+        "custom_model_data": 8
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_rib_trim_gold",
+      "predicate": {
+        "trim_type": 0.6,
+        "custom_model_data": 8
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_rib_trim_emerald",
+      "predicate": {
+        "trim_type": 0.7,
+        "custom_model_data": 8
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_rib_trim_diamond",
+      "predicate": {
+        "trim_type": 0.8,
+        "custom_model_data": 8
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_rib_trim_lapis",
+      "predicate": {
+        "trim_type": 0.9,
+        "custom_model_data": 8
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_rib_trim_amethyst",
+      "predicate": {
+        "trim_type": 1.0,
+        "custom_model_data": 8
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_sentry_trim_quartz",
+      "predicate": {
+        "trim_type": 0.1,
+        "custom_model_data": 9
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_sentry_trim_iron",
+      "predicate": {
+        "trim_type": 0.2,
+        "custom_model_data": 9
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_sentry_trim_netherite",
+      "predicate": {
+        "trim_type": 0.3,
+        "custom_model_data": 9
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_sentry_trim_redstone",
+      "predicate": {
+        "trim_type": 0.4,
+        "custom_model_data": 9
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_sentry_trim_copper",
+      "predicate": {
+        "trim_type": 0.5,
+        "custom_model_data": 9
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_sentry_trim_gold",
+      "predicate": {
+        "trim_type": 0.6,
+        "custom_model_data": 9
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_sentry_trim_emerald",
+      "predicate": {
+        "trim_type": 0.7,
+        "custom_model_data": 9
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_sentry_trim_diamond",
+      "predicate": {
+        "trim_type": 0.8,
+        "custom_model_data": 9
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_sentry_trim_lapis",
+      "predicate": {
+        "trim_type": 0.9,
+        "custom_model_data": 9
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_sentry_trim_amethyst",
+      "predicate": {
+        "trim_type": 1.0,
+        "custom_model_data": 9
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_shaper_trim_quartz",
+      "predicate": {
+        "trim_type": 0.1,
+        "custom_model_data": 10
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_shaper_trim_iron",
+      "predicate": {
+        "trim_type": 0.2,
+        "custom_model_data": 10
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_shaper_trim_netherite",
+      "predicate": {
+        "trim_type": 0.3,
+        "custom_model_data": 10
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_shaper_trim_redstone",
+      "predicate": {
+        "trim_type": 0.4,
+        "custom_model_data": 10
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_shaper_trim_copper",
+      "predicate": {
+        "trim_type": 0.5,
+        "custom_model_data": 10
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_shaper_trim_gold",
+      "predicate": {
+        "trim_type": 0.6,
+        "custom_model_data": 10
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_shaper_trim_emerald",
+      "predicate": {
+        "trim_type": 0.7,
+        "custom_model_data": 10
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_shaper_trim_diamond",
+      "predicate": {
+        "trim_type": 0.8,
+        "custom_model_data": 10
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_shaper_trim_lapis",
+      "predicate": {
+        "trim_type": 0.9,
+        "custom_model_data": 10
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_shaper_trim_amethyst",
+      "predicate": {
+        "trim_type": 1.0,
+        "custom_model_data": 10
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_silence_trim_quartz",
+      "predicate": {
+        "trim_type": 0.1,
+        "custom_model_data": 11
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_silence_trim_iron",
+      "predicate": {
+        "trim_type": 0.2,
+        "custom_model_data": 11
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_silence_trim_netherite",
+      "predicate": {
+        "trim_type": 0.3,
+        "custom_model_data": 11
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_silence_trim_redstone",
+      "predicate": {
+        "trim_type": 0.4,
+        "custom_model_data": 11
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_silence_trim_copper",
+      "predicate": {
+        "trim_type": 0.5,
+        "custom_model_data": 11
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_silence_trim_gold",
+      "predicate": {
+        "trim_type": 0.6,
+        "custom_model_data": 11
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_silence_trim_emerald",
+      "predicate": {
+        "trim_type": 0.7,
+        "custom_model_data": 11
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_silence_trim_diamond",
+      "predicate": {
+        "trim_type": 0.8,
+        "custom_model_data": 11
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_silence_trim_lapis",
+      "predicate": {
+        "trim_type": 0.9,
+        "custom_model_data": 11
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_silence_trim_amethyst",
+      "predicate": {
+        "trim_type": 1.0,
+        "custom_model_data": 11
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_snout_trim_quartz",
+      "predicate": {
+        "trim_type": 0.1,
+        "custom_model_data": 12
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_snout_trim_iron",
+      "predicate": {
+        "trim_type": 0.2,
+        "custom_model_data": 12
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_snout_trim_netherite",
+      "predicate": {
+        "trim_type": 0.3,
+        "custom_model_data": 12
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_snout_trim_redstone",
+      "predicate": {
+        "trim_type": 0.4,
+        "custom_model_data": 12
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_snout_trim_copper",
+      "predicate": {
+        "trim_type": 0.5,
+        "custom_model_data": 12
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_snout_trim_gold",
+      "predicate": {
+        "trim_type": 0.6,
+        "custom_model_data": 12
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_snout_trim_emerald",
+      "predicate": {
+        "trim_type": 0.7,
+        "custom_model_data": 12
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_snout_trim_diamond",
+      "predicate": {
+        "trim_type": 0.8,
+        "custom_model_data": 12
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_snout_trim_lapis",
+      "predicate": {
+        "trim_type": 0.9,
+        "custom_model_data": 12
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_snout_trim_amethyst",
+      "predicate": {
+        "trim_type": 1.0,
+        "custom_model_data": 12
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_spire_trim_quartz",
+      "predicate": {
+        "trim_type": 0.1,
+        "custom_model_data": 13
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_spire_trim_iron",
+      "predicate": {
+        "trim_type": 0.2,
+        "custom_model_data": 13
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_spire_trim_netherite",
+      "predicate": {
+        "trim_type": 0.3,
+        "custom_model_data": 13
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_spire_trim_redstone",
+      "predicate": {
+        "trim_type": 0.4,
+        "custom_model_data": 13
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_spire_trim_copper",
+      "predicate": {
+        "trim_type": 0.5,
+        "custom_model_data": 13
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_spire_trim_gold",
+      "predicate": {
+        "trim_type": 0.6,
+        "custom_model_data": 13
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_spire_trim_emerald",
+      "predicate": {
+        "trim_type": 0.7,
+        "custom_model_data": 13
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_spire_trim_diamond",
+      "predicate": {
+        "trim_type": 0.8,
+        "custom_model_data": 13
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_spire_trim_lapis",
+      "predicate": {
+        "trim_type": 0.9,
+        "custom_model_data": 13
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_spire_trim_amethyst",
+      "predicate": {
+        "trim_type": 1.0,
+        "custom_model_data": 13
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_tide_trim_quartz",
+      "predicate": {
+        "trim_type": 0.1,
+        "custom_model_data": 14
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_tide_trim_iron",
+      "predicate": {
+        "trim_type": 0.2,
+        "custom_model_data": 14
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_tide_trim_netherite",
+      "predicate": {
+        "trim_type": 0.3,
+        "custom_model_data": 14
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_tide_trim_redstone",
+      "predicate": {
+        "trim_type": 0.4,
+        "custom_model_data": 14
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_tide_trim_copper",
+      "predicate": {
+        "trim_type": 0.5,
+        "custom_model_data": 14
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_tide_trim_gold",
+      "predicate": {
+        "trim_type": 0.6,
+        "custom_model_data": 14
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_tide_trim_emerald",
+      "predicate": {
+        "trim_type": 0.7,
+        "custom_model_data": 14
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_tide_trim_diamond",
+      "predicate": {
+        "trim_type": 0.8,
+        "custom_model_data": 14
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_tide_trim_lapis",
+      "predicate": {
+        "trim_type": 0.9,
+        "custom_model_data": 14
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_tide_trim_amethyst",
+      "predicate": {
+        "trim_type": 1.0,
+        "custom_model_data": 14
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_vex_trim_quartz",
+      "predicate": {
+        "trim_type": 0.1,
+        "custom_model_data": 15
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_vex_trim_iron",
+      "predicate": {
+        "trim_type": 0.2,
+        "custom_model_data": 15
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_vex_trim_netherite",
+      "predicate": {
+        "trim_type": 0.3,
+        "custom_model_data": 15
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_vex_trim_redstone",
+      "predicate": {
+        "trim_type": 0.4,
+        "custom_model_data": 15
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_vex_trim_copper",
+      "predicate": {
+        "trim_type": 0.5,
+        "custom_model_data": 15
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_vex_trim_gold",
+      "predicate": {
+        "trim_type": 0.6,
+        "custom_model_data": 15
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_vex_trim_emerald",
+      "predicate": {
+        "trim_type": 0.7,
+        "custom_model_data": 15
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_vex_trim_diamond",
+      "predicate": {
+        "trim_type": 0.8,
+        "custom_model_data": 15
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_vex_trim_lapis",
+      "predicate": {
+        "trim_type": 0.9,
+        "custom_model_data": 15
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_vex_trim_amethyst",
+      "predicate": {
+        "trim_type": 1.0,
+        "custom_model_data": 15
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_ward_trim_quartz",
+      "predicate": {
+        "trim_type": 0.1,
+        "custom_model_data": 16
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_ward_trim_iron",
+      "predicate": {
+        "trim_type": 0.2,
+        "custom_model_data": 16
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_ward_trim_netherite",
+      "predicate": {
+        "trim_type": 0.3,
+        "custom_model_data": 16
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_ward_trim_redstone",
+      "predicate": {
+        "trim_type": 0.4,
+        "custom_model_data": 16
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_ward_trim_copper",
+      "predicate": {
+        "trim_type": 0.5,
+        "custom_model_data": 16
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_ward_trim_gold",
+      "predicate": {
+        "trim_type": 0.6,
+        "custom_model_data": 16
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_ward_trim_emerald",
+      "predicate": {
+        "trim_type": 0.7,
+        "custom_model_data": 16
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_ward_trim_diamond",
+      "predicate": {
+        "trim_type": 0.8,
+        "custom_model_data": 16
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_ward_trim_lapis",
+      "predicate": {
+        "trim_type": 0.9,
+        "custom_model_data": 16
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_ward_trim_amethyst",
+      "predicate": {
+        "trim_type": 1.0,
+        "custom_model_data": 16
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_wayfinder_trim_quartz",
+      "predicate": {
+        "trim_type": 0.1,
+        "custom_model_data": 17
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_wayfinder_trim_iron",
+      "predicate": {
+        "trim_type": 0.2,
+        "custom_model_data": 17
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_wayfinder_trim_netherite",
+      "predicate": {
+        "trim_type": 0.3,
+        "custom_model_data": 17
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_wayfinder_trim_redstone",
+      "predicate": {
+        "trim_type": 0.4,
+        "custom_model_data": 17
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_wayfinder_trim_copper",
+      "predicate": {
+        "trim_type": 0.5,
+        "custom_model_data": 17
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_wayfinder_trim_gold",
+      "predicate": {
+        "trim_type": 0.6,
+        "custom_model_data": 17
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_wayfinder_trim_emerald",
+      "predicate": {
+        "trim_type": 0.7,
+        "custom_model_data": 17
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_wayfinder_trim_diamond",
+      "predicate": {
+        "trim_type": 0.8,
+        "custom_model_data": 17
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_wayfinder_trim_lapis",
+      "predicate": {
+        "trim_type": 0.9,
+        "custom_model_data": 17
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_wayfinder_trim_amethyst",
+      "predicate": {
+        "trim_type": 1.0,
+        "custom_model_data": 17
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_wild_trim_quartz",
+      "predicate": {
+        "trim_type": 0.1,
+        "custom_model_data": 18
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_wild_trim_iron",
+      "predicate": {
+        "trim_type": 0.2,
+        "custom_model_data": 18
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_wild_trim_netherite",
+      "predicate": {
+        "trim_type": 0.3,
+        "custom_model_data": 18
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_wild_trim_redstone",
+      "predicate": {
+        "trim_type": 0.4,
+        "custom_model_data": 18
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_wild_trim_copper",
+      "predicate": {
+        "trim_type": 0.5,
+        "custom_model_data": 18
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_wild_trim_gold",
+      "predicate": {
+        "trim_type": 0.6,
+        "custom_model_data": 18
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_wild_trim_emerald",
+      "predicate": {
+        "trim_type": 0.7,
+        "custom_model_data": 18
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_wild_trim_diamond",
+      "predicate": {
+        "trim_type": 0.8,
+        "custom_model_data": 18
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_wild_trim_lapis",
+      "predicate": {
+        "trim_type": 0.9,
+        "custom_model_data": 18
+      }
+    },
+    {
+      "model": "tool_trim:item/netherite_sword_wild_trim_amethyst",
+      "predicate": {
+        "trim_type": 1.0,
+        "custom_model_data": 18
+      }
     }
+  ],
+  "textures": {
+    "layer0": "minecraft:item/netherite_sword"
+  }
 }

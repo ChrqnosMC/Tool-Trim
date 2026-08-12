@@ -1,0 +1,7033 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "component": "minecraft:trim",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_quartz"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_iron"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_netherite"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_redstone"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_copper"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_gold"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_emerald"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_diamond"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_lapis"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_amethyst"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_resin"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_armadillo_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:armadillo_scute",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_blaze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:blaze_rod",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_bone"
+        },
+        "when": {
+          "material": "more_trim_materials:bone",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_breeze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:breeze_rod",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_coal"
+        },
+        "when": {
+          "material": "more_trim_materials:coal",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_dragon_breath"
+        },
+        "when": {
+          "material": "more_trim_materials:dragon_breath",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_echo_shard"
+        },
+        "when": {
+          "material": "more_trim_materials:echo_shard",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_end_crystal"
+        },
+        "when": {
+          "material": "more_trim_materials:end_crystal",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_ender_pearl"
+        },
+        "when": {
+          "material": "more_trim_materials:ender_pearl",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_experience_bottle"
+        },
+        "when": {
+          "material": "more_trim_materials:experience_bottle",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_fire_charge"
+        },
+        "when": {
+          "material": "more_trim_materials:fire_charge",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_glow_ink"
+        },
+        "when": {
+          "material": "more_trim_materials:glow_ink",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_glowstone"
+        },
+        "when": {
+          "material": "more_trim_materials:glowstone",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_gunpowder"
+        },
+        "when": {
+          "material": "more_trim_materials:gunpowder",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_heart_of_the_sea"
+        },
+        "when": {
+          "material": "more_trim_materials:heart_of_the_sea",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_honeycomb"
+        },
+        "when": {
+          "material": "more_trim_materials:honeycomb",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_leather"
+        },
+        "when": {
+          "material": "more_trim_materials:leather",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_nautilus"
+        },
+        "when": {
+          "material": "more_trim_materials:nautilus",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_nether_brick"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_brick",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_nether_star"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_star",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_netherite_scrap"
+        },
+        "when": {
+          "material": "more_trim_materials:netherite_scrap",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_phantom_membrane"
+        },
+        "when": {
+          "material": "more_trim_materials:phantom_membrane",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_prismarine_crystals"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine_crystals",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_prismarine"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_purpur"
+        },
+        "when": {
+          "material": "more_trim_materials:purpur",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_rabbit_hide"
+        },
+        "when": {
+          "material": "more_trim_materials:rabbit_hide",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_slime"
+        },
+        "when": {
+          "material": "more_trim_materials:slime",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_bolt_trim_turtle_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:turtle_scute",
+          "pattern": "minecraft:bolt"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_quartz"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_iron"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_netherite"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_redstone"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_copper"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_gold"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_emerald"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_diamond"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_lapis"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_amethyst"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_resin"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_armadillo_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:armadillo_scute",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_blaze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:blaze_rod",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_bone"
+        },
+        "when": {
+          "material": "more_trim_materials:bone",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_breeze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:breeze_rod",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_coal"
+        },
+        "when": {
+          "material": "more_trim_materials:coal",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_dragon_breath"
+        },
+        "when": {
+          "material": "more_trim_materials:dragon_breath",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_echo_shard"
+        },
+        "when": {
+          "material": "more_trim_materials:echo_shard",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_end_crystal"
+        },
+        "when": {
+          "material": "more_trim_materials:end_crystal",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_ender_pearl"
+        },
+        "when": {
+          "material": "more_trim_materials:ender_pearl",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_experience_bottle"
+        },
+        "when": {
+          "material": "more_trim_materials:experience_bottle",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_fire_charge"
+        },
+        "when": {
+          "material": "more_trim_materials:fire_charge",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_glow_ink"
+        },
+        "when": {
+          "material": "more_trim_materials:glow_ink",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_glowstone"
+        },
+        "when": {
+          "material": "more_trim_materials:glowstone",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_gunpowder"
+        },
+        "when": {
+          "material": "more_trim_materials:gunpowder",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_heart_of_the_sea"
+        },
+        "when": {
+          "material": "more_trim_materials:heart_of_the_sea",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_honeycomb"
+        },
+        "when": {
+          "material": "more_trim_materials:honeycomb",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_leather"
+        },
+        "when": {
+          "material": "more_trim_materials:leather",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_nautilus"
+        },
+        "when": {
+          "material": "more_trim_materials:nautilus",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_nether_brick"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_brick",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_nether_star"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_star",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_netherite_scrap"
+        },
+        "when": {
+          "material": "more_trim_materials:netherite_scrap",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_phantom_membrane"
+        },
+        "when": {
+          "material": "more_trim_materials:phantom_membrane",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_prismarine_crystals"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine_crystals",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_prismarine"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_purpur"
+        },
+        "when": {
+          "material": "more_trim_materials:purpur",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_rabbit_hide"
+        },
+        "when": {
+          "material": "more_trim_materials:rabbit_hide",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_slime"
+        },
+        "when": {
+          "material": "more_trim_materials:slime",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_coast_trim_turtle_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:turtle_scute",
+          "pattern": "minecraft:coast"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_quartz"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_iron"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_netherite"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_redstone"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_copper"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_gold"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_emerald"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_diamond"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_lapis"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_amethyst"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_resin"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_armadillo_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:armadillo_scute",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_blaze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:blaze_rod",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_bone"
+        },
+        "when": {
+          "material": "more_trim_materials:bone",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_breeze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:breeze_rod",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_coal"
+        },
+        "when": {
+          "material": "more_trim_materials:coal",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_dragon_breath"
+        },
+        "when": {
+          "material": "more_trim_materials:dragon_breath",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_echo_shard"
+        },
+        "when": {
+          "material": "more_trim_materials:echo_shard",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_end_crystal"
+        },
+        "when": {
+          "material": "more_trim_materials:end_crystal",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_ender_pearl"
+        },
+        "when": {
+          "material": "more_trim_materials:ender_pearl",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_experience_bottle"
+        },
+        "when": {
+          "material": "more_trim_materials:experience_bottle",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_fire_charge"
+        },
+        "when": {
+          "material": "more_trim_materials:fire_charge",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_glow_ink"
+        },
+        "when": {
+          "material": "more_trim_materials:glow_ink",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_glowstone"
+        },
+        "when": {
+          "material": "more_trim_materials:glowstone",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_gunpowder"
+        },
+        "when": {
+          "material": "more_trim_materials:gunpowder",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_heart_of_the_sea"
+        },
+        "when": {
+          "material": "more_trim_materials:heart_of_the_sea",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_honeycomb"
+        },
+        "when": {
+          "material": "more_trim_materials:honeycomb",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_leather"
+        },
+        "when": {
+          "material": "more_trim_materials:leather",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_nautilus"
+        },
+        "when": {
+          "material": "more_trim_materials:nautilus",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_nether_brick"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_brick",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_nether_star"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_star",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_netherite_scrap"
+        },
+        "when": {
+          "material": "more_trim_materials:netherite_scrap",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_phantom_membrane"
+        },
+        "when": {
+          "material": "more_trim_materials:phantom_membrane",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_prismarine_crystals"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine_crystals",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_prismarine"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_purpur"
+        },
+        "when": {
+          "material": "more_trim_materials:purpur",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_rabbit_hide"
+        },
+        "when": {
+          "material": "more_trim_materials:rabbit_hide",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_slime"
+        },
+        "when": {
+          "material": "more_trim_materials:slime",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_dune_trim_turtle_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:turtle_scute",
+          "pattern": "minecraft:dune"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_quartz"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_iron"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_netherite"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_redstone"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_copper"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_gold"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_emerald"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_diamond"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_lapis"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_amethyst"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_resin"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_armadillo_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:armadillo_scute",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_blaze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:blaze_rod",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_bone"
+        },
+        "when": {
+          "material": "more_trim_materials:bone",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_breeze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:breeze_rod",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_coal"
+        },
+        "when": {
+          "material": "more_trim_materials:coal",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_dragon_breath"
+        },
+        "when": {
+          "material": "more_trim_materials:dragon_breath",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_echo_shard"
+        },
+        "when": {
+          "material": "more_trim_materials:echo_shard",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_end_crystal"
+        },
+        "when": {
+          "material": "more_trim_materials:end_crystal",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_ender_pearl"
+        },
+        "when": {
+          "material": "more_trim_materials:ender_pearl",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_experience_bottle"
+        },
+        "when": {
+          "material": "more_trim_materials:experience_bottle",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_fire_charge"
+        },
+        "when": {
+          "material": "more_trim_materials:fire_charge",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_glow_ink"
+        },
+        "when": {
+          "material": "more_trim_materials:glow_ink",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_glowstone"
+        },
+        "when": {
+          "material": "more_trim_materials:glowstone",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_gunpowder"
+        },
+        "when": {
+          "material": "more_trim_materials:gunpowder",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_heart_of_the_sea"
+        },
+        "when": {
+          "material": "more_trim_materials:heart_of_the_sea",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_honeycomb"
+        },
+        "when": {
+          "material": "more_trim_materials:honeycomb",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_leather"
+        },
+        "when": {
+          "material": "more_trim_materials:leather",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_nautilus"
+        },
+        "when": {
+          "material": "more_trim_materials:nautilus",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_nether_brick"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_brick",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_nether_star"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_star",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_netherite_scrap"
+        },
+        "when": {
+          "material": "more_trim_materials:netherite_scrap",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_phantom_membrane"
+        },
+        "when": {
+          "material": "more_trim_materials:phantom_membrane",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_prismarine_crystals"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine_crystals",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_prismarine"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_purpur"
+        },
+        "when": {
+          "material": "more_trim_materials:purpur",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_rabbit_hide"
+        },
+        "when": {
+          "material": "more_trim_materials:rabbit_hide",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_slime"
+        },
+        "when": {
+          "material": "more_trim_materials:slime",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_eye_trim_turtle_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:turtle_scute",
+          "pattern": "minecraft:eye"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_quartz"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_iron"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_netherite"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_redstone"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_copper"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_gold"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_emerald"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_diamond"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_lapis"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_amethyst"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_resin"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_armadillo_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:armadillo_scute",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_blaze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:blaze_rod",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_bone"
+        },
+        "when": {
+          "material": "more_trim_materials:bone",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_breeze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:breeze_rod",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_coal"
+        },
+        "when": {
+          "material": "more_trim_materials:coal",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_dragon_breath"
+        },
+        "when": {
+          "material": "more_trim_materials:dragon_breath",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_echo_shard"
+        },
+        "when": {
+          "material": "more_trim_materials:echo_shard",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_end_crystal"
+        },
+        "when": {
+          "material": "more_trim_materials:end_crystal",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_ender_pearl"
+        },
+        "when": {
+          "material": "more_trim_materials:ender_pearl",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_experience_bottle"
+        },
+        "when": {
+          "material": "more_trim_materials:experience_bottle",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_fire_charge"
+        },
+        "when": {
+          "material": "more_trim_materials:fire_charge",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_glow_ink"
+        },
+        "when": {
+          "material": "more_trim_materials:glow_ink",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_glowstone"
+        },
+        "when": {
+          "material": "more_trim_materials:glowstone",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_gunpowder"
+        },
+        "when": {
+          "material": "more_trim_materials:gunpowder",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_heart_of_the_sea"
+        },
+        "when": {
+          "material": "more_trim_materials:heart_of_the_sea",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_honeycomb"
+        },
+        "when": {
+          "material": "more_trim_materials:honeycomb",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_leather"
+        },
+        "when": {
+          "material": "more_trim_materials:leather",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_nautilus"
+        },
+        "when": {
+          "material": "more_trim_materials:nautilus",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_nether_brick"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_brick",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_nether_star"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_star",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_netherite_scrap"
+        },
+        "when": {
+          "material": "more_trim_materials:netherite_scrap",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_phantom_membrane"
+        },
+        "when": {
+          "material": "more_trim_materials:phantom_membrane",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_prismarine_crystals"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine_crystals",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_prismarine"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_purpur"
+        },
+        "when": {
+          "material": "more_trim_materials:purpur",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_rabbit_hide"
+        },
+        "when": {
+          "material": "more_trim_materials:rabbit_hide",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_slime"
+        },
+        "when": {
+          "material": "more_trim_materials:slime",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_flow_trim_turtle_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:turtle_scute",
+          "pattern": "minecraft:flow"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_quartz"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_iron"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_netherite"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_redstone"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_copper"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_gold"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_emerald"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_diamond"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_lapis"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_amethyst"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_resin"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_armadillo_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:armadillo_scute",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_blaze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:blaze_rod",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_bone"
+        },
+        "when": {
+          "material": "more_trim_materials:bone",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_breeze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:breeze_rod",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_coal"
+        },
+        "when": {
+          "material": "more_trim_materials:coal",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_dragon_breath"
+        },
+        "when": {
+          "material": "more_trim_materials:dragon_breath",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_echo_shard"
+        },
+        "when": {
+          "material": "more_trim_materials:echo_shard",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_end_crystal"
+        },
+        "when": {
+          "material": "more_trim_materials:end_crystal",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_ender_pearl"
+        },
+        "when": {
+          "material": "more_trim_materials:ender_pearl",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_experience_bottle"
+        },
+        "when": {
+          "material": "more_trim_materials:experience_bottle",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_fire_charge"
+        },
+        "when": {
+          "material": "more_trim_materials:fire_charge",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_glow_ink"
+        },
+        "when": {
+          "material": "more_trim_materials:glow_ink",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_glowstone"
+        },
+        "when": {
+          "material": "more_trim_materials:glowstone",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_gunpowder"
+        },
+        "when": {
+          "material": "more_trim_materials:gunpowder",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_heart_of_the_sea"
+        },
+        "when": {
+          "material": "more_trim_materials:heart_of_the_sea",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_honeycomb"
+        },
+        "when": {
+          "material": "more_trim_materials:honeycomb",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_leather"
+        },
+        "when": {
+          "material": "more_trim_materials:leather",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_nautilus"
+        },
+        "when": {
+          "material": "more_trim_materials:nautilus",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_nether_brick"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_brick",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_nether_star"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_star",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_netherite_scrap"
+        },
+        "when": {
+          "material": "more_trim_materials:netherite_scrap",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_phantom_membrane"
+        },
+        "when": {
+          "material": "more_trim_materials:phantom_membrane",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_prismarine_crystals"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine_crystals",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_prismarine"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_purpur"
+        },
+        "when": {
+          "material": "more_trim_materials:purpur",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_rabbit_hide"
+        },
+        "when": {
+          "material": "more_trim_materials:rabbit_hide",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_slime"
+        },
+        "when": {
+          "material": "more_trim_materials:slime",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_host_trim_turtle_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:turtle_scute",
+          "pattern": "minecraft:host"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_quartz"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_iron"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_netherite"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_redstone"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_copper"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_gold"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_emerald"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_diamond"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_lapis"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_amethyst"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_resin"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_armadillo_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:armadillo_scute",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_blaze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:blaze_rod",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_bone"
+        },
+        "when": {
+          "material": "more_trim_materials:bone",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_breeze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:breeze_rod",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_coal"
+        },
+        "when": {
+          "material": "more_trim_materials:coal",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_dragon_breath"
+        },
+        "when": {
+          "material": "more_trim_materials:dragon_breath",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_echo_shard"
+        },
+        "when": {
+          "material": "more_trim_materials:echo_shard",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_end_crystal"
+        },
+        "when": {
+          "material": "more_trim_materials:end_crystal",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_ender_pearl"
+        },
+        "when": {
+          "material": "more_trim_materials:ender_pearl",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_experience_bottle"
+        },
+        "when": {
+          "material": "more_trim_materials:experience_bottle",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_fire_charge"
+        },
+        "when": {
+          "material": "more_trim_materials:fire_charge",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_glow_ink"
+        },
+        "when": {
+          "material": "more_trim_materials:glow_ink",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_glowstone"
+        },
+        "when": {
+          "material": "more_trim_materials:glowstone",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_gunpowder"
+        },
+        "when": {
+          "material": "more_trim_materials:gunpowder",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_heart_of_the_sea"
+        },
+        "when": {
+          "material": "more_trim_materials:heart_of_the_sea",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_honeycomb"
+        },
+        "when": {
+          "material": "more_trim_materials:honeycomb",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_leather"
+        },
+        "when": {
+          "material": "more_trim_materials:leather",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_nautilus"
+        },
+        "when": {
+          "material": "more_trim_materials:nautilus",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_nether_brick"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_brick",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_nether_star"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_star",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_netherite_scrap"
+        },
+        "when": {
+          "material": "more_trim_materials:netherite_scrap",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_phantom_membrane"
+        },
+        "when": {
+          "material": "more_trim_materials:phantom_membrane",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_prismarine_crystals"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine_crystals",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_prismarine"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_purpur"
+        },
+        "when": {
+          "material": "more_trim_materials:purpur",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_rabbit_hide"
+        },
+        "when": {
+          "material": "more_trim_materials:rabbit_hide",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_slime"
+        },
+        "when": {
+          "material": "more_trim_materials:slime",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_raiser_trim_turtle_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:turtle_scute",
+          "pattern": "minecraft:raiser"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_quartz"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_iron"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_netherite"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_redstone"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_copper"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_gold"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_emerald"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_diamond"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_lapis"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_amethyst"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_resin"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_armadillo_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:armadillo_scute",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_blaze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:blaze_rod",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_bone"
+        },
+        "when": {
+          "material": "more_trim_materials:bone",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_breeze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:breeze_rod",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_coal"
+        },
+        "when": {
+          "material": "more_trim_materials:coal",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_dragon_breath"
+        },
+        "when": {
+          "material": "more_trim_materials:dragon_breath",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_echo_shard"
+        },
+        "when": {
+          "material": "more_trim_materials:echo_shard",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_end_crystal"
+        },
+        "when": {
+          "material": "more_trim_materials:end_crystal",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_ender_pearl"
+        },
+        "when": {
+          "material": "more_trim_materials:ender_pearl",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_experience_bottle"
+        },
+        "when": {
+          "material": "more_trim_materials:experience_bottle",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_fire_charge"
+        },
+        "when": {
+          "material": "more_trim_materials:fire_charge",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_glow_ink"
+        },
+        "when": {
+          "material": "more_trim_materials:glow_ink",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_glowstone"
+        },
+        "when": {
+          "material": "more_trim_materials:glowstone",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_gunpowder"
+        },
+        "when": {
+          "material": "more_trim_materials:gunpowder",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_heart_of_the_sea"
+        },
+        "when": {
+          "material": "more_trim_materials:heart_of_the_sea",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_honeycomb"
+        },
+        "when": {
+          "material": "more_trim_materials:honeycomb",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_leather"
+        },
+        "when": {
+          "material": "more_trim_materials:leather",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_nautilus"
+        },
+        "when": {
+          "material": "more_trim_materials:nautilus",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_nether_brick"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_brick",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_nether_star"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_star",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_netherite_scrap"
+        },
+        "when": {
+          "material": "more_trim_materials:netherite_scrap",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_phantom_membrane"
+        },
+        "when": {
+          "material": "more_trim_materials:phantom_membrane",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_prismarine_crystals"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine_crystals",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_prismarine"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_purpur"
+        },
+        "when": {
+          "material": "more_trim_materials:purpur",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_rabbit_hide"
+        },
+        "when": {
+          "material": "more_trim_materials:rabbit_hide",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_slime"
+        },
+        "when": {
+          "material": "more_trim_materials:slime",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_rib_trim_turtle_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:turtle_scute",
+          "pattern": "minecraft:rib"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_quartz"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_iron"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_netherite"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_redstone"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_copper"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_gold"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_emerald"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_diamond"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_lapis"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_amethyst"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_resin"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_armadillo_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:armadillo_scute",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_blaze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:blaze_rod",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_bone"
+        },
+        "when": {
+          "material": "more_trim_materials:bone",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_breeze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:breeze_rod",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_coal"
+        },
+        "when": {
+          "material": "more_trim_materials:coal",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_dragon_breath"
+        },
+        "when": {
+          "material": "more_trim_materials:dragon_breath",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_echo_shard"
+        },
+        "when": {
+          "material": "more_trim_materials:echo_shard",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_end_crystal"
+        },
+        "when": {
+          "material": "more_trim_materials:end_crystal",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_ender_pearl"
+        },
+        "when": {
+          "material": "more_trim_materials:ender_pearl",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_experience_bottle"
+        },
+        "when": {
+          "material": "more_trim_materials:experience_bottle",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_fire_charge"
+        },
+        "when": {
+          "material": "more_trim_materials:fire_charge",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_glow_ink"
+        },
+        "when": {
+          "material": "more_trim_materials:glow_ink",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_glowstone"
+        },
+        "when": {
+          "material": "more_trim_materials:glowstone",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_gunpowder"
+        },
+        "when": {
+          "material": "more_trim_materials:gunpowder",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_heart_of_the_sea"
+        },
+        "when": {
+          "material": "more_trim_materials:heart_of_the_sea",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_honeycomb"
+        },
+        "when": {
+          "material": "more_trim_materials:honeycomb",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_leather"
+        },
+        "when": {
+          "material": "more_trim_materials:leather",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_nautilus"
+        },
+        "when": {
+          "material": "more_trim_materials:nautilus",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_nether_brick"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_brick",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_nether_star"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_star",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_netherite_scrap"
+        },
+        "when": {
+          "material": "more_trim_materials:netherite_scrap",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_phantom_membrane"
+        },
+        "when": {
+          "material": "more_trim_materials:phantom_membrane",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_prismarine_crystals"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine_crystals",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_prismarine"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_purpur"
+        },
+        "when": {
+          "material": "more_trim_materials:purpur",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_rabbit_hide"
+        },
+        "when": {
+          "material": "more_trim_materials:rabbit_hide",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_slime"
+        },
+        "when": {
+          "material": "more_trim_materials:slime",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_sentry_trim_turtle_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:turtle_scute",
+          "pattern": "minecraft:sentry"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_quartz"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_iron"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_netherite"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_redstone"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_copper"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_gold"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_emerald"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_diamond"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_lapis"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_amethyst"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_resin"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_armadillo_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:armadillo_scute",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_blaze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:blaze_rod",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_bone"
+        },
+        "when": {
+          "material": "more_trim_materials:bone",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_breeze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:breeze_rod",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_coal"
+        },
+        "when": {
+          "material": "more_trim_materials:coal",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_dragon_breath"
+        },
+        "when": {
+          "material": "more_trim_materials:dragon_breath",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_echo_shard"
+        },
+        "when": {
+          "material": "more_trim_materials:echo_shard",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_end_crystal"
+        },
+        "when": {
+          "material": "more_trim_materials:end_crystal",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_ender_pearl"
+        },
+        "when": {
+          "material": "more_trim_materials:ender_pearl",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_experience_bottle"
+        },
+        "when": {
+          "material": "more_trim_materials:experience_bottle",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_fire_charge"
+        },
+        "when": {
+          "material": "more_trim_materials:fire_charge",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_glow_ink"
+        },
+        "when": {
+          "material": "more_trim_materials:glow_ink",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_glowstone"
+        },
+        "when": {
+          "material": "more_trim_materials:glowstone",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_gunpowder"
+        },
+        "when": {
+          "material": "more_trim_materials:gunpowder",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_heart_of_the_sea"
+        },
+        "when": {
+          "material": "more_trim_materials:heart_of_the_sea",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_honeycomb"
+        },
+        "when": {
+          "material": "more_trim_materials:honeycomb",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_leather"
+        },
+        "when": {
+          "material": "more_trim_materials:leather",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_nautilus"
+        },
+        "when": {
+          "material": "more_trim_materials:nautilus",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_nether_brick"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_brick",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_nether_star"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_star",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_netherite_scrap"
+        },
+        "when": {
+          "material": "more_trim_materials:netherite_scrap",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_phantom_membrane"
+        },
+        "when": {
+          "material": "more_trim_materials:phantom_membrane",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_prismarine_crystals"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine_crystals",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_prismarine"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_purpur"
+        },
+        "when": {
+          "material": "more_trim_materials:purpur",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_rabbit_hide"
+        },
+        "when": {
+          "material": "more_trim_materials:rabbit_hide",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_slime"
+        },
+        "when": {
+          "material": "more_trim_materials:slime",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_shaper_trim_turtle_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:turtle_scute",
+          "pattern": "minecraft:shaper"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_quartz"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_iron"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_netherite"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_redstone"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_copper"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_gold"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_emerald"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_diamond"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_lapis"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_amethyst"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_resin"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_armadillo_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:armadillo_scute",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_blaze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:blaze_rod",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_bone"
+        },
+        "when": {
+          "material": "more_trim_materials:bone",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_breeze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:breeze_rod",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_coal"
+        },
+        "when": {
+          "material": "more_trim_materials:coal",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_dragon_breath"
+        },
+        "when": {
+          "material": "more_trim_materials:dragon_breath",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_echo_shard"
+        },
+        "when": {
+          "material": "more_trim_materials:echo_shard",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_end_crystal"
+        },
+        "when": {
+          "material": "more_trim_materials:end_crystal",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_ender_pearl"
+        },
+        "when": {
+          "material": "more_trim_materials:ender_pearl",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_experience_bottle"
+        },
+        "when": {
+          "material": "more_trim_materials:experience_bottle",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_fire_charge"
+        },
+        "when": {
+          "material": "more_trim_materials:fire_charge",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_glow_ink"
+        },
+        "when": {
+          "material": "more_trim_materials:glow_ink",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_glowstone"
+        },
+        "when": {
+          "material": "more_trim_materials:glowstone",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_gunpowder"
+        },
+        "when": {
+          "material": "more_trim_materials:gunpowder",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_heart_of_the_sea"
+        },
+        "when": {
+          "material": "more_trim_materials:heart_of_the_sea",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_honeycomb"
+        },
+        "when": {
+          "material": "more_trim_materials:honeycomb",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_leather"
+        },
+        "when": {
+          "material": "more_trim_materials:leather",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_nautilus"
+        },
+        "when": {
+          "material": "more_trim_materials:nautilus",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_nether_brick"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_brick",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_nether_star"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_star",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_netherite_scrap"
+        },
+        "when": {
+          "material": "more_trim_materials:netherite_scrap",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_phantom_membrane"
+        },
+        "when": {
+          "material": "more_trim_materials:phantom_membrane",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_prismarine_crystals"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine_crystals",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_prismarine"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_purpur"
+        },
+        "when": {
+          "material": "more_trim_materials:purpur",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_rabbit_hide"
+        },
+        "when": {
+          "material": "more_trim_materials:rabbit_hide",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_slime"
+        },
+        "when": {
+          "material": "more_trim_materials:slime",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_silence_trim_turtle_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:turtle_scute",
+          "pattern": "minecraft:silence"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_quartz"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_iron"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_netherite"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_redstone"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_copper"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_gold"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_emerald"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_diamond"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_lapis"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_amethyst"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_resin"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_armadillo_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:armadillo_scute",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_blaze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:blaze_rod",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_bone"
+        },
+        "when": {
+          "material": "more_trim_materials:bone",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_breeze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:breeze_rod",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_coal"
+        },
+        "when": {
+          "material": "more_trim_materials:coal",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_dragon_breath"
+        },
+        "when": {
+          "material": "more_trim_materials:dragon_breath",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_echo_shard"
+        },
+        "when": {
+          "material": "more_trim_materials:echo_shard",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_end_crystal"
+        },
+        "when": {
+          "material": "more_trim_materials:end_crystal",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_ender_pearl"
+        },
+        "when": {
+          "material": "more_trim_materials:ender_pearl",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_experience_bottle"
+        },
+        "when": {
+          "material": "more_trim_materials:experience_bottle",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_fire_charge"
+        },
+        "when": {
+          "material": "more_trim_materials:fire_charge",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_glow_ink"
+        },
+        "when": {
+          "material": "more_trim_materials:glow_ink",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_glowstone"
+        },
+        "when": {
+          "material": "more_trim_materials:glowstone",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_gunpowder"
+        },
+        "when": {
+          "material": "more_trim_materials:gunpowder",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_heart_of_the_sea"
+        },
+        "when": {
+          "material": "more_trim_materials:heart_of_the_sea",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_honeycomb"
+        },
+        "when": {
+          "material": "more_trim_materials:honeycomb",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_leather"
+        },
+        "when": {
+          "material": "more_trim_materials:leather",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_nautilus"
+        },
+        "when": {
+          "material": "more_trim_materials:nautilus",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_nether_brick"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_brick",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_nether_star"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_star",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_netherite_scrap"
+        },
+        "when": {
+          "material": "more_trim_materials:netherite_scrap",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_phantom_membrane"
+        },
+        "when": {
+          "material": "more_trim_materials:phantom_membrane",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_prismarine_crystals"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine_crystals",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_prismarine"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_purpur"
+        },
+        "when": {
+          "material": "more_trim_materials:purpur",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_rabbit_hide"
+        },
+        "when": {
+          "material": "more_trim_materials:rabbit_hide",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_slime"
+        },
+        "when": {
+          "material": "more_trim_materials:slime",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_snout_trim_turtle_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:turtle_scute",
+          "pattern": "minecraft:snout"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_quartz"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_iron"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_netherite"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_redstone"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_copper"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_gold"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_emerald"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_diamond"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_lapis"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_amethyst"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_resin"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_armadillo_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:armadillo_scute",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_blaze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:blaze_rod",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_bone"
+        },
+        "when": {
+          "material": "more_trim_materials:bone",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_breeze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:breeze_rod",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_coal"
+        },
+        "when": {
+          "material": "more_trim_materials:coal",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_dragon_breath"
+        },
+        "when": {
+          "material": "more_trim_materials:dragon_breath",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_echo_shard"
+        },
+        "when": {
+          "material": "more_trim_materials:echo_shard",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_end_crystal"
+        },
+        "when": {
+          "material": "more_trim_materials:end_crystal",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_ender_pearl"
+        },
+        "when": {
+          "material": "more_trim_materials:ender_pearl",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_experience_bottle"
+        },
+        "when": {
+          "material": "more_trim_materials:experience_bottle",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_fire_charge"
+        },
+        "when": {
+          "material": "more_trim_materials:fire_charge",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_glow_ink"
+        },
+        "when": {
+          "material": "more_trim_materials:glow_ink",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_glowstone"
+        },
+        "when": {
+          "material": "more_trim_materials:glowstone",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_gunpowder"
+        },
+        "when": {
+          "material": "more_trim_materials:gunpowder",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_heart_of_the_sea"
+        },
+        "when": {
+          "material": "more_trim_materials:heart_of_the_sea",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_honeycomb"
+        },
+        "when": {
+          "material": "more_trim_materials:honeycomb",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_leather"
+        },
+        "when": {
+          "material": "more_trim_materials:leather",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_nautilus"
+        },
+        "when": {
+          "material": "more_trim_materials:nautilus",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_nether_brick"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_brick",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_nether_star"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_star",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_netherite_scrap"
+        },
+        "when": {
+          "material": "more_trim_materials:netherite_scrap",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_phantom_membrane"
+        },
+        "when": {
+          "material": "more_trim_materials:phantom_membrane",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_prismarine_crystals"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine_crystals",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_prismarine"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_purpur"
+        },
+        "when": {
+          "material": "more_trim_materials:purpur",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_rabbit_hide"
+        },
+        "when": {
+          "material": "more_trim_materials:rabbit_hide",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_slime"
+        },
+        "when": {
+          "material": "more_trim_materials:slime",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_spire_trim_turtle_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:turtle_scute",
+          "pattern": "minecraft:spire"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_quartz"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_iron"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_netherite"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_redstone"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_copper"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_gold"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_emerald"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_diamond"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_lapis"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_amethyst"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_resin"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_armadillo_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:armadillo_scute",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_blaze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:blaze_rod",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_bone"
+        },
+        "when": {
+          "material": "more_trim_materials:bone",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_breeze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:breeze_rod",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_coal"
+        },
+        "when": {
+          "material": "more_trim_materials:coal",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_dragon_breath"
+        },
+        "when": {
+          "material": "more_trim_materials:dragon_breath",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_echo_shard"
+        },
+        "when": {
+          "material": "more_trim_materials:echo_shard",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_end_crystal"
+        },
+        "when": {
+          "material": "more_trim_materials:end_crystal",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_ender_pearl"
+        },
+        "when": {
+          "material": "more_trim_materials:ender_pearl",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_experience_bottle"
+        },
+        "when": {
+          "material": "more_trim_materials:experience_bottle",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_fire_charge"
+        },
+        "when": {
+          "material": "more_trim_materials:fire_charge",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_glow_ink"
+        },
+        "when": {
+          "material": "more_trim_materials:glow_ink",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_glowstone"
+        },
+        "when": {
+          "material": "more_trim_materials:glowstone",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_gunpowder"
+        },
+        "when": {
+          "material": "more_trim_materials:gunpowder",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_heart_of_the_sea"
+        },
+        "when": {
+          "material": "more_trim_materials:heart_of_the_sea",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_honeycomb"
+        },
+        "when": {
+          "material": "more_trim_materials:honeycomb",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_leather"
+        },
+        "when": {
+          "material": "more_trim_materials:leather",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_nautilus"
+        },
+        "when": {
+          "material": "more_trim_materials:nautilus",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_nether_brick"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_brick",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_nether_star"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_star",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_netherite_scrap"
+        },
+        "when": {
+          "material": "more_trim_materials:netherite_scrap",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_phantom_membrane"
+        },
+        "when": {
+          "material": "more_trim_materials:phantom_membrane",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_prismarine_crystals"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine_crystals",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_prismarine"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_purpur"
+        },
+        "when": {
+          "material": "more_trim_materials:purpur",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_rabbit_hide"
+        },
+        "when": {
+          "material": "more_trim_materials:rabbit_hide",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_slime"
+        },
+        "when": {
+          "material": "more_trim_materials:slime",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_tide_trim_turtle_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:turtle_scute",
+          "pattern": "minecraft:tide"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_quartz"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_iron"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_netherite"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_redstone"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_copper"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_gold"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_emerald"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_diamond"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_lapis"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_amethyst"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_resin"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_armadillo_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:armadillo_scute",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_blaze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:blaze_rod",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_bone"
+        },
+        "when": {
+          "material": "more_trim_materials:bone",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_breeze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:breeze_rod",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_coal"
+        },
+        "when": {
+          "material": "more_trim_materials:coal",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_dragon_breath"
+        },
+        "when": {
+          "material": "more_trim_materials:dragon_breath",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_echo_shard"
+        },
+        "when": {
+          "material": "more_trim_materials:echo_shard",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_end_crystal"
+        },
+        "when": {
+          "material": "more_trim_materials:end_crystal",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_ender_pearl"
+        },
+        "when": {
+          "material": "more_trim_materials:ender_pearl",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_experience_bottle"
+        },
+        "when": {
+          "material": "more_trim_materials:experience_bottle",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_fire_charge"
+        },
+        "when": {
+          "material": "more_trim_materials:fire_charge",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_glow_ink"
+        },
+        "when": {
+          "material": "more_trim_materials:glow_ink",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_glowstone"
+        },
+        "when": {
+          "material": "more_trim_materials:glowstone",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_gunpowder"
+        },
+        "when": {
+          "material": "more_trim_materials:gunpowder",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_heart_of_the_sea"
+        },
+        "when": {
+          "material": "more_trim_materials:heart_of_the_sea",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_honeycomb"
+        },
+        "when": {
+          "material": "more_trim_materials:honeycomb",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_leather"
+        },
+        "when": {
+          "material": "more_trim_materials:leather",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_nautilus"
+        },
+        "when": {
+          "material": "more_trim_materials:nautilus",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_nether_brick"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_brick",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_nether_star"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_star",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_netherite_scrap"
+        },
+        "when": {
+          "material": "more_trim_materials:netherite_scrap",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_phantom_membrane"
+        },
+        "when": {
+          "material": "more_trim_materials:phantom_membrane",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_prismarine_crystals"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine_crystals",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_prismarine"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_purpur"
+        },
+        "when": {
+          "material": "more_trim_materials:purpur",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_rabbit_hide"
+        },
+        "when": {
+          "material": "more_trim_materials:rabbit_hide",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_slime"
+        },
+        "when": {
+          "material": "more_trim_materials:slime",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_vex_trim_turtle_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:turtle_scute",
+          "pattern": "minecraft:vex"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_quartz"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_iron"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_netherite"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_redstone"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_copper"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_gold"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_emerald"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_diamond"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_lapis"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_amethyst"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_resin"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_armadillo_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:armadillo_scute",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_blaze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:blaze_rod",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_bone"
+        },
+        "when": {
+          "material": "more_trim_materials:bone",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_breeze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:breeze_rod",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_coal"
+        },
+        "when": {
+          "material": "more_trim_materials:coal",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_dragon_breath"
+        },
+        "when": {
+          "material": "more_trim_materials:dragon_breath",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_echo_shard"
+        },
+        "when": {
+          "material": "more_trim_materials:echo_shard",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_end_crystal"
+        },
+        "when": {
+          "material": "more_trim_materials:end_crystal",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_ender_pearl"
+        },
+        "when": {
+          "material": "more_trim_materials:ender_pearl",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_experience_bottle"
+        },
+        "when": {
+          "material": "more_trim_materials:experience_bottle",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_fire_charge"
+        },
+        "when": {
+          "material": "more_trim_materials:fire_charge",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_glow_ink"
+        },
+        "when": {
+          "material": "more_trim_materials:glow_ink",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_glowstone"
+        },
+        "when": {
+          "material": "more_trim_materials:glowstone",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_gunpowder"
+        },
+        "when": {
+          "material": "more_trim_materials:gunpowder",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_heart_of_the_sea"
+        },
+        "when": {
+          "material": "more_trim_materials:heart_of_the_sea",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_honeycomb"
+        },
+        "when": {
+          "material": "more_trim_materials:honeycomb",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_leather"
+        },
+        "when": {
+          "material": "more_trim_materials:leather",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_nautilus"
+        },
+        "when": {
+          "material": "more_trim_materials:nautilus",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_nether_brick"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_brick",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_nether_star"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_star",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_netherite_scrap"
+        },
+        "when": {
+          "material": "more_trim_materials:netherite_scrap",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_phantom_membrane"
+        },
+        "when": {
+          "material": "more_trim_materials:phantom_membrane",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_prismarine_crystals"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine_crystals",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_prismarine"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_purpur"
+        },
+        "when": {
+          "material": "more_trim_materials:purpur",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_rabbit_hide"
+        },
+        "when": {
+          "material": "more_trim_materials:rabbit_hide",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_slime"
+        },
+        "when": {
+          "material": "more_trim_materials:slime",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_ward_trim_turtle_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:turtle_scute",
+          "pattern": "minecraft:ward"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_quartz"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_iron"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_netherite"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_redstone"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_copper"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_gold"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_emerald"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_diamond"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_lapis"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_amethyst"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_resin"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_armadillo_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:armadillo_scute",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_blaze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:blaze_rod",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_bone"
+        },
+        "when": {
+          "material": "more_trim_materials:bone",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_breeze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:breeze_rod",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_coal"
+        },
+        "when": {
+          "material": "more_trim_materials:coal",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_dragon_breath"
+        },
+        "when": {
+          "material": "more_trim_materials:dragon_breath",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_echo_shard"
+        },
+        "when": {
+          "material": "more_trim_materials:echo_shard",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_end_crystal"
+        },
+        "when": {
+          "material": "more_trim_materials:end_crystal",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_ender_pearl"
+        },
+        "when": {
+          "material": "more_trim_materials:ender_pearl",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_experience_bottle"
+        },
+        "when": {
+          "material": "more_trim_materials:experience_bottle",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_fire_charge"
+        },
+        "when": {
+          "material": "more_trim_materials:fire_charge",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_glow_ink"
+        },
+        "when": {
+          "material": "more_trim_materials:glow_ink",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_glowstone"
+        },
+        "when": {
+          "material": "more_trim_materials:glowstone",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_gunpowder"
+        },
+        "when": {
+          "material": "more_trim_materials:gunpowder",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_heart_of_the_sea"
+        },
+        "when": {
+          "material": "more_trim_materials:heart_of_the_sea",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_honeycomb"
+        },
+        "when": {
+          "material": "more_trim_materials:honeycomb",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_leather"
+        },
+        "when": {
+          "material": "more_trim_materials:leather",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_nautilus"
+        },
+        "when": {
+          "material": "more_trim_materials:nautilus",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_nether_brick"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_brick",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_nether_star"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_star",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_netherite_scrap"
+        },
+        "when": {
+          "material": "more_trim_materials:netherite_scrap",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_phantom_membrane"
+        },
+        "when": {
+          "material": "more_trim_materials:phantom_membrane",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_prismarine_crystals"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine_crystals",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_prismarine"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_purpur"
+        },
+        "when": {
+          "material": "more_trim_materials:purpur",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_rabbit_hide"
+        },
+        "when": {
+          "material": "more_trim_materials:rabbit_hide",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_slime"
+        },
+        "when": {
+          "material": "more_trim_materials:slime",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wayfinder_trim_turtle_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:turtle_scute",
+          "pattern": "minecraft:wayfinder"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_quartz"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_iron"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_netherite"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_redstone"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_copper"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_gold"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_emerald"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_diamond"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_lapis"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_amethyst"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_resin"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_armadillo_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:armadillo_scute",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_blaze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:blaze_rod",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_bone"
+        },
+        "when": {
+          "material": "more_trim_materials:bone",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_breeze_rod"
+        },
+        "when": {
+          "material": "more_trim_materials:breeze_rod",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_coal"
+        },
+        "when": {
+          "material": "more_trim_materials:coal",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_dragon_breath"
+        },
+        "when": {
+          "material": "more_trim_materials:dragon_breath",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_echo_shard"
+        },
+        "when": {
+          "material": "more_trim_materials:echo_shard",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_end_crystal"
+        },
+        "when": {
+          "material": "more_trim_materials:end_crystal",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_ender_pearl"
+        },
+        "when": {
+          "material": "more_trim_materials:ender_pearl",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_experience_bottle"
+        },
+        "when": {
+          "material": "more_trim_materials:experience_bottle",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_fire_charge"
+        },
+        "when": {
+          "material": "more_trim_materials:fire_charge",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_glow_ink"
+        },
+        "when": {
+          "material": "more_trim_materials:glow_ink",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_glowstone"
+        },
+        "when": {
+          "material": "more_trim_materials:glowstone",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_gunpowder"
+        },
+        "when": {
+          "material": "more_trim_materials:gunpowder",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_heart_of_the_sea"
+        },
+        "when": {
+          "material": "more_trim_materials:heart_of_the_sea",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_honeycomb"
+        },
+        "when": {
+          "material": "more_trim_materials:honeycomb",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_leather"
+        },
+        "when": {
+          "material": "more_trim_materials:leather",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_nautilus"
+        },
+        "when": {
+          "material": "more_trim_materials:nautilus",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_nether_brick"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_brick",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_nether_star"
+        },
+        "when": {
+          "material": "more_trim_materials:nether_star",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_netherite_scrap"
+        },
+        "when": {
+          "material": "more_trim_materials:netherite_scrap",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_phantom_membrane"
+        },
+        "when": {
+          "material": "more_trim_materials:phantom_membrane",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_prismarine_crystals"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine_crystals",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_prismarine"
+        },
+        "when": {
+          "material": "more_trim_materials:prismarine",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_purpur"
+        },
+        "when": {
+          "material": "more_trim_materials:purpur",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_rabbit_hide"
+        },
+        "when": {
+          "material": "more_trim_materials:rabbit_hide",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_slime"
+        },
+        "when": {
+          "material": "more_trim_materials:slime",
+          "pattern": "minecraft:wild"
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "tool_trim:item/wooden_sword_wild_trim_turtle_scute"
+        },
+        "when": {
+          "material": "more_trim_materials:turtle_scute",
+          "pattern": "minecraft:wild"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/wooden_sword"
+    },
+    "property": "minecraft:component"
+  }
+}

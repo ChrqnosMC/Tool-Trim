@@ -1,0 +1,202 @@
+{
+  "pack": {
+    "pack_format": 110,
+    "supported_formats": [
+		34,
+		110
+	],
+	"min_format": [
+		34,
+		0
+	],
+	"max_format": [
+		110,
+		0
+	],
+    "description": "Tool Trim & More Trim Materials"
+  },
+	"overlays": {
+		"entries": [
+			{
+				"formats": [
+					34,
+					42
+				],
+				"min_format": [
+					34,
+					0
+				],
+				"max_format": [
+					42,
+					0
+				],
+				"directory": "overlay_34"
+			},
+			{
+				"formats": [
+					43,
+					43
+				],
+				"min_format": [
+					43,
+					0
+				],
+				"max_format": [
+					43,
+					0
+				],
+				"directory": "overlay_43"
+			},
+			{
+				"formats": [
+					44,
+					47
+				],
+				"min_format": [
+					44,
+					0
+				],
+				"max_format": [
+					47,
+					0
+				],
+				"directory": "overlay_44"
+			},
+			{
+				"formats": [
+					45,
+					48
+				],
+				"min_format": [
+					45,
+					0
+				],
+				"max_format": [
+					48,
+					0
+				],
+				"directory": "overlay_45"
+			},
+			{
+				"formats": [
+					48,
+					90
+				],
+				"min_format": [
+					48,
+					0
+				],
+				"max_format": [
+					90,
+					0
+				],
+				"directory": "overlay_48"
+			},
+			{
+				"formats": [
+					49,
+					58
+				],
+				"min_format": [
+					49,
+					0
+				],
+				"max_format": [
+					58,
+					0
+				],
+				"directory": "overlay_49"
+			},
+			{
+				"formats": [
+					59,
+					62
+				],
+				"min_format": [
+					59,
+					0
+				],
+				"max_format": [
+					62,
+					0
+				],
+				"directory": "overlay_59"
+			},
+			{
+				"formats": [
+					63,
+					110
+				],
+				"min_format": [
+					63,
+					0
+				],
+				"max_format": [
+					110,
+					0
+				],
+				"directory": "overlay_63"
+			},
+			{
+				"formats": [
+					65,
+					91
+				],
+				"min_format": [
+					65,
+					0
+				],
+				"max_format": [
+					91,
+					0
+				],
+				"directory": "overlay_65"
+			},
+			{
+				"formats": [
+					70,
+					91
+				],
+				"min_format": [
+					70,
+					0
+				],
+				"max_format": [
+					91,
+					0
+				],
+				"directory": "overlay_70"
+			},
+			{
+				"formats": [
+					82,
+					110
+				],
+				"min_format": [
+					82,
+					0
+				],
+				"max_format": [
+					110,
+					0
+				],
+				"directory": "overlay_82"
+			},
+			{
+				"formats": [
+					89,
+					110
+				],
+				"min_format": [
+					89,
+					0
+				],
+				"max_format": [
+					110,
+					0
+				],
+				"directory": "overlay_89"
+			}
+		]
+	}
+}

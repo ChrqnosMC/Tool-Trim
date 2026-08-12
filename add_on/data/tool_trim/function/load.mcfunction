@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Tool Trim & More Trim Materials datapack has been reloaded"}]
