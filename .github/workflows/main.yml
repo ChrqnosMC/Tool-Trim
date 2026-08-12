@@ -39,7 +39,7 @@ jobs:
         with:
           path: src/supported_versions.txt
       - name: Upload to modrinth
-        uses: modrinth/publish-action@v2
+        uses: cloudnode-pro/modrinth-publish@v2
         with:
           token: ${{secrets.ACCESS_TOKEN}}
           project: aa6VCPUX
