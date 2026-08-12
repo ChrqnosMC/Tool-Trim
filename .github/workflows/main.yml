@@ -25,8 +25,11 @@ jobs:
           name: ${{env.name}}-${{env.tag}}
           path: src
       - name: Create zip file
-        run: zip -r ${{env.name}}-${{env.tag}}.zip . -x ".git/*" ".github/*" ".gitattributes" "supported_versions.txt"
+        run: zip -r ${{env.name}}-${{env.tag}}.zip . -x ".git/*" ".github/*" ".gitattributes" "supported_versions.txt" "add_on/*"
         working-directory: src
+      - name: Create add-on zip file
+        run: zip -r ../${{env.name}}-${{env.tag}}-addon.zip .
+        working-directory: src/add_on
       - name: Read supported versions
         uses: andstor/file-reader-action@v1
         id: read_file
@@ -42,5 +45,6 @@ jobs:
           version: ${{env.tag}}
           files: |
             src/${{env.name}}-${{env.tag}}.zip
+            src/${{env.name}}-${{env.tag}}-addon.zip
           game-versions: ${{steps.read_file.outputs.contents}}
           loaders: minecraft datapack
