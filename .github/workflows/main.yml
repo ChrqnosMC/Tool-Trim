@@ -46,7 +46,7 @@ jobs:
           name: Tool Trim ${{env.tag}}
           version: ${{env.tag}}
           files: '["src/${{env.name}}-${{env.tag}}.zip", "src/${{env.name}}-${{env.tag}}-resourcepack.zip", "src/${{env.name}}-${{env.tag}}-more-trim-materials-addon.zip"]'
-          primary-file: src/${{env.name}}-${{env.tag}}.zip
-          file-types: '{"src/${{env.name}}-${{env.tag}}-resourcepack.zip": "required-resource-pack"}'
+          primary-file: ${{env.name}}-${{env.tag}}.zip
+          file-types: '{"${{env.name}}-${{env.tag}}-resourcepack.zip": "required-resource-pack"}'
           game-versions: ${{steps.read_file.outputs.contents}}
           loaders: datapack
