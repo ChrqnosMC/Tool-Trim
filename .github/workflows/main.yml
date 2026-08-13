@@ -27,15 +27,15 @@ jobs:
       - name: Create datapack zip file
         run: zip -r ${{env.name}}-${{env.tag}}.zip . -x ".git/*" ".github/*" ".gitattributes" "supported_versions.txt" "add_on/*" "assets/*" "overlay_34/*" "overlay_43/*" "overlay_43_2/*" "overlay_44/*" "overlay_48_2/*" "overlay_65/*" "overlay_70/*"
         working-directory: src
-      - name: Create add-on resourcepack zip file
-        run: zip -r ../${{env.name}}-${{env.tag}}-more-trim-materials-addon-resourcepack.zip . -x "data/*" "overlay_48/*" "overlay_49/*" "overlay_58/*" "overlay_59/*" "overlay_63/*" "overlay_82/*" "overlay_89/*"
-        working-directory: src/add_on
-      - name: Create add-on datapack zip file
-        run: zip -r ../${{env.name}}-${{env.tag}}-more-trim-materials-addon.zip . -x "assets/*" "overlay_34/*" "overlay_43/*" "overlay_44/*" "overlay_48_2/*" "overlay_65/*" "overlay_70/*"
-        working-directory: src/add_on
       - name: Create resourcepack zip file
         run: zip -r ${{env.name}}-${{env.tag}}-resourcepack.zip . -x ".git/*" ".github/*" ".gitattributes" "supported_versions.txt" "add_on/*" "data/*" "overlay_48/*" "overlay_49/*" "overlay_58/*" "overlay_59/*" "overlay_63/*" "overlay_82/*" "overlay_89/*"
         working-directory: src
+      - name: Create add-on datapack zip file
+        run: zip -r ../${{env.name}}-${{env.tag}}-more-trim-materials-addon.zip . -x "assets/*" "overlay_34/*" "overlay_43/*" "overlay_44/*" "overlay_48_2/*" "overlay_65/*" "overlay_70/*"
+        working-directory: src/add_on
+      - name: Create add-on resourcepack zip file
+        run: zip -r ../${{env.name}}-${{env.tag}}-more-trim-materials-addon-resourcepack.zip . -x "data/*" "overlay_48/*" "overlay_49/*" "overlay_58/*" "overlay_59/*" "overlay_63/*" "overlay_82/*" "overlay_89/*"
+        working-directory: src/add_on
       - name: Read supported versions
         uses: andstor/file-reader-action@v1
         id: read_file
