@@ -48,7 +48,7 @@ jobs:
           project: aa6VCPUX
           name: Tool Trim ${{env.tag}}
           version: ${{env.tag}}
-          files: '["src/${{env.name}}-${{env.tag}}-more-trim-materials-addon-resourcepack.zip", "src/${{env.name}}-${{env.tag}}-more-trim-materials-addon.zip", "src/${{env.name}}-${{env.tag}}-resourcepack.zip"]'
+          files: '["src/${{env.name}}-${{env.tag}}-more-trim-materials-addon-resourcepack.zip", "src/${{env.name}}-${{env.tag}}-more-trim-materials-addon.zip", "src/${{env.name}}-${{env.tag}}-resourcepack.zip", "src/${{env.name}}-${{env.tag}}.zip"]'
           primary-file: ${{env.name}}-${{env.tag}}.zip
           file-types: '{"${{env.name}}-${{env.tag}}-more-trim-materials-addon-resourcepack.zip": "optional-resource-pack", "${{env.name}}-${{env.tag}}-resourcepack.zip": "required-resource-pack"}'
           game-versions: ${{steps.read_file.outputs.contents}}
