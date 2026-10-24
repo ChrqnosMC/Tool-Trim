@@ -1,16 +1,16 @@
 {
   "pack": {
-    "pack_format": 110,
+    "pack_format": 121,
     "supported_formats": [
 		34,
-		110
+		121
 	],
 	"min_format": [
 		34,
 		0
 	],
 	"max_format": [
-		110,
+		121,
 		0
 	],
     "description": "Tool Trim & More Trim Materials"
@@ -80,15 +80,15 @@
 			{
 				"formats": [
 					48,
-					90
+					97
 				],
 				"min_format": [
 					48,
 					0
 				],
 				"max_format": [
-					90,
-					0
+					97,
+					1
 				],
 				"directory": "overlay_48_2"
 			},
@@ -125,14 +125,14 @@
 			{
 				"formats": [
 					63,
-					110
+					121
 				],
 				"min_format": [
 					63,
 					0
 				],
 				"max_format": [
-					110,
+					121,
 					0
 				],
 				"directory": "overlay_63"
@@ -140,44 +140,44 @@
 			{
 				"formats": [
 					65,
-					91
+					97
 				],
 				"min_format": [
 					65,
 					0
 				],
 				"max_format": [
-					91,
-					0
+					97,
+					1
 				],
 				"directory": "overlay_65"
 			},
 			{
 				"formats": [
 					70,
-					91
+					97
 				],
 				"min_format": [
 					70,
 					0
 				],
 				"max_format": [
-					91,
-					0
+					97,
+					1
 				],
 				"directory": "overlay_70"
 			},
 			{
 				"formats": [
 					82,
-					110
+					121
 				],
 				"min_format": [
 					82,
 					0
 				],
 				"max_format": [
-					110,
+					121,
 					0
 				],
 				"directory": "overlay_82"
@@ -185,14 +185,14 @@
 			{
 				"formats": [
 					89,
-					110
+					121
 				],
 				"min_format": [
 					89,
 					0
 				],
 				"max_format": [
-					110,
+					121,
 					0
 				],
 				"directory": "overlay_89"
